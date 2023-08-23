@@ -1,0 +1,103 @@
+<#--solution传递参数：solution:{}、solutionSections:[]、solutionItems:{xxx: []}-->
+
+<#--标题-->
+<h2 class="sxH2">${solution.name}</h2>
+
+<#--描述-->
+<#if solution.description??>
+<blockquote class='big-quote'>
+        ${solution.description}
+</blockquote>
+</#if>
+
+<#--LOGO-->
+<div style="width:100%;"><img src="${solution.logo!''}" style="object-fit:cover;width:100%;"/></div>
+
+<#--标签-->
+<div class="sxTags">
+	<#list solution.tags?split(" ") as tag>
+	<#assign nextRandom = .now?string["HHmmssSSS"]?number>
+	<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+	</#list>
+</div>
+
+<#--按照solutionSections展示section列表-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+	<br/>
+	<#--section标题-->
+	<div class="main sxH3">
+		<span class="distributor">${section.name}</span>
+	</div>
+
+	<#--sectionItems列表：结构为{sectionId: []}-->
+	<#assign items = sectionItems[section.id]>
+
+	<#--包含有spu及关联的sku列表-->
+	<#--显示SPU及SKU详情-->
+	<#list items as item>
+		<#--spu标题-->
+		<div class="main sxH3">
+			<span class="distributor">${item.spu.name}</span>
+		</div>
+		<#--显示所有SKU-->
+		<#list item.sku as sku>
+			<div style="display:flex;flex-diredtion:row;">
+				<div style="width:5%;">
+					<img src="https://www.biglistoflittlethings.com/static/proposal/type/${sku.type.item}.png" style="object-fit:cover;width:100%"/>
+				</div>
+				<div style="width:95%;">
+					<div class="distributor">${sku.name}</div>
+					<div class="distributor">${sku.summary}</div>
+					<#--图片列表：每个条目显示3张-->
+					<div class="grid">
+					<#list sku.images as img>
+					<#--if img_index<3-->
+						<div class="grid-image"><img src="${img}" style="object-fit:cover;width:100%"/></div>
+					<#--/#if--->
+					</#list>
+					</div>	
+				</div>
+			</div>
+			<div class="distributor">${sku.name}</div>
+			<div class="distributor">${sku.summary}</div>
+			<#--图片列表：每个条目显示3张-->
+			<div class="grid">
+			<#list sku.images as img>
+			<#--if img_index<3-->
+				<div class="grid-image"><img src="${img}" style="object-fit:cover;width:100%"/></div>
+			<#--/#if--->
+			</#list>
+			</div>			
+		</#list>		
+	</#list>
+</#list>
+
+<#--价格-->
+<#if solution.price?? && solution.price?is_number> 
+	<div class="price">
+			<div class="price-sale">${solution.price}</div>
+	</div>
+</#if>
+
+<#--私域：小程序码及客服二维码-：客服二维码随机显示一个即可->
+<div class="grid">
+	<#if solution.miniprogQrcode >
+		<div>前往购买</div>
+		<div class="grid-image"><img src="${solution.miniprogQrcode}" style="object-fit:cover;width:100%"/></div>
+	<#/#if>
+	<#if solution.customerServiceQrcode >
+		<div>立即定制</div>
+		<div class="grid-image"><img src="${solution.customerServiceQrcode}" style="object-fit:cover;width:100%"/></div>
+	<#/#if>	
+</div>	
+
+<#--公域：电商平台链接：包含有电商平台发布链接则直接显示-->
+<#list solution.publishProducts as publishProduct> 
+	<div class="jump">
+		<a href="${publishProduct.publishUrl}" target="_new">前往 ${publishProduct.platformSourceId_dictText} </a>
+	</div>
+</#list>
+
+
+
