@@ -1,0 +1,123 @@
+<#--note传递参数：note:{}、solution:{}、solutionSections:[]、solutionItems:{xxx:[]}、noteItems:{xxx: []}-->
+<#--其中：solutionItems键值为sectionId，value为对应section下的条目列表；noteItems键值为SolutionItemId，value为对应SolutionItemId下的条目列表-->
+
+<#--标题-->
+<h2 class="sxH2">${note.name}</h2>
+
+<#--描述-->
+<#if note.description??>
+	<blockquote class='big-quote'>
+	        ${note.description}
+	</blockquote>
+</#if>
+
+<#--LOGO-->
+<div style="width:100%;"><img src="${note.logo!''}" style="object-fit:cover;width:100%;"/></div>
+
+<#--标签：包含标签及extJson属性-->
+<div class="sxTags">
+	<#list note.tags?split(" ") as tag>
+		<#assign nextRandom = .now?string["HHmmssSSS"]?number>
+		<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+	</#list>
+
+	<#--基础信息：逐条显示关联solution的 extJson。需要预先准备键值对。作为标签展示-->
+	<#if solution.extJson?? >
+	    <#list solution.extJson?keys as key>
+		<#if solution.extJson[key]?? >
+		    <span class="sxTag">${key}/${solution.extJson[key]!}</span>
+	    	</#if>	
+	    </#list>
+	</#if>	
+
+</div>
+
+<#--按照solutionSections展示section列表-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+	<br/>
+	<#--section标题-->
+	<div class="main sxH3">
+		<span>${section.name}</span>
+	</div>
+
+	<#--SolutionItems列表：从solutionItems中获取，其结构为{sectionId: []}-->
+	<#assign items = solutionItems[section.id]>
+
+	<#--包含有spu及关联的item.spu列表-->
+	<#--显示SPU及item.spu详情-->
+	<#list items as item>
+		<#--spu标题-->
+		<div>
+			<h3>${item.name}</h3>
+		</div>
+		<#if item.summary?? >
+			<div>
+				${item.summary}
+			</div>
+		</#if>
+		<#--显示solutionItem详情：组织在solutionItem.spu内-->
+		<div style="display:flex;flex-diredtion:row;">
+			<div style="width:5%;text-align:center;margin: 0 auto;">
+				<#--spu数据中type存在string及对象两种情况-->
+				<#assign itemType = item.spu.type!'scene'>
+				<#if itemType?is_string >
+					<img src="https://www.biglistoflittlethings.com/static/proposal/type/${itemType}.png" style="object-fit:cover;width:32px"/>
+				<#else>
+					<img src="https://www.biglistoflittlethings.com/static/proposal/type/${itemType.item!'scene'}.png" style="object-fit:cover;width:32px"/>
+				</#if>
+			</div>
+			<div style="width:95%;">
+				<div>${item.spu.name}</div>
+				<#if item.spu.summary?? >
+					<div>${item.spu.summary}</div>
+				</#if>
+				<#--图片列表：显示为grid，可控制显示张数。当前未限制-->
+				<#if item.spu.images?? >
+					<div style="display:flex;flex-flow:row wrap;align-content: flex-start;">
+						<#list item.spu.images as img>
+							<#--if img_index<3-->
+							<div style="width:240px;border-radius:10px;margin:5px;">
+								<img src="${img}" style="width:240px;height:135px;border-radius:10px;object-fit:cover;"/>
+							</div>
+							<#--/#if--->
+						</#list>
+					</div>					
+				</#if>				
+			</div>
+		</div>	
+
+	</#list>
+
+	<#--显示section下的 noteItem详情-->
+	<#--NoteItems列表：从solutionItems中获取，其结构为{solutionItemId: []} 注意：当前noteItem未关联到solutionItem，而是直接放在section下-->
+	<#assign nItems = noteItems[section.id]>
+	<#list nItems as nItem>
+		<#--直接显示内容-->
+		<div>${nItem.content}</div>	
+	</#list>
+
+</#list>
+
+<#--私域：小程序码及客服二维码-：客服二维码随机显示一个即可->
+<div class="grid">
+	<#if qrcodes?? && qrcodes.miniprog?? >
+		<div>前往购买</div>
+		<div class="grid-image"><img src="${qrcodes.miniprog}" style="object-fit:cover;width:100%"/></div>
+	<#/#if>
+	<#if qrcodes?? && qrcodes.customerService >
+		<div>立即定制</div>
+		<div class="grid-image"><img src="${qrcodes.customerService}" style="object-fit:cover;width:100%"/></div>
+	<#/#if>	
+</div>	
+
+<#--公域：电商平台链接：包含有电商平台发布链接则直接显示-->
+<#if publishProducts?? && (publishProducts?size > 0) >
+	<#list publishProducts as publishProduct> 
+		<div class="jump">
+			<a href="${publishProduct.publishUrl}" target="_new">前往 ${publishProduct.platformSourceId_dictText} </a>
+		</div>
+	</#list>
+</#if>
+
+

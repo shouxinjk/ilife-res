@@ -1,0 +1,94 @@
+<#--spu传递参数为spu: {}-->
+
+<#--标题-->
+<h2 class="sxH2">${spu.name}</h2>
+
+<#--描述-->
+<#if spu.summary??>
+	<blockquote class='big-quote'>
+	        ${spu.summary}
+	</blockquote>
+</#if>
+
+<#--LOGO-->
+<div style="width:100%;"><img src="${spu.logo!''}" style="object-fit:cover;width:100%;"/></div>
+
+<#--标签：包含标签，支持空格分隔的字符串，或字符数组-->
+<#if spu.tags?? >
+	<div class="sxTags">
+		<#if spu.tags?is_string >
+			<#list spu.tags?split(" ") as tag>
+				<#assign nextRandom = .now?string["HHmmssSSS"]?number>
+				<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+			</#list>
+		<#else>
+			<#list spu.tags as tag>
+				<#assign nextRandom = .now?string["HHmmssSSS"]?number>
+				<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+			</#list>
+		</#if>
+	</div>
+</#if>	
+
+<#--基础信息：包含在props内，显示为小图标加数值。需要预先准备键值对及图标。作为标签展示-->
+<#if spu.props?? >
+	<div class="sxTags">
+	    <#list spu.props?keys as key>
+			<#if spu.props[key]?? >
+			    <span class="sxTag">${key}/${spu.props[key]!}</span>
+	    	</#if>	
+	    </#list>
+    </div>
+</#if>	
+
+<#--图文内容-->
+<#if spu.content?? >
+	<div>
+		${spu.content}
+	</div>
+</#if>
+
+<#--图片列表：显示为grid，可控制显示张数。当前未限制-->
+<#if spu.images?? >
+	<div style="display:flex;flex-flow:row wrap;align-content: flex-start;">
+		<#list spu.images as img>
+			<#--if img_index<3-->
+			<div style="width:240px;border-radius:10px;margin:5px;">
+				<img src="${img}" style="width:240px;height:135px;border-radius:10px;object-fit:cover;"/>
+			</div>
+			<#--/#if--->
+		</#list>
+	</div>					
+</#if>
+
+<#--TBC：需要添加policy、cost等相关内容条目。支持动态扩展-->
+
+<#--价格-->
+<#if spu.price??> 
+	<div class="price">
+			<div class="price-sale">${spu.price.currency!''} ${spu.price.sale!'实时报价'}</div>
+	</div>
+</#if>
+
+<#--私域：小程序码及客服二维码-：客服二维码随机显示一个即可->
+<div class="grid">
+	<#if qrcodes?? && qrcodes.miniprog?? >
+		<div>前往购买</div>
+		<div class="grid-image"><img src="${qrcodes.miniprog}" style="object-fit:cover;width:100%"/></div>
+	<#/#if>
+	<#if qrcodes?? && qrcodes.customerService >
+		<div>立即定制</div>
+		<div class="grid-image"><img src="${qrcodes.customerService}" style="object-fit:cover;width:100%"/></div>
+	<#/#if>	
+</div>	
+
+<#--公域：电商平台链接：包含有电商平台发布链接则直接显示-->
+<#if publishProducts?? && (publishProducts?size > 0) >
+	<#list publishProducts as publishProduct> 
+		<div class="jump">
+			<a href="${publishProduct.publishUrl}" target="_new">前往 ${publishProduct.platformSourceId_dictText} </a>
+		</div>
+	</#list>
+</#if>
+
+
