@@ -16,8 +16,7 @@
 <#--标签：包含标签及extJson属性-->
 <div class="sxTags">
 	<#list solution.tags?split(" ") as tag>
-		<#assign nextRandom = .now?string["HHmmssSSS"]?number>
-		<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+		<span class="sxTag">${tag}</span>
 	</#list>
 
 	<#--基础信息：逐条显示 extJson。需要预先准备键值对。作为标签展示-->

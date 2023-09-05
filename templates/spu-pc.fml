@@ -18,13 +18,11 @@
 	<div class="sxTags">
 		<#if spu.tags?is_string >
 			<#list spu.tags?split(" ") as tag>
-				<#assign nextRandom = .now?string["HHmmssSSS"]?number>
-				<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+				<span class="sxTag">${tag}</span>
 			</#list>
 		<#else>
 			<#list spu.tags as tag>
-				<#assign nextRandom = .now?string["HHmmssSSS"]?number>
-				<span class="sxTag tag-color-${tag_index%8}">${tag}</span>
+				<span class="sxTag">${tag}</span>
 			</#list>
 		</#if>
 	</div>
