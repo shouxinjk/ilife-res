@@ -1,0 +1,493 @@
+<#--solution传递参数：solution:{}、solutionSections:[]、solutionItems:{xxx: []}-->
+<section class="ProseMirror-article" style="padding:0px;background-color:#BDE7FF;max-width:none !important;display:flex;flex-direction:column;">
+
+<#--上方引导关注-->
+<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="关注引导" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 10px 0px 10px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+data-ism="1" data-label="follow" data-gtype="" data-sid="0.36859460348701"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url("data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9Ijg0IiB3aWR0aD0iNjY4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuOTk5OTQ3NDI4NzAzMzA4IDAuOTk5MDkxMTQ4Mzc2NDY0OCA2NjguMDAwMDQzNjMwNiA4NC4wMDA2OTgwODk1OTk2MSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzM1NzdDQSIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTYyMS45OTk5ODU1NzU2NzYgMC45OTkwOTExNDgzNzY0NjQ4QzYyMS45OTk5ODU1NzU2NzYgMC45OTkwOTExNDgzNzY0NjQ4IDEuOTk5OTQ3NDI4NzAzMzA4IDAuOTk5MDkxMTQ4Mzc2NDY0OCAxLjk5OTk0NzQyODcwMzMwOCAwLjk5OTA5MTE0ODM3NjQ2NDhDMS45OTk5NDc0Mjg3MDMzMDggMC45OTkwOTExNDgzNzY0NjQ4IDEuOTk5OTQ3NDI4NzAzMzA4IDAuOTk5MDkxMTQ4Mzc2NDY0OCAxLjk5OTk0NzQyODcwMzMwOCAwLjk5OTA5MTE0ODM3NjQ2NDhDMS45OTk5NDc0Mjg3MDMzMDggMC45OTkwOTExNDgzNzY0NjQ4IDEuOTk5OTQ3NDI4NzAzMzA4IDg0Ljk5OTc4OTIzNzk3NjA3IDEuOTk5OTQ3NDI4NzAzMzA4IDg0Ljk5OTc4OTIzNzk3NjA3QzEuOTk5OTQ3NDI4NzAzMzA4IDg0Ljk5OTc4OTIzNzk3NjA3IDEuOTk5OTQ3NDI4NzAzMzA4IDg0Ljk5OTc4OTIzNzk3NjA3IDEuOTk5OTQ3NDI4NzAzMzA4IDg0Ljk5OTc4OTIzNzk3NjA3QzEuOTk5OTQ3NDI4NzAzMzA4IDg0Ljk5OTc4OTIzNzk3NjA3IDY2OS45OTk5OTEwNTkzMDMzIDg0Ljk5OTc4OTIzNzk3NjA3IDY2OS45OTk5OTEwNTkzMDMzIDg0Ljk5OTc4OTIzNzk3NjA3QzY2OS45OTk5OTEwNTkzMDMzIDg0Ljk5OTc4OTIzNzk3NjA3IDY2OS45OTk5OTEwNTkzMDMzIDg0Ljk5OTc4OTIzNzk3NjA3IDY2OS45OTk5OTEwNTkzMDMzIDg0Ljk5OTc4OTIzNzk3NjA3QzY2OS45OTk5OTEwNTkzMDMzIDg0Ljk5OTc4OTIzNzk3NjA3IDY2OS45OTk5OTEwNTkzMDMzIDQ4Ljk5OTAyNTM0NDg0ODYzIDY2OS45OTk5OTEwNTkzMDMzIDQ4Ljk5OTAyNTM0NDg0ODYzQzY2OS45OTk5OTEwNTkzMDMzIDIyLjQ4OTM4MTc5MDE2MTEzMyA2NDguNTA5NDcwODIwNDI2OSAwLjk5OTA5MTE0ODM3NjQ2NDggNjIxLjk5OTk4NTU3NTY3NiAwLjk5OTA5MTE0ODM3NjQ2NDggWiIgLz4KCiAgICA8L3N2Zz4=");background-position:right 0px center;background-repeat:no-repeat;background-size:95.15669515669516% 100%;margin:0px 0px 0px 0px;padding:0px 10px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/82115624-29f4-46ee-8ea1-e649d204a37b8308870.png');background-position:left 0px bottom 0px;background-repeat:no-repeat;background-size:28px 28px;margin:0px 0px 0px 0px;padding:0px 0px 0px 30px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+			style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#FFFFFF;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+			data-placeholder="附加说明">
+				<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+					点击上方「蓝字」关注我们
+				</span>
+			</p>
+		</section>
+	</section>
+</section>
+
+<#--LOGO-->
+<section class="ProseMirror-node ProseMirror-blockImage"
+title="图片" style="box-sizing:border-box;margin:0px 0px 26px 0px;padding:0px 1px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:930,&quot;naturalHeight&quot;:570}"
+data-ism="0" data-label="" data-gtype="" data-sid="0.9697287603723495"
+data-rsid="0" data-mid="100022671">
+	<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+	style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+		<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+		src="${solution.logo!'https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg'}"
+		alt="图片" title="图片">
+	</section>
+</section>
+
+<#--描述-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="文字卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 10px 0px 9px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="textCard" data-gtype="container" data-sid="0.04019335915805344"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ1NCIgd2lkdGg9IjEwODkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS40OTk4NjE4MzY0MzM0MTA2IDEuNDk5OTIyNzUyMzgwMzcxIDEwODguOTk5OTc2OTkyNjA3MSA0NTMuOTk4OTk3Njg4MjkzNDYiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiNGRkZGRkYiICBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0iIzM1NzdDQSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgZD0iTTIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTkyMjc1MjM4MDM3MUMyLjk5OTg2MTgzNjQzMzQxMDYgMi45OTk5MjI3NTIzODAzNzEgMTA4OC45OTk4Mzg4MjkwNDA1IDIuOTk5OTIyNzUyMzgwMzcxIDEwODguOTk5ODM4ODI5MDQwNSAyLjk5OTkyMjc1MjM4MDM3MUMxMDg4Ljk5OTgzODgyOTA0MDUgMi45OTk5MjI3NTIzODAzNzEgMTA4OC45OTk4Mzg4MjkwNDA1IDIuOTk5OTIyNzUyMzgwMzcxIDEwODguOTk5ODM4ODI5MDQwNSAyLjk5OTkyMjc1MjM4MDM3MUMxMDg4Ljk5OTgzODgyOTA0MDUgMi45OTk5MjI3NTIzODAzNzEgMTA4OC45OTk4Mzg4MjkwNDA1IDQ1My45OTg5MjA0NDA2NzM4IDEwODguOTk5ODM4ODI5MDQwNSA0NTMuOTk4OTIwNDQwNjczOEMxMDg4Ljk5OTgzODgyOTA0MDUgNDUzLjk5ODkyMDQ0MDY3MzggMTA4OC45OTk4Mzg4MjkwNDA1IDQ1My45OTg5MjA0NDA2NzM4IDEwODguOTk5ODM4ODI5MDQwNSA0NTMuOTk4OTIwNDQwNjczOEMxMDg4Ljk5OTgzODgyOTA0MDUgNDUzLjk5ODkyMDQ0MDY3MzggMi45OTk4NjE4MzY0MzM0MTA2IDQ1My45OTg5MjA0NDA2NzM4IDIuOTk5ODYxODM2NDMzNDEwNiA0NTMuOTk4OTIwNDQwNjczOEMyLjk5OTg2MTgzNjQzMzQxMDYgNDUzLjk5ODkyMDQ0MDY3MzggMi45OTk4NjE4MzY0MzM0MTA2IDQ1My45OTg5MjA0NDA2NzM4IDIuOTk5ODYxODM2NDMzNDEwNiA0NTMuOTk4OTIwNDQwNjczOEMyLjk5OTg2MTgzNjQzMzQxMDYgNDUzLjk5ODkyMDQ0MDY3MzggMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5OTIyNzUyMzgwMzcxIDIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTkyMjc1MjM4MDM3MUMyLjk5OTg2MTgzNjQzMzQxMDYgMi45OTk5MjI3NTIzODAzNzEgMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5OTIyNzUyMzgwMzcxIDIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTkyMjc1MjM4MDM3MSBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:center bottom 0px;background-repeat:no-repeat;background-size:100% 76.1744966442953%;margin:0px 0px 0px 0px;padding:0px 13px 10px 26px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMC45OTk4MjM2ODk0NjA3NTQ0IDAuOTk5NDg1OTY5NTQzNDU3IDIzLjAwMDA5MjUwNjQwODY5IDIyLjk5OTY3NDc5NzA1ODEwNSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0E1QkVGMyIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEyLjQ5OTg2OTk0MjY2NTEgMC45OTk0ODU5Njk1NDM0NTdDMTIuNDk5ODY5OTQyNjY1MSAwLjk5OTQ4NTk2OTU0MzQ1NyAyMy45OTk5MTYxOTU4Njk0NDYgMjMuOTk5MTYwNzY2NjAxNTYyIDIzLjk5OTkxNjE5NTg2OTQ0NiAyMy45OTkxNjA3NjY2MDE1NjJDMjMuOTk5OTE2MTk1ODY5NDQ2IDIzLjk5OTE2MDc2NjYwMTU2MiAwLjk5OTgyMzY4OTQ2MDc1NDQgMjMuOTk5MTYwNzY2NjAxNTYyIDAuOTk5ODIzNjg5NDYwNzU0NCAyMy45OTkxNjA3NjY2MDE1NjJDMC45OTk4MjM2ODk0NjA3NTQ0IDIzLjk5OTE2MDc2NjYwMTU2MiAxMi40OTk4Njk5NDI2NjUxIDAuOTk5NDg1OTY5NTQzNDU3IDEyLjQ5OTg2OTk0MjY2NTEgMC45OTk0ODU5Njk1NDM0NTcgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:8px 8px;margin:0px 0px 0px 0px;padding:0px 12px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk0NTkxNDc0NTMzMDggMS45OTg0MDE2NDE4NDU3MDMxIDIyLjk5OTg5NjQwNzEyNzM4IDIzLjAwMDc1OTEyNDc1NTg2Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSIjRkFFN0M0IiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMTMuNDk5MzA5MzAxMzc2MzQzIDEuOTk4NDAxNjQxODQ1NzAzMUMxOS44NTA5NjUwMjMwNDA3NyAxLjk5ODQwMTY0MTg0NTcwMzEgMjQuOTk5MzU1NTU0NTgwNjkgNy4xNDY3ODk1NTA3ODEyNSAyNC45OTkzNTU1NTQ1ODA2OSAxMy40OTg3ODEyMDQyMjM2MzNDMjQuOTk5MzU1NTU0NTgwNjkgMTkuODUwNzcyODU3NjY2MDE2IDE5Ljg1MDk2NTAyMzA0MDc3IDI0Ljk5OTE2MDc2NjYwMTU2MiAxMy40OTkzMDkzMDEzNzYzNDMgMjQuOTk5MTYwNzY2NjAxNTYyQzcuMTQ4NDM3OTc2ODM3MTU4IDI0Ljk5OTE2MDc2NjYwMTU2MiAxLjk5OTQ1OTE0NzQ1MzMwOCAxOS44NTA3NzI4NTc2NjYwMTYgMS45OTk0NTkxNDc0NTMzMDggMTMuNDk4NzgxMjA0MjIzNjMzQzEuOTk5NDU5MTQ3NDUzMzA4IDcuMTQ2Nzg5NTUwNzgxMjUgNy4xNDg0Mzc5NzY4MzcxNTggMS45OTg0MDE2NDE4NDU3MDMxIDEzLjQ5OTMwOTMwMTM3NjM0MyAxLjk5ODQwMTY0MTg0NTcwMzEgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 3px bottom 0px;background-repeat:no-repeat;background-size:8px 8px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTcgMjMuMDAwMDkyNTA2NDA4NjkgMjIuOTk5Njc0Nzk3MDU4MTA1Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSIjNUZCM0VEIiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTdDMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTcgMjMuOTk5OTcxNTA4OTc5Nzk3IDAuOTk5NDg1OTY5NTQzNDU3IDIzLjk5OTk3MTUwODk3OTc5NyAwLjk5OTQ4NTk2OTU0MzQ1N0MyMy45OTk5NzE1MDg5Nzk3OTcgMC45OTk0ODU5Njk1NDM0NTcgMjMuOTk5OTcxNTA4OTc5Nzk3IDAuOTk5NDg1OTY5NTQzNDU3IDIzLjk5OTk3MTUwODk3OTc5NyAwLjk5OTQ4NTk2OTU0MzQ1N0MyMy45OTk5NzE1MDg5Nzk3OTcgMC45OTk0ODU5Njk1NDM0NTcgMjMuOTk5OTcxNTA4OTc5Nzk3IDIzLjk5OTE2MDc2NjYwMTU2MiAyMy45OTk5NzE1MDg5Nzk3OTcgMjMuOTk5MTYwNzY2NjAxNTYyQzIzLjk5OTk3MTUwODk3OTc5NyAyMy45OTkxNjA3NjY2MDE1NjIgMjMuOTk5OTcxNTA4OTc5Nzk3IDIzLjk5OTE2MDc2NjYwMTU2MiAyMy45OTk5NzE1MDg5Nzk3OTcgMjMuOTk5MTYwNzY2NjAxNTYyQzIzLjk5OTk3MTUwODk3OTc5NyAyMy45OTkxNjA3NjY2MDE1NjIgMC45OTk4NzkwMDI1NzExMDYgMjMuOTk5MTYwNzY2NjAxNTYyIDAuOTk5ODc5MDAyNTcxMTA2IDIzLjk5OTE2MDc2NjYwMTU2MkMwLjk5OTg3OTAwMjU3MTEwNiAyMy45OTkxNjA3NjY2MDE1NjIgMC45OTk4NzkwMDI1NzExMDYgMjMuOTk5MTYwNzY2NjAxNTYyIDAuOTk5ODc5MDAyNTcxMTA2IDIzLjk5OTE2MDc2NjYwMTU2MkMwLjk5OTg3OTAwMjU3MTEwNiAyMy45OTkxNjA3NjY2MDE1NjIgMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTcgMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTdDMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTcgMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTcgMC45OTk4NzkwMDI1NzExMDYgMC45OTk0ODU5Njk1NDM0NTcgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 17px bottom 0px;background-repeat:no-repeat;background-size:8px 8px;margin:0px 0px 0px 0px;padding:0px 0px 11px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+					style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+						<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+						title="卡片标题" style="box-sizing:border-box;margin:0px 0px 41px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+						data-ism="0" data-label="" data-gtype="" data-sid="0.6688469266689241"
+						data-rsid="0">
+							<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjkyIiB3aWR0aD0iMjY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuOTk5ODM1MjUyNzYxODQwOCAxLjk5OTg3MDMwMDI5Mjk2ODggMjY0LjAwMDAzMDE1OTk1MDI2IDkxLjk5OTc4MzUxNTkzMDE4Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSIjRkZGRkZGIiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMS45OTk4MzUyNTI3NjE4NDA4IDEuOTk5ODcwMzAwMjkyOTY4OEMxLjk5OTgzNTI1Mjc2MTg0MDggMS45OTk4NzAzMDAyOTI5Njg4IDI2NS45OTk4NjU0MTI3MTIxIDEuOTk5ODcwMzAwMjkyOTY4OCAyNjUuOTk5ODY1NDEyNzEyMSAxLjk5OTg3MDMwMDI5Mjk2ODhDMjY1Ljk5OTg2NTQxMjcxMjEgMS45OTk4NzAzMDAyOTI5Njg4IDI2NS45OTk4NjU0MTI3MTIxIDEuOTk5ODcwMzAwMjkyOTY4OCAyNjUuOTk5ODY1NDEyNzEyMSAxLjk5OTg3MDMwMDI5Mjk2ODhDMjY1Ljk5OTg2NTQxMjcxMjEgMS45OTk4NzAzMDAyOTI5Njg4IDI2NS45OTk4NjU0MTI3MTIxIDkzLjk5OTY1MzgxNjIyMzE0IDI2NS45OTk4NjU0MTI3MTIxIDkzLjk5OTY1MzgxNjIyMzE0QzI2NS45OTk4NjU0MTI3MTIxIDkzLjk5OTY1MzgxNjIyMzE0IDI2NS45OTk4NjU0MTI3MTIxIDkzLjk5OTY1MzgxNjIyMzE0IDI2NS45OTk4NjU0MTI3MTIxIDkzLjk5OTY1MzgxNjIyMzE0QzI2NS45OTk4NjU0MTI3MTIxIDkzLjk5OTY1MzgxNjIyMzE0IDEuOTk5ODM1MjUyNzYxODQwOCA5My45OTk2NTM4MTYyMjMxNCAxLjk5OTgzNTI1Mjc2MTg0MDggOTMuOTk5NjUzODE2MjIzMTRDMS45OTk4MzUyNTI3NjE4NDA4IDkzLjk5OTY1MzgxNjIyMzE0IDEuOTk5ODM1MjUyNzYxODQwOCA5My45OTk2NTM4MTYyMjMxNCAxLjk5OTgzNTI1Mjc2MTg0MDggOTMuOTk5NjUzODE2MjIzMTRDMS45OTk4MzUyNTI3NjE4NDA4IDkzLjk5OTY1MzgxNjIyMzE0IDEuOTk5ODM1MjUyNzYxODQwOCAxLjk5OTg3MDMwMDI5Mjk2ODggMS45OTk4MzUyNTI3NjE4NDA4IDEuOTk5ODcwMzAwMjkyOTY4OEMxLjk5OTgzNTI1Mjc2MTg0MDggMS45OTk4NzAzMDAyOTI5Njg4IDEuOTk5ODM1MjUyNzYxODQwOCAxLjk5OTg3MDMwMDI5Mjk2ODggMS45OTk4MzUyNTI3NjE4NDA4IDEuOTk5ODcwMzAwMjkyOTY4OCBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+								<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjExIiB3aWR0aD0iMjY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuOTk5MDUwODU1NjM2NTk2NyAxLjk5OTE0OTMyMjUwOTc2NTYgMjY0LjAwMDIyNjI1OTIzMTU3IDEwLjk5OTQyMDE2NjAxNTYyNSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzM1NzdDQSIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEuOTk5MDUwODU1NjM2NTk2NyA3Ljk5ODczNDQ3NDE4MjEyOUMxLjk5OTA1MDg1NTYzNjU5NjcgNy45OTg3MzQ0NzQxODIxMjkgMjY1Ljk5OTI3NzExNDg2ODE2IDcuOTk4NzM0NDc0MTgyMTI5IDI2NS45OTkyNzcxMTQ4NjgxNiA3Ljk5ODczNDQ3NDE4MjEyOUMyNjUuOTk5Mjc3MTE0ODY4MTYgNy45OTg3MzQ0NzQxODIxMjkgMjY1Ljk5OTI3NzExNDg2ODE2IDcuOTk4NzM0NDc0MTgyMTI5IDI2NS45OTkyNzcxMTQ4NjgxNiA3Ljk5ODczNDQ3NDE4MjEyOUMyNjUuOTk5Mjc3MTE0ODY4MTYgNy45OTg3MzQ0NzQxODIxMjkgMjY1Ljk5OTI3NzExNDg2ODE2IDEyLjk5ODU2OTQ4ODUyNTM5IDI2NS45OTkyNzcxMTQ4NjgxNiAxMi45OTg1Njk0ODg1MjUzOUMyNjUuOTk5Mjc3MTE0ODY4MTYgMTIuOTk4NTY5NDg4NTI1MzkgMjY1Ljk5OTI3NzExNDg2ODE2IDEyLjk5ODU2OTQ4ODUyNTM5IDI2NS45OTkyNzcxMTQ4NjgxNiAxMi45OTg1Njk0ODg1MjUzOUMyNjUuOTk5Mjc3MTE0ODY4MTYgMTIuOTk4NTY5NDg4NTI1MzkgMS45OTkwNTA4NTU2MzY1OTY3IDEyLjk5ODU2OTQ4ODUyNTM5IDEuOTk5MDUwODU1NjM2NTk2NyAxMi45OTg1Njk0ODg1MjUzOUMxLjk5OTA1MDg1NTYzNjU5NjcgMTIuOTk4NTY5NDg4NTI1MzkgMS45OTkwNTA4NTU2MzY1OTY3IDEyLjk5ODU2OTQ4ODUyNTM5IDEuOTk5MDUwODU1NjM2NTk2NyAxMi45OTg1Njk0ODg1MjUzOUMxLjk5OTA1MDg1NTYzNjU5NjcgMTIuOTk4NTY5NDg4NTI1MzkgMS45OTkwNTA4NTU2MzY1OTY3IDcuOTk4NzM0NDc0MTgyMTI5IDEuOTk5MDUwODU1NjM2NTk2NyA3Ljk5ODczNDQ3NDE4MjEyOUMxLjk5OTA1MDg1NTYzNjU5NjcgNy45OTg3MzQ0NzQxODIxMjkgMS45OTkwNTA4NTU2MzY1OTY3IDcuOTk4NzM0NDc0MTgyMTI5IDEuOTk5MDUwODU1NjM2NTk2NyA3Ljk5ODczNDQ3NDE4MjEyOSBaIE0xLjk5OTA1MDg1NTYzNjU5NjcgMS45OTkxNDkzMjI1MDk3NjU2QzEuOTk5MDUwODU1NjM2NTk2NyAxLjk5OTE0OTMyMjUwOTc2NTYgMjY1Ljk5OTI3NzExNDg2ODE2IDEuOTk5MTQ5MzIyNTA5NzY1NiAyNjUuOTk5Mjc3MTE0ODY4MTYgMS45OTkxNDkzMjI1MDk3NjU2QzI2NS45OTkyNzcxMTQ4NjgxNiAxLjk5OTE0OTMyMjUwOTc2NTYgMjY1Ljk5OTI3NzExNDg2ODE2IDEuOTk5MTQ5MzIyNTA5NzY1NiAyNjUuOTk5Mjc3MTE0ODY4MTYgMS45OTkxNDkzMjI1MDk3NjU2QzI2NS45OTkyNzcxMTQ4NjgxNiAxLjk5OTE0OTMyMjUwOTc2NTYgMjY1Ljk5OTI3NzExNDg2ODE2IDMuOTk4NjQ5NTk3MTY3OTY4OCAyNjUuOTk5Mjc3MTE0ODY4MTYgMy45OTg2NDk1OTcxNjc5Njg4QzI2NS45OTkyNzcxMTQ4NjgxNiAzLjk5ODY0OTU5NzE2Nzk2ODggMjY1Ljk5OTI3NzExNDg2ODE2IDMuOTk4NjQ5NTk3MTY3OTY4OCAyNjUuOTk5Mjc3MTE0ODY4MTYgMy45OTg2NDk1OTcxNjc5Njg4QzI2NS45OTkyNzcxMTQ4NjgxNiAzLjk5ODY0OTU5NzE2Nzk2ODggMS45OTkwNTA4NTU2MzY1OTY3IDMuOTk4NjQ5NTk3MTY3OTY4OCAxLjk5OTA1MDg1NTYzNjU5NjcgMy45OTg2NDk1OTcxNjc5Njg4QzEuOTk5MDUwODU1NjM2NTk2NyAzLjk5ODY0OTU5NzE2Nzk2ODggMS45OTkwNTA4NTU2MzY1OTY3IDMuOTk4NjQ5NTk3MTY3OTY4OCAxLjk5OTA1MDg1NTYzNjU5NjcgMy45OTg2NDk1OTcxNjc5Njg4QzEuOTk5MDUwODU1NjM2NTk2NyAzLjk5ODY0OTU5NzE2Nzk2ODggMS45OTkwNTA4NTU2MzY1OTY3IDEuOTk5MTQ5MzIyNTA5NzY1NiAxLjk5OTA1MDg1NTYzNjU5NjcgMS45OTkxNDkzMjI1MDk3NjU2QzEuOTk5MDUwODU1NjM2NTk2NyAxLjk5OTE0OTMyMjUwOTc2NTYgMS45OTkwNTA4NTU2MzY1OTY3IDEuOTk5MTQ5MzIyNTA5NzY1NiAxLjk5OTA1MDg1NTYzNjU5NjcgMS45OTkxNDkzMjI1MDk3NjU2IFoiIC8+CgogICAgPC9zdmc+');background-position:center bottom 0px;background-repeat:no-repeat;background-size:100% 4px;margin:0px 0px 0px 0px;padding:0px 0px 6px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+									<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjExIiB3aWR0aD0iMjY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuOTk5MDUwODU1NjM2NTk2NyAxLjk5ODc4NTk3MjU5NTIxNDggMjY0LjAwMDIyNjI1OTIzMTU3IDExLjAwMDUwNDQ5MzcxMzM3OSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzM1NzdDQSIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEuOTk5MDUwODU1NjM2NTk2NyA2Ljk5ODYyMDk4NjkzODQ3N0MxLjk5OTA1MDg1NTYzNjU5NjcgNi45OTg2MjA5ODY5Mzg0NzcgMjY1Ljk5OTI3NzExNDg2ODE2IDYuOTk4NjIwOTg2OTM4NDc3IDI2NS45OTkyNzcxMTQ4NjgxNiA2Ljk5ODYyMDk4NjkzODQ3N0MyNjUuOTk5Mjc3MTE0ODY4MTYgNi45OTg2MjA5ODY5Mzg0NzcgMjY1Ljk5OTI3NzExNDg2ODE2IDYuOTk4NjIwOTg2OTM4NDc3IDI2NS45OTkyNzcxMTQ4NjgxNiA2Ljk5ODYyMDk4NjkzODQ3N0MyNjUuOTk5Mjc3MTE0ODY4MTYgNi45OTg2MjA5ODY5Mzg0NzcgMjY1Ljk5OTI3NzExNDg2ODE2IDEuOTk4Nzg1OTcyNTk1MjE0OCAyNjUuOTk5Mjc3MTE0ODY4MTYgMS45OTg3ODU5NzI1OTUyMTQ4QzI2NS45OTkyNzcxMTQ4NjgxNiAxLjk5ODc4NTk3MjU5NTIxNDggMjY1Ljk5OTI3NzExNDg2ODE2IDEuOTk4Nzg1OTcyNTk1MjE0OCAyNjUuOTk5Mjc3MTE0ODY4MTYgMS45OTg3ODU5NzI1OTUyMTQ4QzI2NS45OTkyNzcxMTQ4NjgxNiAxLjk5ODc4NTk3MjU5NTIxNDggMS45OTkwNTA4NTU2MzY1OTY3IDEuOTk4Nzg1OTcyNTk1MjE0OCAxLjk5OTA1MDg1NTYzNjU5NjcgMS45OTg3ODU5NzI1OTUyMTQ4QzEuOTk5MDUwODU1NjM2NTk2NyAxLjk5ODc4NTk3MjU5NTIxNDggMS45OTkwNTA4NTU2MzY1OTY3IDEuOTk4Nzg1OTcyNTk1MjE0OCAxLjk5OTA1MDg1NTYzNjU5NjcgMS45OTg3ODU5NzI1OTUyMTQ4QzEuOTk5MDUwODU1NjM2NTk2NyAxLjk5ODc4NTk3MjU5NTIxNDggMS45OTkwNTA4NTU2MzY1OTY3IDYuOTk4NjIwOTg2OTM4NDc3IDEuOTk5MDUwODU1NjM2NTk2NyA2Ljk5ODYyMDk4NjkzODQ3N0MxLjk5OTA1MDg1NTYzNjU5NjcgNi45OTg2MjA5ODY5Mzg0NzcgMS45OTkwNTA4NTU2MzY1OTY3IDYuOTk4NjIwOTg2OTM4NDc3IDEuOTk5MDUwODU1NjM2NTk2NyA2Ljk5ODYyMDk4NjkzODQ3NyBaIE0xLjk5OTA1MDg1NTYzNjU5NjcgMTIuOTk5MjkwNDY2MzA4NTk0QzEuOTk5MDUwODU1NjM2NTk2NyAxMi45OTkyOTA0NjYzMDg1OTQgMjY1Ljk5OTI3NzExNDg2ODE2IDEyLjk5OTI5MDQ2NjMwODU5NCAyNjUuOTk5Mjc3MTE0ODY4MTYgMTIuOTk5MjkwNDY2MzA4NTk0QzI2NS45OTkyNzcxMTQ4NjgxNiAxMi45OTkyOTA0NjYzMDg1OTQgMjY1Ljk5OTI3NzExNDg2ODE2IDEyLjk5OTI5MDQ2NjMwODU5NCAyNjUuOTk5Mjc3MTE0ODY4MTYgMTIuOTk5MjkwNDY2MzA4NTk0QzI2NS45OTkyNzcxMTQ4NjgxNiAxMi45OTkyOTA0NjYzMDg1OTQgMjY1Ljk5OTI3NzExNDg2ODE2IDEwLjk5ODcwNTg2Mzk1MjYzNyAyNjUuOTk5Mjc3MTE0ODY4MTYgMTAuOTk4NzA1ODYzOTUyNjM3QzI2NS45OTkyNzcxMTQ4NjgxNiAxMC45OTg3MDU4NjM5NTI2MzcgMjY1Ljk5OTI3NzExNDg2ODE2IDEwLjk5ODcwNTg2Mzk1MjYzNyAyNjUuOTk5Mjc3MTE0ODY4MTYgMTAuOTk4NzA1ODYzOTUyNjM3QzI2NS45OTkyNzcxMTQ4NjgxNiAxMC45OTg3MDU4NjM5NTI2MzcgMS45OTkwNTA4NTU2MzY1OTY3IDEwLjk5ODcwNTg2Mzk1MjYzNyAxLjk5OTA1MDg1NTYzNjU5NjcgMTAuOTk4NzA1ODYzOTUyNjM3QzEuOTk5MDUwODU1NjM2NTk2NyAxMC45OTg3MDU4NjM5NTI2MzcgMS45OTkwNTA4NTU2MzY1OTY3IDEwLjk5ODcwNTg2Mzk1MjYzNyAxLjk5OTA1MDg1NTYzNjU5NjcgMTAuOTk4NzA1ODYzOTUyNjM3QzEuOTk5MDUwODU1NjM2NTk2NyAxMC45OTg3MDU4NjM5NTI2MzcgMS45OTkwNTA4NTU2MzY1OTY3IDEyLjk5OTI5MDQ2NjMwODU5NCAxLjk5OTA1MDg1NTYzNjU5NjcgMTIuOTk5MjkwNDY2MzA4NTk0QzEuOTk5MDUwODU1NjM2NTk2NyAxMi45OTkyOTA0NjYzMDg1OTQgMS45OTkwNTA4NTU2MzY1OTY3IDEyLjk5OTI5MDQ2NjMwODU5NCAxLjk5OTA1MDg1NTYzNjU5NjcgMTIuOTk5MjkwNDY2MzA4NTk0IFoiIC8+CgogICAgPC9zdmc+');background-position:center top 0px;background-repeat:no-repeat;background-size:100% 4px;margin:0px 0px 0px 0px;padding:5px 9px 0px 11px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+										<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+										style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:700;font-size:16px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+										data-placeholder="一级标题">
+											<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+												${solution.name}
+											</span>
+										</h1>
+									</section>
+								</section>
+							</section>
+						</section>
+						<section class="ProseMirror-node ProseMirror-flexBox"
+						title="正文组" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="textGroup" data-gtype="container" data-sid="0.020596318177595885"
+						data-rsid="0">
+							<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+							style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+								<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+								title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+								data-ism="0" data-label="" data-gtype="" data-sid="0.014583668569399633"
+								data-rsid="0">
+									<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+									style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#4D4D4D;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+									data-placeholder="输入‘/’快速定义内容">
+										<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+											${solution.description!'美好的记忆很难用文字表达。'}
+										</span>
+									</p>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--按照solutionSections展示section列表-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+	<section class="ProseMirror-node ProseMirror-flexBox"
+	title="序号标题" style="box-sizing:border-box;margin:0px 0px 24px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+	data-ism="1" data-label="headingIndex" data-gtype="fixed" data-sid="0.06944719037896085"
+	data-rsid="0.189217971824456">
+		<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+		style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+			<section class="ProseMirror-node ProseMirror-counterIndex ProseMirror-textBlockNode"
+			title="序号" style="box-sizing:border-box;margin:0px 0px 6px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+			data-ism="0" data-label="" data-gtype="" data-sid="0.9185682192574527"
+			data-rsid="0">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgzIiB3aWR0aD0iODgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS40OTk4MTMwNzk4MzM5ODQ0IDEuNDk5NzQ2MzIyNjMxODM2IDg4LjAwMDAxNzg4MTM5MzQzIDgyLjk5OTUyODg4NDg4NzciPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiNGRkZGRkYiICBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0iIzM1NzdDQSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgZD0iTTIuOTk5ODEzMDc5ODMzOTg0NCAyLjk5OTc0NjMyMjYzMTgzNkMyLjk5OTgxMzA3OTgzMzk4NDQgMi45OTk3NDYzMjI2MzE4MzYgODcuOTk5ODMwOTYxMjI3NDIgMi45OTk3NDYzMjI2MzE4MzYgODcuOTk5ODMwOTYxMjI3NDIgMi45OTk3NDYzMjI2MzE4MzZDODcuOTk5ODMwOTYxMjI3NDIgMi45OTk3NDYzMjI2MzE4MzYgODcuOTk5ODMwOTYxMjI3NDIgMi45OTk3NDYzMjI2MzE4MzYgODcuOTk5ODMwOTYxMjI3NDIgMi45OTk3NDYzMjI2MzE4MzZDODcuOTk5ODMwOTYxMjI3NDIgMi45OTk3NDYzMjI2MzE4MzYgODcuOTk5ODMwOTYxMjI3NDIgODIuOTk5Mjc1MjA3NTE5NTMgODcuOTk5ODMwOTYxMjI3NDIgODIuOTk5Mjc1MjA3NTE5NTNDODcuOTk5ODMwOTYxMjI3NDIgODIuOTk5Mjc1MjA3NTE5NTMgODcuOTk5ODMwOTYxMjI3NDIgODIuOTk5Mjc1MjA3NTE5NTMgODcuOTk5ODMwOTYxMjI3NDIgODIuOTk5Mjc1MjA3NTE5NTNDODcuOTk5ODMwOTYxMjI3NDIgODIuOTk5Mjc1MjA3NTE5NTMgMi45OTk4MTMwNzk4MzM5ODQ0IDgyLjk5OTI3NTIwNzUxOTUzIDIuOTk5ODEzMDc5ODMzOTg0NCA4Mi45OTkyNzUyMDc1MTk1M0MyLjk5OTgxMzA3OTgzMzk4NDQgODIuOTk5Mjc1MjA3NTE5NTMgMi45OTk4MTMwNzk4MzM5ODQ0IDgyLjk5OTI3NTIwNzUxOTUzIDIuOTk5ODEzMDc5ODMzOTg0NCA4Mi45OTkyNzUyMDc1MTk1M0MyLjk5OTgxMzA3OTgzMzk4NDQgODIuOTk5Mjc1MjA3NTE5NTMgMi45OTk4MTMwNzk4MzM5ODQ0IDIuOTk5NzQ2MzIyNjMxODM2IDIuOTk5ODEzMDc5ODMzOTg0NCAyLjk5OTc0NjMyMjYzMTgzNkMyLjk5OTgxMzA3OTgzMzk4NDQgMi45OTk3NDYzMjI2MzE4MzYgMi45OTk4MTMwNzk4MzM5ODQ0IDIuOTk5NzQ2MzIyNjMxODM2IDIuOTk5ODEzMDc5ODMzOTg0NCAyLjk5OTc0NjMyMjYzMTgzNiBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:left 0px top 0px;background-repeat:no-repeat;background-size:90.72164948453609% 94.31818181818183%;margin:0px 0px 0px 0px;padding:2px 0px 0px 3px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE5IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk5NDQyMTAwNTI0OTAyIDEuOTk5MDIwNTc2NDc3MDUwOCAxOS45OTk5Njk2MDE2MzExNjUgMTkuMDAwNjc0MjQ3NzQxNyI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZBRTdDNCIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEuOTk5OTQ0MjEwMDUyNDkwMiAxLjk5OTAyMDU3NjQ3NzA1MDhDMS45OTk5NDQyMTAwNTI0OTAyIDEuOTk5MDIwNTc2NDc3MDUwOCAyMS45OTk5MTM4MTE2ODM2NTUgMS45OTkwMjA1NzY0NzcwNTA4IDIxLjk5OTkxMzgxMTY4MzY1NSAxLjk5OTAyMDU3NjQ3NzA1MDhDMjEuOTk5OTEzODExNjgzNjU1IDEuOTk5MDIwNTc2NDc3MDUwOCAyMS45OTk5MTM4MTE2ODM2NTUgMS45OTkwMjA1NzY0NzcwNTA4IDIxLjk5OTkxMzgxMTY4MzY1NSAxLjk5OTAyMDU3NjQ3NzA1MDhDMjEuOTk5OTEzODExNjgzNjU1IDEuOTk5MDIwNTc2NDc3MDUwOCAyMS45OTk5MTM4MTE2ODM2NTUgMjAuOTk5Njk0ODI0MjE4NzUgMjEuOTk5OTEzODExNjgzNjU1IDIwLjk5OTY5NDgyNDIxODc1QzIxLjk5OTkxMzgxMTY4MzY1NSAyMC45OTk2OTQ4MjQyMTg3NSAyMS45OTk5MTM4MTE2ODM2NTUgMjAuOTk5Njk0ODI0MjE4NzUgMjEuOTk5OTEzODExNjgzNjU1IDIwLjk5OTY5NDgyNDIxODc1QzIxLjk5OTkxMzgxMTY4MzY1NSAyMC45OTk2OTQ4MjQyMTg3NSAxLjk5OTk0NDIxMDA1MjQ5MDIgMjAuOTk5Njk0ODI0MjE4NzUgMS45OTk5NDQyMTAwNTI0OTAyIDIwLjk5OTY5NDgyNDIxODc1QzEuOTk5OTQ0MjEwMDUyNDkwMiAyMC45OTk2OTQ4MjQyMTg3NSAxLjk5OTk0NDIxMDA1MjQ5MDIgMjAuOTk5Njk0ODI0MjE4NzUgMS45OTk5NDQyMTAwNTI0OTAyIDIwLjk5OTY5NDgyNDIxODc1QzEuOTk5OTQ0MjEwMDUyNDkwMiAyMC45OTk2OTQ4MjQyMTg3NSAxLjk5OTk0NDIxMDA1MjQ5MDIgMS45OTkwMjA1NzY0NzcwNTA4IDEuOTk5OTQ0MjEwMDUyNDkwMiAxLjk5OTAyMDU3NjQ3NzA1MDhDMS45OTk5NDQyMTAwNTI0OTAyIDEuOTk5MDIwNTc2NDc3MDUwOCAxLjk5OTk0NDIxMDA1MjQ5MDIgMS45OTkwMjA1NzY0NzcwNTA4IDEuOTk5OTQ0MjEwMDUyNDkwMiAxLjk5OTAyMDU3NjQ3NzA1MDggWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:7px 6px;margin:0px 0px 0px 0px;padding:0px 4px 4px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-node-content ProseMirror-node-counterIndex-content ProseMirror-textBlockNode-content"
+						style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:400;font-size:20px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;">
+							<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+								D${section_index+1}
+							</span>
+						</section>
+					</section>
+				</section>
+			</section>
+			<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+			title="标题" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="0" data-label="" data-gtype="" data-sid="0.7346736262239162"
+			data-rsid="0">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="padding:2px 0px 2px 12px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 5px 0px 0px;background-color:#FFFFFF;border-radius:0% 0% 0% 0%;border-width:1px;border-color:#3577CA;border-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:-2px 0px -2px -12px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+							<section class="ProseMirror-fixed-decoration" ignoreparse="true" style="margin:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+								<section class="ProseMirror-fixed-decoration-top" ignoreparse="true" style="display:flex;justify-content:flex-start;align-items:flex-start;height:0;line-height:0;transform:translate(0px, 0px);z-index:0;">
+									<img ignoreparse="true" style="display:block;user-select:none;flex-shrink:0;width:40px;height:36px;-webkit-mask-image:-webkit-radial-gradient(white, black);max-width:none !important;"
+									src="https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/b0f8612a-2a86-47c9-b2c5-9063e51f14a18305285.png">
+								</section>
+								<section class="ProseMirror-fixed-decoration-center" ignoreparse="true"
+								style="display:flex;z-index:1;flex-grow:1;">
+									<section style="flex:1;z-index:1;padding:3px 0px 3px 46px;display:flex;flex-direction:column;">
+										<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+										style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:700;font-size:17px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+										data-placeholder="一级标题">
+											<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+												第${section_index+1}天
+											</span>
+										</h1>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+
+	<#--Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+	<#assign items = solutionItems[section.id]>
+
+	<#--包含有spu及关联的item.spu列表-->
+	<#--显示SPU及item.spu详情-->
+	<#list items as item>
+		<section class="ProseMirror-node ProseMirror-flexBox"
+		title="图文列表卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 10px 0px 9px;display:flex;flex-direction:column;max-width:none !important;"
+		data-ism="1" data-label="imageTextListCard" data-gtype="fixed" data-sid="0.8254234496661661"
+		data-rsid="0">
+			<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+			style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+				<section class="ProseMirror-node ProseMirror-flexBox"
+				title="图文列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+				data-ism="0" data-label="imageTextList" data-gtype="container" data-sid="0.3090214395009969"
+				data-rsid="0">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMzAiIHdpZHRoPSIxMDg5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuNDk5ODYxODM2NDMzNDEwNiAxLjQ5OTM1ODE3NzE4NTA1ODYgMTA4OC45OTk5NzY5OTI2MDcxIDQwMzAuMDAwMDU5MTI3ODA3NiI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGRkZGRiIgIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSIjMzU3N0NBIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBkPSJNMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5MzU4MTc3MTg1MDU4NkMyLjk5OTg2MTgzNjQzMzQxMDYgMi45OTkzNTgxNzcxODUwNTg2IDEwODguOTk5ODM4ODI5MDQwNSAyLjk5OTM1ODE3NzE4NTA1ODYgMTA4OC45OTk4Mzg4MjkwNDA1IDIuOTk5MzU4MTc3MTg1MDU4NkMxMDg4Ljk5OTgzODgyOTA0MDUgMi45OTkzNTgxNzcxODUwNTg2IDEwODguOTk5ODM4ODI5MDQwNSAyLjk5OTM1ODE3NzE4NTA1ODYgMTA4OC45OTk4Mzg4MjkwNDA1IDIuOTk5MzU4MTc3MTg1MDU4NkMxMDg4Ljk5OTgzODgyOTA0MDUgMi45OTkzNTgxNzcxODUwNTg2IDEwODguOTk5ODM4ODI5MDQwNSA0MDI5Ljk5OTQxNzMwNDk5MjcgMTA4OC45OTk4Mzg4MjkwNDA1IDQwMjkuOTk5NDE3MzA0OTkyN0MxMDg4Ljk5OTgzODgyOTA0MDUgNDAyOS45OTk0MTczMDQ5OTI3IDEwODguOTk5ODM4ODI5MDQwNSA0MDI5Ljk5OTQxNzMwNDk5MjcgMTA4OC45OTk4Mzg4MjkwNDA1IDQwMjkuOTk5NDE3MzA0OTkyN0MxMDg4Ljk5OTgzODgyOTA0MDUgNDAyOS45OTk0MTczMDQ5OTI3IDIuOTk5ODYxODM2NDMzNDEwNiA0MDI5Ljk5OTQxNzMwNDk5MjcgMi45OTk4NjE4MzY0MzM0MTA2IDQwMjkuOTk5NDE3MzA0OTkyN0MyLjk5OTg2MTgzNjQzMzQxMDYgNDAyOS45OTk0MTczMDQ5OTI3IDIuOTk5ODYxODM2NDMzNDEwNiA0MDI5Ljk5OTQxNzMwNDk5MjcgMi45OTk4NjE4MzY0MzM0MTA2IDQwMjkuOTk5NDE3MzA0OTkyN0MyLjk5OTg2MTgzNjQzMzQxMDYgNDAyOS45OTk0MTczMDQ5OTI3IDIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTM1ODE3NzE4NTA1ODYgMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5MzU4MTc3MTg1MDU4NkMyLjk5OTg2MTgzNjQzMzQxMDYgMi45OTkzNTgxNzcxODUwNTg2IDIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTM1ODE3NzE4NTA1ODYgMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5MzU4MTc3MTg1MDU4NiBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:26px 25px 20px 26px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+						style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -45px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+							<section class="ProseMirror-node ProseMirror-flexBox"
+							title="图文项" style="box-sizing:border-box;margin:0px 0px 45px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+							data-ism="0" data-label="imageTextItem" data-gtype="fixed" data-sid="0.8384377815276816"
+							data-rsid="0">
+								<section class="ProseMirror-box-style_normal" ignoreparse="true" style="padding:0px 38px 8px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+									<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 1px;border-bottom-width:1px;border-bottom-color:#3577CA;border-bottom-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+										<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px -38px -8px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+											<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/09efa862-ddf6-4c72-b369-299e05e6332c8308915.png');background-position:right 1px bottom 0px;background-repeat:no-repeat;background-size:28px 17px;margin:0px 0px 0px 0px;padding:0px 0px 25px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+												<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+												style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+													<section class="ProseMirror-node ProseMirror-blockImage"
+													title="图片" style="box-sizing:border-box;margin:0px 0px 23px 0px;padding:0px 1px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+													data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:930,&quot;naturalHeight&quot;:643}"
+													data-ism="0" data-label="" data-gtype="" data-sid="0.5795016353470732"
+													data-rsid="0" data-mid="">
+														<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+														style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+															<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+															src="${item.spu.logo!'https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg'}"
+															alt="图片" title="图片">
+														</section>
+													</section>
+													<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+													title="标题" style="box-sizing:border-box;margin:0px 0px 18px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+													data-ism="0" data-label="" data-gtype="" data-sid="0.10880271770972305"
+													data-rsid="0">
+														<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/bf6e25c1-5754-44c3-89ee-0da5f751cb598308936.png');background-position:left 0px top 4px;background-repeat:no-repeat;background-size:17px 19px;margin:0px 0px 0px 0px;padding:0px 0px 0px 24px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+															<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+															style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:italic;font-weight:700;font-size:17px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+															data-placeholder="一级标题">
+																<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																	${item.name}
+																</span>
+															</h1>
+														</section>
+													</section>
+													<section class="ProseMirror-node ProseMirror-flexBox"
+													title="正文组" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+													data-ism="0" data-label="textGroup" data-gtype="container" data-sid="0.01765066898360934"
+													data-rsid="0">
+														<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+														style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+															<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+															title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+															data-ism="0" data-label="" data-gtype="" data-sid="0.40982573838282743"
+															data-rsid="0">
+																<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+																style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#4D4D4D;font-style:normal;font-weight:400;font-size:15px;line-height:1.87;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+																data-placeholder="输入‘/’快速定义内容">
+																	<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																		${item.summary!''}
+																	</span>
+																</p>
+															</section>
+														</section>
+													</section>
+												</section>
+											</section>
+										</section>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+		
+	</#list>
+</#list>
+
+<#--标签：包含标签及extJson属性-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="文章列表卡片" style="box-sizing:border-box;margin:0px 0px 24px 0px;padding:0px 10px 0px 9px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="articleListCard" data-gtype="fixed" data-sid="0.881305946527642"
+data-rsid="0.8042725605360848">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjU4OSIgd2lkdGg9IjEwODkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS40OTk4NjE4MzY0MzM0MTA2IDEuNDk5NjY5MDc1MDEyMjA3IDEwODguOTk5OTc2OTkyNjA3MSA1ODguOTk5OTY0NzE0MDUwMyI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGRkZGRiIgIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSIjMzU3N0NBIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBkPSJNMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5NjY5MDc1MDEyMjA3QzIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTY2OTA3NTAxMjIwNyAxMDg4Ljk5OTgzODgyOTA0MDUgMi45OTk2NjkwNzUwMTIyMDcgMTA4OC45OTk4Mzg4MjkwNDA1IDIuOTk5NjY5MDc1MDEyMjA3QzEwODguOTk5ODM4ODI5MDQwNSAyLjk5OTY2OTA3NTAxMjIwNyAxMDg4Ljk5OTgzODgyOTA0MDUgMi45OTk2NjkwNzUwMTIyMDcgMTA4OC45OTk4Mzg4MjkwNDA1IDIuOTk5NjY5MDc1MDEyMjA3QzEwODguOTk5ODM4ODI5MDQwNSAyLjk5OTY2OTA3NTAxMjIwNyAxMDg4Ljk5OTgzODgyOTA0MDUgNTg4Ljk5OTYzMzc4OTA2MjUgMTA4OC45OTk4Mzg4MjkwNDA1IDU4OC45OTk2MzM3ODkwNjI1QzEwODguOTk5ODM4ODI5MDQwNSA1ODguOTk5NjMzNzg5MDYyNSAxMDg4Ljk5OTgzODgyOTA0MDUgNTg4Ljk5OTYzMzc4OTA2MjUgMTA4OC45OTk4Mzg4MjkwNDA1IDU4OC45OTk2MzM3ODkwNjI1QzEwODguOTk5ODM4ODI5MDQwNSA1ODguOTk5NjMzNzg5MDYyNSAyLjk5OTg2MTgzNjQzMzQxMDYgNTg4Ljk5OTYzMzc4OTA2MjUgMi45OTk4NjE4MzY0MzM0MTA2IDU4OC45OTk2MzM3ODkwNjI1QzIuOTk5ODYxODM2NDMzNDEwNiA1ODguOTk5NjMzNzg5MDYyNSAyLjk5OTg2MTgzNjQzMzQxMDYgNTg4Ljk5OTYzMzc4OTA2MjUgMi45OTk4NjE4MzY0MzM0MTA2IDU4OC45OTk2MzM3ODkwNjI1QzIuOTk5ODYxODM2NDMzNDEwNiA1ODguOTk5NjMzNzg5MDYyNSAyLjk5OTg2MTgzNjQzMzQxMDYgMi45OTk2NjkwNzUwMTIyMDcgMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5NjY5MDc1MDEyMjA3QzIuOTk5ODYxODM2NDMzNDEwNiAyLjk5OTY2OTA3NTAxMjIwNyAyLjk5OTg2MTgzNjQzMzQxMDYgMi45OTk2NjkwNzUwMTIyMDcgMi45OTk4NjE4MzY0MzM0MTA2IDIuOTk5NjY5MDc1MDEyMjA3IFoiIC8+CgogICAgPC9zdmc+');background-position:center bottom 0px;background-repeat:no-repeat;background-size:100% 95.61688311688312%;margin:0px 0px 0px 0px;padding:0px 21px 24px 23px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+		style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+			<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+			title="卡片标题" style="box-sizing:border-box;margin:0px 0px 25px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+			data-ism="0" data-label="" data-gtype="" data-sid="0.03697196909993661"
+			data-rsid="0">
+				<section class="ProseMirror-box-style_normal" style="max-width:100%;margin:0px 0px 0px 0px;display:flex;flex-grow:1;flex-direction:column;">
+					<section style="display:flex;">
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cw_49%2Ch_11&quot;) 0px 0px / 100% 100%; width: 16px; height: 3px; flex-shrink: 0; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cx_49%2Cw_228%2Ch_11&quot;) 0px 0px / 100% 100%; height: 3px; flex: 1 1 0%; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cx_277%2Cw_50%2Ch_11&quot;) 0px 0px / 100% 100%; width: 16px; height: 3px; flex-shrink: 0; font-size: 0px;">
+						</section>
+					</section>
+					<section style="display:flex;">
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cy_11%2Cw_49%2Ch_76&quot;) 0px 0px / 100% 100%; width: 16px; flex-shrink: 0; font-size: 0px;">
+						</section>
+						<section style="display:flex;flex:1;background:0 0 / 100% 100% url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cx_49%2Cy_11%2Cw_228%2Ch_76') ;z-index:1;">
+							<section style="word-break:break-all;flex:1;margin:-3px -16px -6px -16px;max-width:initial !important;padding:3px 19px 5px 19px;">
+								<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+								style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#FFFFFF;font-style:normal;font-weight:700;font-size:17px;line-height:1.65;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+								data-placeholder="一级标题">
+									<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+										特色标签
+									</span>
+								</h1>
+							</section>
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cx_277%2Cy_11%2Cw_50%2Ch_76&quot;) 0px 0px / 100% 100%; width: 16px; flex-shrink: 0; font-size: 0px;">
+						</section>
+					</section>
+					<section style="display:flex;">
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cy_87%2Cw_49%2Ch_20&quot;) 0px 0px / 100% 100%; width: 16px; height: 6px; flex-shrink: 0; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cx_49%2Cy_87%2Cw_228%2Ch_20&quot;) 0px 0px / 100% 100%; height: 6px; flex: 1 1 0%; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/634f6b29-0909-43d2-8d85-09e20b3ad56f8305245.png?x-oss-process=image%2Fcrop%2Cx_277%2Cy_87%2Cw_50%2Ch_20&quot;) 0px 0px / 100% 100%; width: 16px; height: 6px; flex-shrink: 0; font-size: 0px;">
+						</section>
+					</section>
+				</section>
+			</section>
+			<section class="ProseMirror-node ProseMirror-flexBox"
+			title="文章列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="0" data-label="articleList" data-gtype="container" data-sid="0.27690407547653706"
+			data-rsid="0">
+				<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+				style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -22px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+					<section class="ProseMirror-node ProseMirror-flexBox"
+					title="文章项" style="box-sizing:border-box;margin:0px 0px 22px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+					data-ism="0" data-label="articleItem" data-gtype="container" data-sid="0.5703152833606111"
+					data-rsid="0">
+						<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+						style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+							<section class="ProseMirror-node ProseMirror-flexBox"
+							title="布局" style="box-sizing:border-box;display:flex;flex-direction:column;max-width:none !important;"
+							data-ism="0" data-label="" data-gtype="" data-sid="0.2060996093618115"
+							data-rsid="0">
+								<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+								style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:row;height:100%;flex-grow:1;">
+								<#--基础信息：逐条显示 extJson。需要预先准备键值对。作为标签展示-->
+								<#if solution.extJson?? >
+									<#list solution.extJson?keys as key>
+										<#if solution.extJson[key]?? >
+										<section class="ProseMirror-node ProseMirror-counterIndex ProseMirror-textBlockNode"
+										title="序号" style="box-sizing:border-box;align-self:center;margin:0px 13.333333333333334px 0px 0px;padding:0px 0px 0px 0px;width:11.401673640167365%;display:flex;flex-direction:column;max-width:none !important;"
+										data-ism="0" data-label="" data-gtype="" data-sid="0.7292397740335181"
+										data-rsid="0">
+											<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iMTA5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuNDk5OTQzMjU2Mzc4MTczOCAxLjQ5OTE0MTY5MzExNTIzNDQgMTA4Ljk5OTg5NzcxODQyOTU3IDcyLjAwMDEwODcxODg3MjA3Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSJub25lIiAgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9IiMzNTc3Q0EiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIGQ9Ik0yLjk5OTk0MzI1NjM3ODE3NCAyLjk5OTE0MTY5MzExNTIzNDRDMi45OTk5NDMyNTYzNzgxNzQgMi45OTkxNDE2OTMxMTUyMzQ0IDEwOC45OTk4NDA5NzQ4MDc3NCAyLjk5OTE0MTY5MzExNTIzNDQgMTA4Ljk5OTg0MDk3NDgwNzc0IDIuOTk5MTQxNjkzMTE1MjM0NEMxMDguOTk5ODQwOTc0ODA3NzQgMi45OTkxNDE2OTMxMTUyMzQ0IDEwOC45OTk4NDA5NzQ4MDc3NCAyLjk5OTE0MTY5MzExNTIzNDQgMTA4Ljk5OTg0MDk3NDgwNzc0IDIuOTk5MTQxNjkzMTE1MjM0NEMxMDguOTk5ODQwOTc0ODA3NzQgMi45OTkxNDE2OTMxMTUyMzQ0IDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczQzEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczQzEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDIuOTk5OTQzMjU2Mzc4MTc0IDcxLjk5OTI1MDQxMTk4NzMgMi45OTk5NDMyNTYzNzgxNzQgNzEuOTk5MjUwNDExOTg3M0MyLjk5OTk0MzI1NjM3ODE3NCA3MS45OTkyNTA0MTE5ODczIDIuOTk5OTQzMjU2Mzc4MTc0IDcxLjk5OTI1MDQxMTk4NzMgMi45OTk5NDMyNTYzNzgxNzQgNzEuOTk5MjUwNDExOTg3M0MyLjk5OTk0MzI1NjM3ODE3NCA3MS45OTkyNTA0MTE5ODczIDIuOTk5OTQzMjU2Mzc4MTc0IDIuOTk5MTQxNjkzMTE1MjM0NCAyLjk5OTk0MzI1NjM3ODE3NCAyLjk5OTE0MTY5MzExNTIzNDRDMi45OTk5NDMyNTYzNzgxNzQgMi45OTkxNDE2OTMxMTUyMzQ0IDIuOTk5OTQzMjU2Mzc4MTc0IDIuOTk5MTQxNjkzMTE1MjM0NCAyLjk5OTk0MzI1NjM3ODE3NCAyLjk5OTE0MTY5MzExNTIzNDQgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:3px 3px 4px 4px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+												<section class="ProseMirror-node-content ProseMirror-node-counterIndex-content ProseMirror-textBlockNode-content"
+												style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:400;font-size:14px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;">
+													<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+														${key}/${solution.extJson[key]!}
+													</span>
+												</section>
+											</section>
+										</section>
+										</#if>	
+									</#list>
+								</#if>	
+								<#list solution.tags?split(" ") as tag>
+									<section class="ProseMirror-node ProseMirror-counterIndex ProseMirror-textBlockNode"
+									title="序号" style="box-sizing:border-box;align-self:center;margin:0px 13.333333333333334px 0px 0px;padding:0px 0px 0px 0px;width:11.401673640167365%;display:flex;flex-direction:column;max-width:none !important;"
+									data-ism="0" data-label="" data-gtype="" data-sid="0.7292397740335181"
+									data-rsid="0">
+										<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iMTA5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuNDk5OTQzMjU2Mzc4MTczOCAxLjQ5OTE0MTY5MzExNTIzNDQgMTA4Ljk5OTg5NzcxODQyOTU3IDcyLjAwMDEwODcxODg3MjA3Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSJub25lIiAgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9IiMzNTc3Q0EiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIGQ9Ik0yLjk5OTk0MzI1NjM3ODE3NCAyLjk5OTE0MTY5MzExNTIzNDRDMi45OTk5NDMyNTYzNzgxNzQgMi45OTkxNDE2OTMxMTUyMzQ0IDEwOC45OTk4NDA5NzQ4MDc3NCAyLjk5OTE0MTY5MzExNTIzNDQgMTA4Ljk5OTg0MDk3NDgwNzc0IDIuOTk5MTQxNjkzMTE1MjM0NEMxMDguOTk5ODQwOTc0ODA3NzQgMi45OTkxNDE2OTMxMTUyMzQ0IDEwOC45OTk4NDA5NzQ4MDc3NCAyLjk5OTE0MTY5MzExNTIzNDQgMTA4Ljk5OTg0MDk3NDgwNzc0IDIuOTk5MTQxNjkzMTE1MjM0NEMxMDguOTk5ODQwOTc0ODA3NzQgMi45OTkxNDE2OTMxMTUyMzQ0IDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczQzEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczQzEwOC45OTk4NDA5NzQ4MDc3NCA3MS45OTkyNTA0MTE5ODczIDIuOTk5OTQzMjU2Mzc4MTc0IDcxLjk5OTI1MDQxMTk4NzMgMi45OTk5NDMyNTYzNzgxNzQgNzEuOTk5MjUwNDExOTg3M0MyLjk5OTk0MzI1NjM3ODE3NCA3MS45OTkyNTA0MTE5ODczIDIuOTk5OTQzMjU2Mzc4MTc0IDcxLjk5OTI1MDQxMTk4NzMgMi45OTk5NDMyNTYzNzgxNzQgNzEuOTk5MjUwNDExOTg3M0MyLjk5OTk0MzI1NjM3ODE3NCA3MS45OTkyNTA0MTE5ODczIDIuOTk5OTQzMjU2Mzc4MTc0IDIuOTk5MTQxNjkzMTE1MjM0NCAyLjk5OTk0MzI1NjM3ODE3NCAyLjk5OTE0MTY5MzExNTIzNDRDMi45OTk5NDMyNTYzNzgxNzQgMi45OTkxNDE2OTMxMTUyMzQ0IDIuOTk5OTQzMjU2Mzc4MTc0IDIuOTk5MTQxNjkzMTE1MjM0NCAyLjk5OTk0MzI1NjM3ODE3NCAyLjk5OTE0MTY5MzExNTIzNDQgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:3px 3px 4px 4px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+											<section class="ProseMirror-node-content ProseMirror-node-counterIndex-content ProseMirror-textBlockNode-content"
+											style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:400;font-size:14px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;">
+												<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+													#${tag}
+												</span>
+											</section>
+										</section>
+									</section>
+								</#list>								
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--结束标志-->
+<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="分隔线" style="box-sizing:border-box;margin:0px 0px 24px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+data-ism="1" data-label="divider__text" data-gtype="" data-sid="0.2624821952344203"
+data-rsid="0.49994608620065084">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:4px 4px 4px 4px;border-radius:50% 50% 50% 50%;border-width:1px;border-color:#3577CA;border-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="padding:5px 5px 5px 5px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;background-color:#5FB3ED;border-radius:50% 50% 50% 50%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:-5px -5px -5px -5px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MyIgd2lkdGg9IjE1MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSIxLjk5ODkyNjUyMDM0NzU5NTIgMS45OTc1MDgwNDkwMTEyMzA1IDE1My4zODQ1NDM2NTczMDI4NiAxNTMuMzgzNTc0NDg1Nzc4OCI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzVGQjNFRCIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEyNy44NDExMzAwMTgyMzQyNSAxOS44NjYxNDQxODAyOTc4NUMxMjcuODQxMTMwMDE4MjM0MjUgMTkuODY2MTQ0MTgwMjk3ODUgMTI2LjMyMjM0MTA4NDQ4MDI5IDIxLjUwNDU2MzMzMTYwNDAwNCAxMjYuMzIyMzQxMDg0NDgwMjkgMjEuNTA0NTYzMzMxNjA0MDA0QzEzMC41NzM5Njk2MDI1ODQ4NCAyNS4wNDI3MjQ2MDkzNzUgMTM0LjQyMzM5ODQ5NDcyMDQ2IDI5LjA1NTgyMTQxODc2MjIwNyAxMzcuNzg5MDUwNDU5ODYxNzYgMzMuNDQ4NDMyOTIyMzYzMjhDMTM3Ljc4OTA1MDQ1OTg2MTc2IDMzLjQ0ODQzMjkyMjM2MzI4IDEzOS42NjU1MjQ0ODI3MjcwNSAzMi4yMjc0Nzk5MzQ2OTIzOCAxMzkuNjY1NTI0NDgyNzI3MDUgMzIuMjI3NDc5OTM0NjkyMzhDMTM2LjE5NTM1MTYwMDY0Njk3IDI3LjY3NzY0MDkxNDkxNjk5MiAxMzIuMjI2ODkwNDQ0NzU1NTUgMjMuNTMwMDg3NDcxMDA4MyAxMjcuODQxMTMwMDE4MjM0MjUgMTkuODY2MTQ0MTgwMjk3ODUgWiBNMTYuNDgxNDQ2NzQzMDExNDc1IDExOS41NTE2NDI0MTc5MDc3MUMxNi40ODE0NDY3NDMwMTE0NzUgMTE5LjU1MTY0MjQxNzkwNzcxIDE0LjYxMjQyNDQ5MjgzNTk5OSAxMjAuNzgxMjcwMDI3MTYwNjQgMTQuNjEyNDI0NDkyODM1OTk5IDEyMC43ODEyNzAwMjcxNjA2NEMxNy44NzM1NTU1NDEwMzg1MTMgMTI1LjcyNDcyMDAwMTIyMDcgMjEuNjg1NzI1NTY5NzI1MDM3IDEzMC4yNzM0NzQ2OTMyOTgzNCAyNS45Njc3NDk0NzY0MzI4IDEzNC4zMzk3MDM1NTk4NzU1QzI1Ljk2Nzc0OTQ3NjQzMjggMTM0LjMzOTcwMzU1OTg3NTUgMjcuNDc4ODkwNTM4MjE1NjM3IDEzMi42OTM2OTQxMTQ2ODUwNiAyNy40Nzg4OTA1MzgyMTU2MzcgMTMyLjY5MzY5NDExNDY4NTA2QzIzLjMzMTc4MjkzNzA0OTg2NiAxMjguNzU1NDE1OTE2NDQyODcgMTkuNjMxMTkzMzk5NDI5MzIgMTI0LjM0NjUzOTQ5NzM3NTQ5IDE2LjQ4MTQ0Njc0MzAxMTQ3NSAxMTkuNTUxNjQyNDE3OTA3NzEgWiBNNzguNjkxNTkwNTQ3NTYxNjUgMS45OTc1MDgwNDkwMTEyMzA1QzM2LjQwNjg5ODYxNzc0NDQ0NiAxLjk5NzUwODA0OTAxMTIzMDUgMS45OTg5MjY1MjAzNDc1OTUyIDM2LjQwNDMxMDIyNjQ0MDQzIDEuOTk4OTI2NTIwMzQ3NTk1MiA3OC42ODg3NTMxMjgwNTE3NkMxLjk5ODkyNjUyMDM0NzU5NTIgOTIuNjcyMjQzMTE4Mjg2MTMgNS43NTk1MjI0MzgwNDkzMTYgMTA1Ljc4NTAxNzk2NzIyNDEyIDEyLjMxOTQzNTU5NjQ2NjA2NCAxMTcuMDg4MDQ5ODg4NjEwODRDMTIuMzE5NDM1NTk2NDY2MDY0IDExNy4wODgwNDk4ODg2MTA4NCAxNC4xOTUzMjEzMjE0ODc0MjcgMTE1Ljg1ODQyMjI3OTM1NzkxIDE0LjE5NTMyMTMyMTQ4NzQyNyAxMTUuODU4NDIyMjc5MzU3OTFDNy44NTkxNTc0NDMwNDY1NyAxMDQuOTE0MzAyODI1OTI3NzMgNC4yMzMyODE3MzE2MDU1MyA5Mi4yMTc5MDk4MTI5MjcyNSA0LjIzMzI4MTczMTYwNTUzIDc4LjY4ODc1MzEyODA1MTc2QzQuMjMzMjgxNzMxNjA1NTMgMzcuNjMyODUzNTA3OTk1NjA1IDM3LjYzNTA2ODQxNjU5NTQ2IDQuMjMwMTM4Nzc4Njg2NTIzIDc4LjY5MTU5MDU0NzU2MTY1IDQuMjMwMTM4Nzc4Njg2NTIzQzg4LjQ4MjYzMTU2NDE0MDMyIDQuMjMwMTM4Nzc4Njg2NTIzIDk3LjgzNDYwNjI4OTg2MzU5IDYuMTI4Nzk2NTc3NDUzNjEzIDEwNi40MDQ1MzcwODE3MTg0NCA5LjU4NDU0ODk1MDE5NTMxMkMxMDYuNDA0NTM3MDgxNzE4NDQgOS41ODQ1NDg5NTAxOTUzMTIgMTA3LjMyMDMyMDcyNTQ0MDk4IDcuNTUxNDM0NTE2OTA2NzM4IDEwNy4zMjAzMjA3MjU0NDA5OCA3LjU1MTQzNDUxNjkwNjczOEM5OC40NzQ2NzQzNDQwNjI4IDMuOTYzMzk0MTY1MDM5MDYyNSA4OC44MTA3MDU2NjE3NzM2OCAxLjk5NzUwODA0OTAxMTIzMDUgNzguNjkxNTkwNTQ3NTYxNjUgMS45OTc1MDgwNDkwMTEyMzA1IFogTTMwLjMwMTM0NzQ5NDEyNTM2NiAxMzUuMjMzMTg5NTgyODI0N0MzMC4zMDEzNDc0OTQxMjUzNjYgMTM1LjIzMzE4OTU4MjgyNDcgMjguNzg5NDIyMDM1MjE3Mjg1IDEzNi44NzA1MjQ0MDY0MzMxIDI4Ljc4OTQyMjAzNTIxNzI4NSAxMzYuODcwNTI0NDA2NDMzMUMzNC4zNTg4Mzc3MjM3MzE5OTUgMTQxLjY1ODkxNTUxOTcxNDM2IDQwLjYxMzQyNDMwMTE0NzQ2IDE0NS42NTc5MTYwNjkwMzA3NiA0Ny4zODkwNDY2NjkwMDYzNSAxNDguNjk2MjAyMjc4MTM3MkM0Ny4zODkwNDY2NjkwMDYzNSAxNDguNjk2MjAyMjc4MTM3MiA0OC4yNDU2MDgzMjk3NzI5NSAxNDYuNjMyNzI2NjY5MzExNTIgNDguMjQ1NjA4MzI5NzcyOTUgMTQ2LjYzMjcyNjY2OTMxMTUyQzQxLjcxNTMwNjE2MjgzNDE3IDE0My42OTg1MzU5MTkxODk0NSAzNS42NzY4MjA5OTM0MjM0NiAxMzkuODQyNjY2NjI1OTc2NTYgMzAuMzAxMzQ3NDk0MTI1MzY2IDEzNS4yMzMxODk1ODI4MjQ3IFogTTE1My4xMTI4MzY1OTkzNDk5OCA2MC4xNDg5MTgxNTE4NTU0N0MxNTMuMTEyODM2NTk5MzQ5OTggNjAuMTQ4OTE4MTUxODU1NDcgMTUwLjk2MDg0MzA4NjI0MjY4IDYwLjc1Mjg4ODY3OTUwNDM5NSAxNTAuOTYwODQzMDg2MjQyNjggNjAuNzUyODg4Njc5NTA0Mzk1QzE1Mi4zOTA0MDY4NDcwMDAxMiA2Ni40OTk4MjU0Nzc2MDAxIDE1My4xNDk1MDcxNjQ5NTUxNCA3Mi41MDgwODUyNTA4NTQ0OSAxNTMuMTQ5NTA3MTY0OTU1MTQgNzguNjg4NzUzMTI4MDUxNzZDMTUzLjE0OTUwNzE2NDk1NTE0IDExOS43NDU3MzcwNzU4MDU2NiAxMTkuNzQ3NzIwNDc5OTY1MjEgMTUzLjE0NzM2NzQ3NzQxNyA3OC42OTE1OTA1NDc1NjE2NSAxNTMuMTQ3MzY3NDc3NDE3QzcwLjA4NDAwODY5MzY5NTA3IDE1My4xNDczNjc0Nzc0MTcgNjEuODExNzU2NjEwODcwMzYgMTUxLjY4MTM1NjQzMDA1MzcgNTQuMTIwMzUwNTk5Mjg4OTQgMTQ4Ljk3NzA0MzE1MTg1NTQ3QzU0LjEyMDM1MDU5OTI4ODk0IDE0OC45NzcwNDMxNTE4NTU0NyA1NC4xMTI3MDI3MjczMTc4MSAxNDguOTc3MDQzMTUxODU1NDcgNTQuMTEyNzAyNzI3MzE3ODEgMTQ4Ljk3NzA0MzE1MTg1NTQ3QzU0LjExMjcwMjcyNzMxNzgxIDE0OC45NzcwNDMxNTE4NTU0NyA1My4yNTYzMzcxNjU4MzI1MiAxNTEuMDQwNTE4NzYwNjgxMTUgNTMuMjU2MzM3MTY1ODMyNTIgMTUxLjA0MDUxODc2MDY4MTE1QzYxLjIxNjAwNjk5NDI0NzQ0IDE1My44NTU0MzM0NjQwNTAzIDY5Ljc3ODY4MjExMjY5Mzc5IDE1NS4zODEwODI1MzQ3OTAwNCA3OC42OTE1OTA1NDc1NjE2NSAxNTUuMzgxMDgyNTM0NzkwMDRDMTIwLjk3NjI4MjQ3NzM3ODg1IDE1NS4zODEwODI1MzQ3OTAwNCAxNTUuMzgzNDcwMTc3NjUwNDUgMTIwLjk3MzE5NjAyOTY2MzA5IDE1NS4zODM0NzAxNzc2NTA0NSA3OC42ODg3NTMxMjgwNTE3NkMxNTUuMzgzNDcwMTc3NjUwNDUgNzIuMjkzMzg4MzY2Njk5MjIgMTU0LjU5NDM2NjY2OTY1NDg1IDY2LjA4NDUyNzk2OTM2MDM1IDE1My4xMTI4MzY1OTkzNDk5OCA2MC4xNDg5MTgxNTE4NTU0NyBaIE0xNDEuNjM4NDc5MzUxOTk3MzggMzQuOTM3MjE0ODUxMzc5Mzk1QzE0MS42Mzg0NzkzNTE5OTczOCAzNC45MzcyMTQ4NTEzNzkzOTUgMTM5Ljc2OTY1MzIwMTEwMzIgMzYuMTU5MjUyMTY2NzQ4MDUgMTM5Ljc2OTY1MzIwMTEwMzIgMzYuMTU5MjUyMTY2NzQ4MDVDMTQzLjcyMzQwNjkxMDg5NjMgNDEuODA5NjgzNzk5NzQzNjUgMTQ2LjkxMDIxNjMzMTQ4MTkzIDQ4LjA0MjM5OTQwNjQzMzEwNSAxNDkuMTgxMjQyMTA4MzQ1MDMgNTQuNjgzOTA2NTU1MTc1NzhDMTQ5LjE4MTI0MjEwODM0NTAzIDU0LjY4MzkwNjU1NTE3NTc4IDE1MS4zMzI4NDM0MjI4ODk3IDU0LjA4MTAyMDM1NTIyNDYxIDE1MS4zMzI4NDM0MjI4ODk3IDU0LjA4MTAyMDM1NTIyNDYxQzE0OS4wMDIyMDM0NjQ1MDgwNiA0Ny4yMTUwNTczNzMwNDY4NzUgMTQ1LjcxOTEwOTI5Njc5ODcgNDAuNzgxNzQxMTQyMjcyOTUgMTQxLjYzODQ3OTM1MTk5NzM4IDM0LjkzNzIxNDg1MTM3OTM5NSBaIE0xMTAuOTc2Nzg3OTI0NzY2NTQgOS4xMzAyMTU2NDQ4MzY0MjZDMTEwLjk3Njc4NzkyNDc2NjU0IDkuMTMwMjE1NjQ0ODM2NDI2IDExMC4wNjA2MTIwODI0ODEzOCAxMS4xNzA5MjAzNzIwMDkyNzcgMTEwLjA2MDYxMjA4MjQ4MTM4IDExLjE3MDkyMDM3MjAwOTI3N0MxMTUuNzM0NTQ4Njg3OTM0ODggMTMuODE0NTExMjk5MTMzMyAxMjEuMDIwOTkzMTEzNTE3NzYgMTcuMTQ5OTAzMjk3NDI0MzE2IDEyNS44MDg1NjA5Njc0NDUzNyAyMS4wODA1OTEyMDE3ODIyMjdDMTI1LjgwODU2MDk2NzQ0NTM3IDIxLjA4MDU5MTIwMTc4MjIyNyAxMjcuMzI3MzQ5OTAxMTk5MzQgMTkuNDM0NTgxNzU2NTkxNzk3IDEyNy4zMjczNDk5MDExOTkzNCAxOS40MzQ1ODE3NTY1OTE3OTdDMTIyLjM2MTEzNTYwMTk5NzM4IDE1LjM0Nzc1MDY2Mzc1NzMyNCAxMTYuODczNjg5NDEzMDcwNjggMTEuODc3OTAyMDMwOTQ0ODI0IDExMC45NzY3ODc5MjQ3NjY1NCA5LjEzMDIxNTY0NDgzNjQyNiBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:center center;background-repeat:no-repeat;background-size:51px 51px;margin:0px 0px 0px 0px;padding:11px 10px 12px 11px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+						style="box-sizing:border-box;word-break:break-word;min-width:30px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#FFFFFF;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+						data-placeholder="附加说明">
+							<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+								End
+							</span>
+						</p>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--尾部吸引关注-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="二维码卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+data-ism="1" data-label="qrcodeCard" data-gtype="fixed" data-sid="0.9225728950502561"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwMyIgd2lkdGg9Ijg1NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSIxLjQ5OTg0MjQwNTMxOTIxMzkgMS40OTkxMDI1OTI0NjgyNjE3IDg1Ny4wMDAwMTU4NTQ4MzU1IDQwMy4wMDA4OTc0MDc1MzE3NCI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGRkZGRiIgIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSIjMzU3N0NBIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBkPSJNMi45OTk4NDI0MDUzMTkyMTQgMi45OTkxMDI1OTI0NjgyNjE3QzIuOTk5ODQyNDA1MzE5MjE0IDIuOTk5MTAyNTkyNDY4MjYxNyA4NTYuOTk5ODU4MjYwMTU0NyAyLjk5OTEwMjU5MjQ2ODI2MTcgODU2Ljk5OTg1ODI2MDE1NDcgMi45OTkxMDI1OTI0NjgyNjE3Qzg1Ni45OTk4NTgyNjAxNTQ3IDIuOTk5MTAyNTkyNDY4MjYxNyA4NTYuOTk5ODU4MjYwMTU0NyAyLjk5OTEwMjU5MjQ2ODI2MTcgODU2Ljk5OTg1ODI2MDE1NDcgMi45OTkxMDI1OTI0NjgyNjE3Qzg1Ni45OTk4NTgyNjAxNTQ3IDIuOTk5MTAyNTkyNDY4MjYxNyA4NTYuOTk5ODU4MjYwMTU0NyA0MDMgODU2Ljk5OTg1ODI2MDE1NDcgNDAzQzg1Ni45OTk4NTgyNjAxNTQ3IDQwMyA4NTYuOTk5ODU4MjYwMTU0NyA0MDMgODU2Ljk5OTg1ODI2MDE1NDcgNDAzQzg1Ni45OTk4NTgyNjAxNTQ3IDQwMyAyLjk5OTg0MjQwNTMxOTIxNCA0MDMgMi45OTk4NDI0MDUzMTkyMTQgNDAzQzIuOTk5ODQyNDA1MzE5MjE0IDQwMyAyLjk5OTg0MjQwNTMxOTIxNCA0MDMgMi45OTk4NDI0MDUzMTkyMTQgNDAzQzIuOTk5ODQyNDA1MzE5MjE0IDQwMyAyLjk5OTg0MjQwNTMxOTIxNCAyLjk5OTEwMjU5MjQ2ODI2MTcgMi45OTk4NDI0MDUzMTkyMTQgMi45OTkxMDI1OTI0NjgyNjE3QzIuOTk5ODQyNDA1MzE5MjE0IDIuOTk5MTAyNTkyNDY4MjYxNyAyLjk5OTg0MjQwNTMxOTIxNCAyLjk5OTEwMjU5MjQ2ODI2MTcgMi45OTk4NDI0MDUzMTkyMTQgMi45OTkxMDI1OTI0NjgyNjE3IFoiIC8+CgogICAgPC9zdmc+');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:11px 1px 1px 23px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk4MTk2MzYzNDQ5MDk3IDEuOTk5MTk3MDA2MjI1NTg2IDIzLjAwMDA5MjUwNjQwODY5IDIzLjAwMDc1OTEyNDc1NTg2Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSIjQTVCRUYzIiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMTMuNDk5ODY1ODg5NTQ5MjU1IDEuOTk5MTk3MDA2MjI1NTg2QzEzLjQ5OTg2NTg4OTU0OTI1NSAxLjk5OTE5NzAwNjIyNTU4NiAyNC45OTk5MTIxNDI3NTM2IDI0Ljk5OTk1NjEzMDk4MTQ0NSAyNC45OTk5MTIxNDI3NTM2IDI0Ljk5OTk1NjEzMDk4MTQ0NUMyNC45OTk5MTIxNDI3NTM2IDI0Ljk5OTk1NjEzMDk4MTQ0NSAxLjk5OTgxOTYzNjM0NDkwOTcgMjQuOTk5OTU2MTMwOTgxNDQ1IDEuOTk5ODE5NjM2MzQ0OTA5NyAyNC45OTk5NTYxMzA5ODE0NDVDMS45OTk4MTk2MzYzNDQ5MDk3IDI0Ljk5OTk1NjEzMDk4MTQ0NSAxMy40OTk4NjU4ODk1NDkyNTUgMS45OTkxOTcwMDYyMjU1ODYgMTMuNDk5ODY1ODg5NTQ5MjU1IDEuOTk5MTk3MDA2MjI1NTg2IFoiIC8+CgogICAgPC9zdmc+');background-position:right 9px top 0px;background-repeat:no-repeat;background-size:8px 8px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk0NTUwOTQzMzc0NjM0IDEuOTk5MTk3MDA2MjI1NTg2IDIyLjk5OTg5NjQwNzEyNzM4IDIyLjk5OTY3NDc5NzA1ODEwNSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZBRTdDNCIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEzLjQ5OTEwOTE0ODk3OTE4NyAxLjk5OTE5NzAwNjIyNTU4NkMxOS44NTA3NjQ4NzA2NDM2MTYgMS45OTkxOTcwMDYyMjU1ODYgMjQuOTk5MzUxNTAxNDY0ODQ0IDcuMTQ3NTg0OTE1MTYxMTMzIDI0Ljk5OTM1MTUwMTQ2NDg0NCAxMy40OTg0OTIyNDA5MDU3NjJDMjQuOTk5MzUxNTAxNDY0ODQ0IDE5Ljg1MDQ4Mzg5NDM0ODE0NSAxOS44NTA3NjQ4NzA2NDM2MTYgMjQuOTk4ODcxODAzMjgzNjkgMTMuNDk5MTA5MTQ4OTc5MTg3IDI0Ljk5ODg3MTgwMzI4MzY5QzcuMTQ4MjM3ODI0NDQwMDAyIDI0Ljk5ODg3MTgwMzI4MzY5IDEuOTk5NDU1MDk0MzM3NDYzNCAxOS44NTA0ODM4OTQzNDgxNDUgMS45OTk0NTUwOTQzMzc0NjM0IDEzLjQ5ODQ5MjI0MDkwNTc2MkMxLjk5OTQ1NTA5NDMzNzQ2MzQgNy4xNDc1ODQ5MTUxNjExMzMgNy4xNDgyMzc4MjQ0NDAwMDIgMS45OTkxOTcwMDYyMjU1ODYgMTMuNDk5MTA5MTQ4OTc5MTg3IDEuOTk5MTk3MDA2MjI1NTg2IFoiIC8+CgogICAgPC9zdmc+');background-position:right 24px top 0px;background-repeat:no-repeat;background-size:8px 8px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk4NzQ5NDk0NTUyNjEyIDEuOTk5MTk3MDA2MjI1NTg2IDIzLjAwMDA5MjUwNjQwODY5IDIzLjAwMDc1OTEyNDc1NTg2Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSIjNUZCM0VEIiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMS45OTk4NzQ5NDk0NTUyNjEyIDEuOTk5MTk3MDA2MjI1NTg2QzEuOTk5ODc0OTQ5NDU1MjYxMiAxLjk5OTE5NzAwNjIyNTU4NiAyNC45OTk5Njc0NTU4NjM5NTMgMS45OTkxOTcwMDYyMjU1ODYgMjQuOTk5OTY3NDU1ODYzOTUzIDEuOTk5MTk3MDA2MjI1NTg2QzI0Ljk5OTk2NzQ1NTg2Mzk1MyAxLjk5OTE5NzAwNjIyNTU4NiAyNC45OTk5Njc0NTU4NjM5NTMgMS45OTkxOTcwMDYyMjU1ODYgMjQuOTk5OTY3NDU1ODYzOTUzIDEuOTk5MTk3MDA2MjI1NTg2QzI0Ljk5OTk2NzQ1NTg2Mzk1MyAxLjk5OTE5NzAwNjIyNTU4NiAyNC45OTk5Njc0NTU4NjM5NTMgMjQuOTk5OTU2MTMwOTgxNDQ1IDI0Ljk5OTk2NzQ1NTg2Mzk1MyAyNC45OTk5NTYxMzA5ODE0NDVDMjQuOTk5OTY3NDU1ODYzOTUzIDI0Ljk5OTk1NjEzMDk4MTQ0NSAyNC45OTk5Njc0NTU4NjM5NTMgMjQuOTk5OTU2MTMwOTgxNDQ1IDI0Ljk5OTk2NzQ1NTg2Mzk1MyAyNC45OTk5NTYxMzA5ODE0NDVDMjQuOTk5OTY3NDU1ODYzOTUzIDI0Ljk5OTk1NjEzMDk4MTQ0NSAxLjk5OTg3NDk0OTQ1NTI2MTIgMjQuOTk5OTU2MTMwOTgxNDQ1IDEuOTk5ODc0OTQ5NDU1MjYxMiAyNC45OTk5NTYxMzA5ODE0NDVDMS45OTk4NzQ5NDk0NTUyNjEyIDI0Ljk5OTk1NjEzMDk4MTQ0NSAxLjk5OTg3NDk0OTQ1NTI2MTIgMjQuOTk5OTU2MTMwOTgxNDQ1IDEuOTk5ODc0OTQ5NDU1MjYxMiAyNC45OTk5NTYxMzA5ODE0NDVDMS45OTk4NzQ5NDk0NTUyNjEyIDI0Ljk5OTk1NjEzMDk4MTQ0NSAxLjk5OTg3NDk0OTQ1NTI2MTIgMS45OTkxOTcwMDYyMjU1ODYgMS45OTk4NzQ5NDk0NTUyNjEyIDEuOTk5MTk3MDA2MjI1NTg2QzEuOTk5ODc0OTQ5NDU1MjYxMiAxLjk5OTE5NzAwNjIyNTU4NiAxLjk5OTg3NDk0OTQ1NTI2MTIgMS45OTkxOTcwMDYyMjU1ODYgMS45OTk4NzQ5NDk0NTUyNjEyIDEuOTk5MTk3MDA2MjI1NTg2IFoiIC8+CgogICAgPC9zdmc+');background-position:right 38px top 0px;background-repeat:no-repeat;background-size:8px 8px;margin:0px 0px 0px 0px;padding:11px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/71b49f90-a857-4e64-aab3-01cae6b6910c8308853.png');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:67px 49px;margin:0px 0px 0px 0px;padding:0px 15px 22px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+						style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:row;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+							<section class="ProseMirror-node ProseMirror-blockImage"
+							title="二维码" style="box-sizing:border-box;align-self:center;margin:0px 19px 0px 0px;padding:0px 0px 0px 0px;width:90px;display:flex;flex-direction:column;max-width:none !important;"
+							data-fit-in="{&quot;type&quot;:3,&quot;ratio&quot;:100,&quot;naturalWidth&quot;:251,&quot;naturalHeight&quot;:251}"
+							data-ism="0" data-label="" data-gtype="" data-sid="0.5934780166645097"
+							data-rsid="0" data-mid="242024">
+								<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI3MCIgd2lkdGg9IjI3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSIxLjQ5OTgzNDA2MDY2ODk0NTMgMS40OTkzNzYyOTY5OTcwNzAzIDI3MC4wMDAxNTMwNjQ3Mjc4IDI3MC4wMDA1MTQ5ODQxMzA4NiI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0ibm9uZSIgIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSIjMjc2M0FFIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtZGFzaGFycmF5PSIxMiwgNiIgZD0iTTIuOTk5ODM0MDYwNjY4OTQ1MyAyLjk5OTM3NjI5Njk5NzA3MDNDMi45OTk4MzQwNjA2Njg5NDUzIDIuOTk5Mzc2Mjk2OTk3MDcwMyAyNjkuOTk5OTg3MTI1Mzk2NzMgMi45OTkzNzYyOTY5OTcwNzAzIDI2OS45OTk5ODcxMjUzOTY3MyAyLjk5OTM3NjI5Njk5NzA3MDNDMjY5Ljk5OTk4NzEyNTM5NjczIDIuOTk5Mzc2Mjk2OTk3MDcwMyAyNjkuOTk5OTg3MTI1Mzk2NzMgMi45OTkzNzYyOTY5OTcwNzAzIDI2OS45OTk5ODcxMjUzOTY3MyAyLjk5OTM3NjI5Njk5NzA3MDNDMjY5Ljk5OTk4NzEyNTM5NjczIDIuOTk5Mzc2Mjk2OTk3MDcwMyAyNjkuOTk5OTg3MTI1Mzk2NzMgMjY5Ljk5OTg5MTI4MTEyNzkzIDI2OS45OTk5ODcxMjUzOTY3MyAyNjkuOTk5ODkxMjgxMTI3OTNDMjY5Ljk5OTk4NzEyNTM5NjczIDI2OS45OTk4OTEyODExMjc5MyAyNjkuOTk5OTg3MTI1Mzk2NzMgMjY5Ljk5OTg5MTI4MTEyNzkzIDI2OS45OTk5ODcxMjUzOTY3MyAyNjkuOTk5ODkxMjgxMTI3OTNDMjY5Ljk5OTk4NzEyNTM5NjczIDI2OS45OTk4OTEyODExMjc5MyAyLjk5OTgzNDA2MDY2ODk0NTMgMjY5Ljk5OTg5MTI4MTEyNzkzIDIuOTk5ODM0MDYwNjY4OTQ1MyAyNjkuOTk5ODkxMjgxMTI3OTNDMi45OTk4MzQwNjA2Njg5NDUzIDI2OS45OTk4OTEyODExMjc5MyAyLjk5OTgzNDA2MDY2ODk0NTMgMjY5Ljk5OTg5MTI4MTEyNzkzIDIuOTk5ODM0MDYwNjY4OTQ1MyAyNjkuOTk5ODkxMjgxMTI3OTNDMi45OTk4MzQwNjA2Njg5NDUzIDI2OS45OTk4OTEyODExMjc5MyAyLjk5OTgzNDA2MDY2ODk0NTMgMi45OTkzNzYyOTY5OTcwNzAzIDIuOTk5ODM0MDYwNjY4OTQ1MyAyLjk5OTM3NjI5Njk5NzA3MDNDMi45OTk4MzQwNjA2Njg5NDUzIDIuOTk5Mzc2Mjk2OTk3MDcwMyAyLjk5OTgzNDA2MDY2ODk0NTMgMi45OTkzNzYyOTY5OTcwNzAzIDIuOTk5ODM0MDYwNjY4OTQ1MyAyLjk5OTM3NjI5Njk5NzA3MDMgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:3px 3px 3px 3px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+									<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+									style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+										<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+										src="https://www.biglistoflittlethings.com/static/qrcode/ilife.jpg"
+										alt="二维码" title="二维码">
+									</section>
+								</section>
+							</section>
+							<section class="ProseMirror-node ProseMirror-flexBox"
+							title="布局" style="box-sizing:border-box;align-self:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+							data-ism="0" data-label="" data-gtype="" data-sid="0.14260787104874706"
+							data-rsid="0">
+								<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+								style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+									<section class="ProseMirror-node ProseMirror-title ProseMirror-textBlockNode"
+									title="微信名称" style="box-sizing:border-box;margin:0px 0px 6px 0px;padding:0px 0px 0px 1px;display:flex;flex-direction:column;max-width:none !important;"
+									data-ism="0" data-label="" data-gtype="" data-sid="0.40947113732659" data-rsid="0">
+										<h6 class="ProseMirror-node-content ProseMirror-node-title-content ProseMirror-textBlockNode-content"
+										style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:700;font-size:18px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+										data-placeholder="小标题">
+											<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+												More+墨加
+											</span>
+										</h6>
+									</section>
+									<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+									title="微信号" style="box-sizing:border-box;margin:0px 0px 6px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+									data-ism="0" data-label="wechat" data-gtype="" data-sid="0.7309179265569368"
+									data-rsid="0">
+										<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+										style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+										data-placeholder="附加说明">
+											<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+												了解更多内容
+											</span>
+										</p>
+									</section>
+									<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+									title="提示" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 10px 0px 2px;display:flex;flex-direction:column;max-width:none !important;"
+									data-ism="0" data-label="tips" data-gtype="" data-sid="0.6299845513580453"
+									data-rsid="0">
+										<section class="ProseMirror-box-style_normal" ignoreparse="true" style="padding:3px 0px 3px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+											<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 4px 0px 5px;border-radius:0% 0% 0% 0%;border-width:1px;border-color:#3577CA;border-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+												<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:-3px 0px -3px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+													<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+													style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#3577CA;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+													data-placeholder="附加说明">
+														<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+															扫码关注公众号
+														</span>
+													</p>
+												</section>
+											</section>
+										</section>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--底部求关注-->
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.450049347822173" data-rsid="0">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#4D4D4D;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="在看引导" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 10px 0px 10px;display:flex;flex-direction:column;align-items:flex-end;max-width:none !important;"
+data-ism="1" data-label="inSight" data-gtype="" data-sid="0.21999688982070076"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgyIiB3aWR0aD0iNjA0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjAuOTk5ODE0NTEwMzQ1NDU5IDAuOTk5NTcxODAwMjMxOTMzNiA2MDQuMDAwMTAxNjg1NTI0IDgyLjAwMDExMzQ4NzI0MzY1Ij4KCiAgICAKICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSIjMzU3N0NBIiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNNDguOTk5ODE5OTkzOTcyNzggMC45OTk1NzE4MDAyMzE5MzM2QzQ4Ljk5OTgxOTk5Mzk3Mjc4IDAuOTk5NTcxODAwMjMxOTMzNiA2MDQuOTk5OTE2MTk1ODY5NCAwLjk5OTU3MTgwMDIzMTkzMzYgNjA0Ljk5OTkxNjE5NTg2OTQgMC45OTk1NzE4MDAyMzE5MzM2QzYwNC45OTk5MTYxOTU4Njk0IDAuOTk5NTcxODAwMjMxOTMzNiA2MDQuOTk5OTE2MTk1ODY5NCAwLjk5OTU3MTgwMDIzMTkzMzYgNjA0Ljk5OTkxNjE5NTg2OTQgMC45OTk1NzE4MDAyMzE5MzM2QzYwNC45OTk5MTYxOTU4Njk0IDAuOTk5NTcxODAwMjMxOTMzNiA2MDQuOTk5OTE2MTk1ODY5NCA4Mi45OTk2ODUyODc0NzU1OSA2MDQuOTk5OTE2MTk1ODY5NCA4Mi45OTk2ODUyODc0NzU1OUM2MDQuOTk5OTE2MTk1ODY5NCA4Mi45OTk2ODUyODc0NzU1OSA2MDQuOTk5OTE2MTk1ODY5NCA4Mi45OTk2ODUyODc0NzU1OSA2MDQuOTk5OTE2MTk1ODY5NCA4Mi45OTk2ODUyODc0NzU1OUM2MDQuOTk5OTE2MTk1ODY5NCA4Mi45OTk2ODUyODc0NzU1OSAwLjk5OTgxNDUxMDM0NTQ1OSA4Mi45OTk2ODUyODc0NzU1OSAwLjk5OTgxNDUxMDM0NTQ1OSA4Mi45OTk2ODUyODc0NzU1OUMwLjk5OTgxNDUxMDM0NTQ1OSA4Mi45OTk2ODUyODc0NzU1OSAwLjk5OTgxNDUxMDM0NTQ1OSA4Mi45OTk2ODUyODc0NzU1OSAwLjk5OTgxNDUxMDM0NTQ1OSA4Mi45OTk2ODUyODc0NzU1OUMwLjk5OTgxNDUxMDM0NTQ1OSA4Mi45OTk2ODUyODc0NzU1OSAwLjk5OTgxNDUxMDM0NTQ1OSA0OC45OTk1MDU5OTY3MDQxIDAuOTk5ODE0NTEwMzQ1NDU5IDQ4Ljk5OTUwNTk5NjcwNDFDMC45OTk4MTQ1MTAzNDU0NTkgMjIuNDg5ODYyNDQyMDE2NiAyMi40OTAzMzQ3NDkyMjE4IDAuOTk5NTcxODAwMjMxOTMzNiA0OC45OTk4MTk5OTM5NzI3OCAwLjk5OTU3MTgwMDIzMTkzMzYgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:left 0px bottom 0px;background-repeat:no-repeat;background-size:94.0809968847352% 96.47058823529412%;margin:0px 0px 0px 0px;padding:0px 0px 0px 11px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-fixed-decoration" ignoreparse="true" style="margin:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-fixed-decoration-center" ignoreparse="true"
+			style="display:flex;z-index:1;flex-grow:1;">
+				<section style="flex:1;z-index:1;padding:0px 33px 0px 0px;display:flex;flex-direction:column;">
+					<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+					style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#FFFFFF;font-style:normal;font-weight:400;font-size:16px;line-height:1.75;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+					data-placeholder="附加说明">
+						<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+							点个「在看」你最好看~
+						</span>
+					</p>
+				</section>
+				<section class="ProseMirror-fixed-decoration-right" ignoreparse="true"
+				style="display:flex;justify-content:flex-end;align-items:center;width:0px;line-height:0;transform:translate(0px, 0px);z-index:0;">
+					<img ignoreparse="true" style="display:block;user-select:none;flex-shrink:0;width:28px;height:28px;-webkit-mask-image:-webkit-radial-gradient(white, black);max-width:none !important;"
+					src="https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/22024/33a315cf-6c9b-44a4-a2b7-1ff584d30ba38308932.png">
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+</section>

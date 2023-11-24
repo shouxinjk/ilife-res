@@ -1,0 +1,538 @@
+<#--solution传递参数：solution:{}、solutionSections:[]、solutionItems:{xxx: []}-->
+
+<#--上方引导关注-->
+<section uuid="3260910666388961" class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="关注引导" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.666666666666667px 0px 6.666666666666667px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+data-ism="1" data-label="follow" data-gtype="" data-sid="0.5912676708330165"
+data-rsid="">
+	<section class="ProseMirror-fixed-decoration" ignoreparse="true" style="margin:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-fixed-decoration-center" ignoreparse="true"
+		style="display:flex;z-index:1;flex-grow:1;">
+			<section style="flex:1;z-index:1;padding:0px 13px 14px 0px;display:flex;flex-direction:column;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE0MCIgd2lkdGg9IjE0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSIxLjI1MTU4NTcyMTk2OTYwNDUgMS43MzUxMTI0Mjg2NjUxNjExIDEzOS44OTU5OTk2NzAwMjg3IDEzOS44OTU3NTE5NTMxMjUiPgoKICAgIDxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iMC42MjY5MDE2MDEzMjg4MDE4IiB4MT0iNTAlIiB5MT0iMCUiIHgyPSI1MCUiIHkyPSIxMDAlIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSI1OSUiIHN0b3AtY29sb3I9InJnYmEoMjU1LDIyNCwxODQsMSkiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJyZ2JhKDI1MSwyNTEsMjUxLDApIiAvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPgogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9InVybCgjMC42MjY5MDE2MDEzMjg4MDE4KSIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTcxLjE5OTU4NTU1Njk4Mzk1IDEuNzM1MTEyNDI4NjY1MTYxMUMxMDkuODMwNjE3MDcwMTk4MDYgMS43MzUxMTI0Mjg2NjUxNjExIDE0MS4xNDc1ODUzOTE5OTgzIDMzLjA1MTcyNzA1NjUwMzI5NiAxNDEuMTQ3NTg1MzkxOTk4MyA3MS42ODE3MzUwMzg3NTczMkMxNDEuMTQ3NTg1MzkxOTk4MyAxMTAuMzEyOTk2Mzg3NDgxNjkgMTA5LjgzMDYxNzA3MDE5ODA2IDE0MS42MzA4NjQzODE3OTAxNiA3MS4xOTk1ODU1NTY5ODM5NSAxNDEuNjMwODY0MzgxNzkwMTZDMzIuNTY4MzUwMzE1MDkzOTk0IDE0MS42MzA4NjQzODE3OTAxNiAxLjI1MTU4NTcyMTk2OTYwNDUgMTEwLjMxMjk5NjM4NzQ4MTY5IDEuMjUxNTg1NzIxOTY5NjA0NSA3MS42ODE3MzUwMzg3NTczMkMxLjI1MTU4NTcyMTk2OTYwNDUgMzMuMDUxNzI3MDU2NTAzMjk2IDMyLjU2ODM1MDMxNTA5Mzk5NCAxLjczNTExMjQyODY2NTE2MTEgNzEuMTk5NTg1NTU2OTgzOTUgMS43MzUxMTI0Mjg2NjUxNjExIFoiIC8+CgogICAgPC9zdmc+');background-position:left 0px top 0px;background-repeat:no-repeat;background-size:46.666666666666664px 46.666666666666664px;margin:0px 0px 0px 0px;padding:16px 0px 0px 23px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 0px 3px 0px;border-bottom-width:2px;border-bottom-color:#D17147;border-bottom-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:5px 8px 6px 11px;background-color:#D17147;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+							<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#FFFFFF;font-style:normal;font-weight:400;font-size:14px;line-height:1.2;letter-spacing:0.7000000000000001px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+							data-placeholder="附加说明">
+								<span style="font-weight:700;" class="ProseMirror-mark ProseMirror-style"
+								styleid="0">
+									点击上方 【蓝字】 关注我们
+								</span>
+							</p>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+		<section class="ProseMirror-fixed-decoration-bottom" ignoreparse="true"
+		style="display:flex;justify-content:flex-end;align-items:flex-end;height:0;line-height:0;transform:translate(0px, 0px);z-index:2;">
+			<section ignoreparse="true" style="flex-shrink:0;width:26.333333333333332px;height:26.333333333333332px;-webkit-mask-image:-webkit-radial-gradient(white, black);max-width:none !important;">
+				<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="1.2426140308380127 1.4051861763000488 78.99131202697754 78.98840832710266"
+				style="display: block; width: 100%; height: 100%;">
+					<defs>
+						<linearGradient id="0.849334335101827" x1="50%" y1="0%" x2="50%" y2="100%"
+						gradientUnits="userSpaceOnUse">
+							<stop offset="59%" stop-color="rgba(255,224,184,1)">
+							</stop>
+							<stop offset="100%" stop-color="rgba(251,251,251,0)">
+							</stop>
+						</linearGradient>
+					</defs>
+					<path fill="url(#0.849334335101827)" fill-rule="nonzero" d="M40.73827004432678 1.4051861763000488C62.55109190940857 1.4051861763000488 80.23392605781555 19.086426973342896 80.23392605781555 40.90001702308655C80.23392605781555 62.7136070728302 62.55109190940857 80.39359450340271 40.73827004432678 80.39359450340271C18.925244450569153 80.39359450340271 1.2426140308380127 62.7136070728302 1.2426140308380127 40.90001702308655C1.2426140308380127 19.086426973342896 18.925244450569153 1.4051861763000488 40.73827004432678 1.4051861763000488 Z">
+					</path>
+				</svg>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--LOGO-->
+<section uuid="22760114130381837" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section uuid="16119352005884346" class="ProseMirror-node ProseMirror-blockImage"
+title="图片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 1px 0px 0.3333333333333333px;display:flex;flex-direction:column;max-width:none !important;"
+data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:1142,&quot;naturalHeight&quot;:611}"
+data-ism="1" data-label="" data-gtype="" data-sid="0.4487182535881624"
+data-rsid="" data-mid="100007894">
+	<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+	style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+		<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+		src="${solution.logo!'https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg'}"
+		alt="图片" title="图片">
+	</section>
+</section>
+
+<#--描述-->
+<section uuid="22894711818291302" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="段落" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+			${solution.description!'美好的记忆很难用文字表达。'}
+		</span>
+	</p>
+</section>
+
+<#--按照solutionSections展示section列表-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+	<#--分隔留白-->
+	<section uuid="7351249707846854" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+	title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+	data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+		<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+		style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+		data-placeholder="输入‘/’快速定义内容">
+			<br class="ProseMirror-node ProseMirror-hardBreak">
+		</p>
+	</section>
+
+	<#--section标题-->
+	<section uuid="9907305103203834" class="ProseMirror-node ProseMirror-flexBox"
+	title="序号标题" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+	data-ism="1" data-label="headingIndex" data-gtype="fixed" data-sid="0.4435906569944874"
+	data-rsid="0">
+		<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+		style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+			<section uuid="8173743900539943" class="ProseMirror-node ProseMirror-counterIndex ProseMirror-textBlockNode"
+			title="序号" style="box-sizing:border-box;align-self:center;margin:0px 0px -19.399999999999995px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+			data-ism="0" data-label="" data-gtype="" data-sid="0.5589067519073307"
+			data-rsid="">
+				<section class="ProseMirror-node-content ProseMirror-node-counterIndex-content ProseMirror-textBlockNode-content"
+				style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#EDAC54;font-style:normal;font-weight:400;font-size:47px;line-height:1.2;letter-spacing:2.35px;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;">
+					<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+						D${section_index+1}
+					</span>
+				</section>
+			</section>
+			<section uuid="6459417114439274" class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+			title="标题" style="box-sizing:border-box;align-self:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;z-index:1;max-width:none !important;"
+			data-ism="0" data-label="" data-gtype="" data-sid="0.5324738627003112"
+			data-rsid="">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:5px 15px 7px 18px;background-color:#A85242;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+					style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#FFFFFF;font-style:normal;font-weight:400;font-size:16px;line-height:1.2;letter-spacing:0.7999999999999999px;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+					data-placeholder="一级标题">
+						<span style="font-weight:700;font-size:18px;" class="ProseMirror-mark ProseMirror-style"
+						styleid="0">
+							第${section_index+1}天
+						</span>
+					</h1>
+				</section>
+			</section>
+		</section>
+	</section>
+
+	<#--章节描述-->
+	<#if section.description??>
+		<section uuid="8514099026423887" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+		title="段落" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+		data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+			<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+			style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+			data-placeholder="输入‘/’快速定义内容">
+				<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+					${section.description}
+				</span>
+			</p>
+		</section>
+	</#if>
+
+	<#--Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+	<#assign items = solutionItems[section.id]>
+	<#--包含有spu及关联的item.spu列表-->
+	<#--显示SPU及item.spu详情-->
+	<#list items as item>
+		<#--按照奇偶数排列-->
+		<#if item_index%2==0>
+			<section uuid="08233265119160316" class="ProseMirror-node ProseMirror-flexBox"
+			title="图文列表卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 21.333333333333332px 0px 21.333333333333332px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="1" data-label="imageTextListCard" data-gtype="fixed" data-sid="0.10760248819305307"
+			data-rsid="0">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:29px 13px 20px 17px;background-color:#FAF1EC;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+					style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+						<section uuid="2592681802837735" class="ProseMirror-node ProseMirror-flexBox"
+						title="图文列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="imageTextList" data-gtype="container" data-sid="0.6105297203328675"
+						data-rsid="">
+							<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+							style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -41.30666666666669px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+								<section uuid="9689134651636224" class="ProseMirror-node ProseMirror-flexBox"
+								title="图文项" style="box-sizing:border-box;margin:0px 0px 41.30666666666669px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+								data-ism="0" data-label="imageTextItem" data-gtype="fixed" data-sid="0.3020469780563382"
+								data-rsid="">
+									<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMTMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuMTc4MjMyMTkyOTkzMTY0IDEuNDQ3ODM2ODc1OTE1NTI3MyAxMzIuMTU4Mzg0NTYxNTM4NyAyMi43ODc0NTU3OTcxOTU0MzUiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiNEMTcxNDciICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik0xLjE3ODIzMjE5Mjk5MzE2NCAxLjQ0NzgzNjg3NTkxNTUyNzNDMS4xNzgyMzIxOTI5OTMxNjQgMS40NDc4MzY4NzU5MTU1MjczIDEzMy4zMzY2MTY3NTQ1MzE4NiAxLjQ0NzgzNjg3NTkxNTUyNzMgMTMzLjMzNjYxNjc1NDUzMTg2IDEuNDQ3ODM2ODc1OTE1NTI3M0MxMzMuMzM2NjE2NzU0NTMxODYgMS40NDc4MzY4NzU5MTU1MjczIDEzMy4zMzY2MTY3NTQ1MzE4NiAyNC4yMzUyOTI2NzMxMTA5NjIgMTMzLjMzNjYxNjc1NDUzMTg2IDI0LjIzNTI5MjY3MzExMDk2MkMxMzMuMzM2NjE2NzU0NTMxODYgMjQuMjM1MjkyNjczMTEwOTYyIDEuMTc4MjMyMTkyOTkzMTY0IDI0LjIzNTI5MjY3MzExMDk2MiAxLjE3ODIzMjE5Mjk5MzE2NCAyNC4yMzUyOTI2NzMxMTA5NjJDMS4xNzgyMzIxOTI5OTMxNjQgMjQuMjM1MjkyNjczMTEwOTYyIDEuMTc4MjMyMTkyOTkzMTY0IDEuNDQ3ODM2ODc1OTE1NTI3MyAxLjE3ODIzMjE5Mjk5MzE2NCAxLjQ0NzgzNjg3NTkxNTUyNzMgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center top 0px;background-repeat:no-repeat;background-size:44px 7.666666666666667px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+										<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+										style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:row;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+											<section uuid="9899114168624215" class="ProseMirror-node ProseMirror-blockImage"
+											title="图片" style="box-sizing:border-box;align-self:flex-start;margin:0px 11.666666666666666px 0px 0px;padding:0px 0px 0px 0px;width:47.51619870410367%;display:flex;flex-direction:column;max-width:none !important;"
+											data-fit-in="{&quot;type&quot;:1,&quot;scale&quot;:100,&quot;offset&quot;:[0,0],&quot;naturalWidth&quot;:440,&quot;naturalHeight&quot;:564}"
+											data-ism="0" data-label="" data-gtype="" data-sid="0.4553454693099346"
+											data-rsid="" data-mid="100009725">
+												<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+												style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+													<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+													src="${item.spu.logo!'https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg'}"
+													alt="图片" title="图片">
+												</section>
+											</section>
+											<section uuid="9526549010770693" class="ProseMirror-node ProseMirror-flexBox"
+											title="布局" style="box-sizing:border-box;align-self:flex-start;margin:0px 0px 0px 0px;padding:34.666666666666664px 0px 0px 0px;width:48.704103671706264%;display:flex;flex-direction:column;z-index:3;max-width:none !important;"
+											data-ism="0" data-label="" data-gtype="" data-sid="0.7181602186068672"
+											data-rsid="0">
+												<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+												style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+													<section uuid="7511579849341581" class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+													title="标题" style="box-sizing:border-box;margin:0px 0px 16.400000000000002px 0px;padding:0px 1px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+													data-ism="0" data-label="" data-gtype="" data-sid="0.6749134583217042"
+													data-rsid="">
+														<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+														style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:700;font-size:18px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+														data-placeholder="一级标题">
+															<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																${item.name}
+															</span>
+														</h1>
+													</section>
+													<section uuid="18992218400022876" class="ProseMirror-node ProseMirror-flexBox"
+													title="正文组" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+													data-ism="0" data-label="textGroup" data-gtype="container" data-sid="0.649256198281045"
+													data-rsid="">
+														<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+														style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+															<section uuid="27050318585942823" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+															title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+															data-ism="0" data-label="" data-gtype="" data-sid="0.7244647385160161"
+															data-rsid="">
+																<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+																style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:14.666666666666666px;line-height:1.86;letter-spacing:0.7333333333333334px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+																data-placeholder="输入‘/’快速定义内容">
+																	<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																		${item.spu.summary!''}
+																	</span>
+																</p>
+															</section>
+														</section>
+													</section>
+												</section>
+											</section>
+										</section>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		<#else>
+			<section uuid="08233265119160316" class="ProseMirror-node ProseMirror-flexBox"
+			title="图文列表卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 21.333333333333332px 0px 21.333333333333332px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="1" data-label="imageTextListCard" data-gtype="fixed" data-sid="0.10760248819305307"
+			data-rsid="0">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:29px 13px 20px 17px;background-color:#FAF1EC;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+					style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+						<section uuid="2592681802837735" class="ProseMirror-node ProseMirror-flexBox"
+						title="图文列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="imageTextList" data-gtype="container" data-sid="0.6105297203328675"
+						data-rsid="">
+							<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+							style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -41.30666666666669px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+								<section uuid="00558298450899497" class="ProseMirror-node ProseMirror-flexBox"
+								title="图文项" style="box-sizing:border-box;margin:0px 0px 41.30666666666669px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+								data-ism="0" data-label="imageTextItem" data-gtype="fixed" data-sid="0.3020469780563382"
+								data-rsid="">
+									<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzIiB3aWR0aD0iMTMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuMTc4MjMyMTkyOTkzMTY0IDEuNDQ3ODM2ODc1OTE1NTI3MyAxMzIuMTU4Mzg0NTYxNTM4NyAyMi43ODc0NTU3OTcxOTU0MzUiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiNEMTcxNDciICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik0xLjE3ODIzMjE5Mjk5MzE2NCAxLjQ0NzgzNjg3NTkxNTUyNzNDMS4xNzgyMzIxOTI5OTMxNjQgMS40NDc4MzY4NzU5MTU1MjczIDEzMy4zMzY2MTY3NTQ1MzE4NiAxLjQ0NzgzNjg3NTkxNTUyNzMgMTMzLjMzNjYxNjc1NDUzMTg2IDEuNDQ3ODM2ODc1OTE1NTI3M0MxMzMuMzM2NjE2NzU0NTMxODYgMS40NDc4MzY4NzU5MTU1MjczIDEzMy4zMzY2MTY3NTQ1MzE4NiAyNC4yMzUyOTI2NzMxMTA5NjIgMTMzLjMzNjYxNjc1NDUzMTg2IDI0LjIzNTI5MjY3MzExMDk2MkMxMzMuMzM2NjE2NzU0NTMxODYgMjQuMjM1MjkyNjczMTEwOTYyIDEuMTc4MjMyMTkyOTkzMTY0IDI0LjIzNTI5MjY3MzExMDk2MiAxLjE3ODIzMjE5Mjk5MzE2NCAyNC4yMzUyOTI2NzMxMTA5NjJDMS4xNzgyMzIxOTI5OTMxNjQgMjQuMjM1MjkyNjczMTEwOTYyIDEuMTc4MjMyMTkyOTkzMTY0IDEuNDQ3ODM2ODc1OTE1NTI3MyAxLjE3ODIzMjE5Mjk5MzE2NCAxLjQ0NzgzNjg3NTkxNTUyNzMgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center top 0px;background-repeat:no-repeat;background-size:44px 7.666666666666667px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+										<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+										style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:row;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+											<section uuid="07893258027763261" class="ProseMirror-node ProseMirror-flexBox"
+											title="布局" style="box-sizing:border-box;align-self:flex-start;margin:0px 3.3333333333333335px 0px 0px;padding:34.666666666666664px 0px 0px 0px;width:50.110864745011085%;display:flex;flex-direction:column;z-index:3;max-width:none !important;"
+											data-ism="0" data-label="" data-gtype="" data-sid="0.19291497628818166"
+											data-rsid="0">
+												<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+												style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+													<section uuid="09347461435516302" class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+													title="标题" style="box-sizing:border-box;margin:0px 0px 16.400000000000002px 0px;padding:0px 1.3333333333333333px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+													data-ism="0" data-label="" data-gtype="" data-sid="0.9530064275141235"
+													data-rsid="">
+														<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+														style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:700;font-size:18px;line-height:1.2;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+														data-placeholder="一级标题">
+															<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																${item.name}
+															</span>
+														</h1>
+													</section>
+													<section uuid="5243338041786303" class="ProseMirror-node ProseMirror-flexBox"
+													title="正文组" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 1px;display:flex;flex-direction:column;max-width:none !important;"
+													data-ism="0" data-label="textGroup" data-gtype="container" data-sid="0.9704779660888048"
+													data-rsid="">
+														<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+														style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+															<section uuid="9199013930156505" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+															title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+															data-ism="0" data-label="" data-gtype="" data-sid="0.7244647385160161"
+															data-rsid="">
+																<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+																style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:14.666666666666666px;line-height:1.86;letter-spacing:0.7333333333333334px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+																data-placeholder="输入‘/’快速定义内容">
+																	<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																		${item.spu.summray!''}
+																	</span>
+																</p>
+															</section>
+														</section>
+													</section>
+												</section>
+											</section>
+											<section uuid="3854007649488793" class="ProseMirror-node ProseMirror-blockImage"
+											title="图片" style="box-sizing:border-box;align-self:flex-start;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;width:48.78048780487805%;display:flex;flex-direction:column;max-width:none !important;"
+											data-fit-in="{&quot;type&quot;:1,&quot;scale&quot;:100,&quot;offset&quot;:[0,0],&quot;naturalWidth&quot;:440,&quot;naturalHeight&quot;:564}"
+											data-ism="0" data-label="" data-gtype="" data-sid="0.3726546742557113"
+											data-rsid="" data-mid="100009725">
+												<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+												style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+													<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+													src="${item.spu.logo!'https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg'}"
+													alt="图片" title="图片">
+												</section>
+											</section>
+										</section>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</#if>
+	</#list>
+</#list>
+
+<#--分隔符-->
+<section uuid="5625459810904514" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="0">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section uuid="5989548871309058" class="ProseMirror-node ProseMirror-blockImage"
+title="分隔线" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 103.66666666666667px 0px 89.66666666666667px;display:flex;flex-direction:column;max-width:none !important;"
+data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:566,&quot;naturalHeight&quot;:30}"
+data-ism="1" data-label="divider__image" data-gtype="" data-sid="0.35733938794846076"
+data-rsid="" data-mid="">
+	<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+	style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+		<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+		src="https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/4126db70-67c3-4584-b1a2-7c5438adc77012076253.png"
+		alt="分隔线" title="分隔线">
+	</section>
+</section>
+<section uuid="9079468106959867" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+
+<#--标签：包含标签及extJson属性-->
+<section uuid="26621583292123985" class="ProseMirror-node ProseMirror-flexBox"
+title="文章列表卡片" style="box-sizing:border-box;margin:0px;padding:0px 21px 0px 21.333333333333332px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="articleListCard" data-gtype="fixed" data-sid="0.3796875585280941"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 12px 31px 21px;background-color:#FAF1EC;border-radius:0% 0% 0% 0%;border-width:5px;border-color:#D17147;border-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+		style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+			<section uuid="49397516297879607" class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+			title="卡片标题" style="box-sizing:border-box;margin:0px;padding:0px 12px 0px 12.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="0" data-label="" data-gtype="" data-sid="0.8426720890315935"
+			data-rsid="">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEyOSIgd2lkdGg9Ijc4OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSIxLjI0MTM0MDI3OTU3OTE2MjYgMS4yMzE1MDAzODcxOTE3NzI1IDc4OS40ODQwNjc2Nzg0NTE1IDEyOS40NzI3NTYzODU4MDMyMiI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGRTBCOCIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTc5MC43MjU0MDc5NTgwMzA3IDEzMC43MDQyNTY3NzI5OTVDNzkwLjcyNTQwNzk1ODAzMDcgMTMwLjcwNDI1Njc3Mjk5NSA3NTUuODA5MTY1MTIwMTI0OCAxMzAuNzA0MjU2NzcyOTk1IDc1NS44MDkxNjUxMjAxMjQ4IDEzMC43MDQyNTY3NzI5OTVDNzU1LjgwOTE2NTEyMDEyNDggMTMwLjcwNDI1Njc3Mjk5NSAzNi4xNTc1ODMxMTc0ODUwNDYgMTMwLjcwNDI1Njc3Mjk5NSAzNi4xNTc1ODMxMTc0ODUwNDYgMTMwLjcwNDI1Njc3Mjk5NUMzNi4xNTc1ODMxMTc0ODUwNDYgMTMwLjcwNDI1Njc3Mjk5NSAxLjI0MTM0MDI3OTU3OTE2MjYgMTMwLjcwNDI1Njc3Mjk5NSAxLjI0MTM0MDI3OTU3OTE2MjYgMTMwLjcwNDI1Njc3Mjk5NUMxLjI0MTM0MDI3OTU3OTE2MjYgMTMwLjcwNDI1Njc3Mjk5NSAxOC42OTk0NjE2OTg1MzIxMDQgNjUuOTY3ODc4NTgwMDkzMzggMTguNjk5NDYxNjk4NTMyMTA0IDY1Ljk2Nzg3ODU4MDA5MzM4QzE4LjY5OTQ2MTY5ODUzMjEwNCA2NS45Njc4Nzg1ODAwOTMzOCAxLjI0MTM0MDI3OTU3OTE2MjYgMS4yMzE1MDAzODcxOTE3NzI1IDEuMjQxMzQwMjc5NTc5MTYyNiAxLjIzMTUwMDM4NzE5MTc3MjVDMS4yNDEzNDAyNzk1NzkxNjI2IDEuMjMxNTAwMzg3MTkxNzcyNSAzNi4xNTc1ODMxMTc0ODUwNDYgMS4yMzE1MDAzODcxOTE3NzI1IDM2LjE1NzU4MzExNzQ4NTA0NiAxLjIzMTUwMDM4NzE5MTc3MjVDMzYuMTU3NTgzMTE3NDg1MDQ2IDEuMjMxNTAwMzg3MTkxNzcyNSA3NTUuODA5MTY1MTIwMTI0OCAxLjIzMTUwMDM4NzE5MTc3MjUgNzU1LjgwOTE2NTEyMDEyNDggMS4yMzE1MDAzODcxOTE3NzI1Qzc1NS44MDkxNjUxMjAxMjQ4IDEuMjMxNTAwMzg3MTkxNzcyNSA3OTAuNzI1NDA3OTU4MDMwNyAxLjIzMTUwMDM4NzE5MTc3MjUgNzkwLjcyNTQwNzk1ODAzMDcgMS4yMzE1MDAzODcxOTE3NzI1Qzc5MC43MjU0MDc5NTgwMzA3IDEuMjMxNTAwMzg3MTkxNzcyNSA3NzMuMjY3NDkwMjY3NzUzNiA2NS45Njc4Nzg1ODAwOTMzOCA3NzMuMjY3NDkwMjY3NzUzNiA2NS45Njc4Nzg1ODAwOTMzOEM3NzMuMjY3NDkwMjY3NzUzNiA2NS45Njc4Nzg1ODAwOTMzOCA3OTAuNzI1NDA3OTU4MDMwNyAxMzAuNzA0MjU2NzcyOTk1IDc5MC43MjU0MDc5NTgwMzA3IDEzMC43MDQyNTY3NzI5OTUgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center center;background-repeat:no-repeat;background-size:100% 85.43046357615894%;margin:0px 0px 0px 0px;padding:0px 12px 0px 19px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+					style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:700;font-size:20px;line-height:2.52;letter-spacing:1px;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+					data-placeholder="一级标题">
+						<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+							主题标签
+						</span>
+					</h1>
+				</section>
+			</section>
+			<section uuid="6123564561442987" class="ProseMirror-node ProseMirror-flexBox"
+			title="文章列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="0" data-label="articleList" data-gtype="container" data-sid="0.02138821358124421"
+			data-rsid="">
+				<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+				style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -28.666666666666668px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+					<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+					style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+					data-placeholder="附加说明">					
+						<#--基础信息：逐条显示 extJson。需要预先准备键值对。作为标签展示-->
+						<#if solution.extJson?? >
+							<#list solution.extJson?keys as key>
+								<#if solution.extJson[key]?? >
+									<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+										&nbsp;${key}/${solution.extJson[key]!}&nbsp;
+									</span>
+								</#if>	
+							</#list>
+						</#if>	
+						<#list solution.tags?split(" ") as tag>
+							<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+								&nbsp;#${tag}&nbsp;
+							</span>
+						</#list>
+					</p>					
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--分隔符-->
+<section uuid="5625459810904514" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="0">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section uuid="5989548871309058" class="ProseMirror-node ProseMirror-blockImage"
+title="分隔线" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 103.66666666666667px 0px 89.66666666666667px;display:flex;flex-direction:column;max-width:none !important;"
+data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:566,&quot;naturalHeight&quot;:30}"
+data-ism="1" data-label="divider__image" data-gtype="" data-sid="0.35733938794846076"
+data-rsid="" data-mid="">
+	<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+	style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+		<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+		src="https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/4126db70-67c3-4584-b1a2-7c5438adc77012076253.png"
+		alt="分隔线" title="分隔线">
+	</section>
+</section>
+<section uuid="9079468106959867" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+
+<#--结束标志-->
+<section uuid="9479369760302581" class="ProseMirror-node ProseMirror-flexBox"
+title="二维码卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 21px 0px 21.333333333333332px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="qrcodeCard" data-gtype="fixed" data-sid="0.8795106899522762"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:41px 0px 0px 22px;background-color:#FFFFFF;border-radius:5px 5px 5px 5px;border-width:1px;border-color:#D17147;border-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/21858e09-10a9-455a-b586-e9df8e074a3c12076254.png');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:59px 94px;margin:0px 0px 0px 0px;padding:0px 38px 41px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+			style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:row;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+				<section uuid="4791633324352105" class="ProseMirror-node ProseMirror-blockImage"
+				title="二维码" style="box-sizing:border-box;align-self:center;margin:0px 19px 0px 0px;padding:0px 0px 0px 0px;width:33.33333333333333%;display:flex;flex-direction:column;max-width:none !important;"
+				data-fit-in="{&quot;type&quot;:3,&quot;ratio&quot;:100,&quot;scale&quot;:100,&quot;offset&quot;:[0,0],&quot;naturalWidth&quot;:241,&quot;naturalHeight&quot;:241}"
+				data-ism="0" data-label="" data-gtype="" data-sid="0.6533857931736962"
+				data-rsid="" data-mid="242024">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:7px 6px 6px 6px;background-color:#FFE0B8;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+						style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+							<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+							src="https://www.biglistoflittlethings.com/static/qrcode/ilife.jpg"
+							alt="二维码" title="二维码">
+						</section>
+					</section>
+				</section>
+				<section uuid="3907428229421479" class="ProseMirror-node ProseMirror-flexBox"
+				title="布局" style="box-sizing:border-box;align-self:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;width:59.832134292565954%;display:flex;flex-direction:column;max-width:none !important;"
+				data-ism="0" data-label="" data-gtype="" data-sid="0.13071763200550124"
+				data-rsid="0">
+					<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+					style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+						<section uuid="8555295298918517" class="ProseMirror-node ProseMirror-title ProseMirror-textBlockNode"
+						title="微信名称" style="box-sizing:border-box;margin:0px 0px 10.200000000000001px 0px;padding:0px 18.333333333333332px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="" data-gtype="" data-sid="0.9070479190103715"
+						data-rsid="">
+							<h6 class="ProseMirror-node-content ProseMirror-node-title-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:17.333333333333332px;line-height:1.2;letter-spacing:0.8666666666666667px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+							data-placeholder="小标题">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									More+墨加
+								</span>
+							</h6>
+						</section>
+						<section uuid="01477603111490633" class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+						title="微信号" style="box-sizing:border-box;margin:0px 0px 12.333333333333334px 0px;padding:0px 3.3333333333333335px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="wechat" data-gtype="" data-sid="0.4215085071725819"
+						data-rsid="">
+							<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+							data-placeholder="附加说明">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									微信号：小确幸大生活
+								</span>
+							</p>
+						</section>
+						<section uuid="14819982326391945" class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+						title="提示" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 1px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="tips" data-gtype="" data-sid="0.40357993753232524"
+						data-rsid="">
+							<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+							data-placeholder="附加说明">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									扫码关注 了解更多内容
+								</span>
+							</p>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--底部求关注-->
+<section uuid="9255047413788322" class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.994625758622097" data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section uuid="9777506016087862" class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="在看引导" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 30px 0px 30px;display:flex;flex-direction:column;align-items:flex-end;max-width:none !important;"
+data-ism="1" data-label="inSight" data-gtype="" data-sid="0.23198622050176465"
+data-rsid="">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjUyIiB3aWR0aD0iNTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS4xMTM1OTA0Nzg4OTcwOTQ3IDEuMzQwMzg3MzQ0MzYwMzUxNiA1MS42NDgwNzE1Mjc0ODEwOCA1MS42NDYyMTg3NzY3MDI4OCI+CgogICAgPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSIwLjU0ODg5MDIyODE4OTE0NjYiIHgxPSI1MCUiIHkxPSIxMDAlIiB4Mj0iNTAlIiB5Mj0iMCUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjU3JSIgc3RvcC1jb2xvcj0icmdiYSgyNTUsMjI0LDE4NCwxKSIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InJnYmEoMjUxLDI1MSwyNTEsMCkiIC8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0idXJsKCMwLjU0ODg5MDIyODE4OTE0NjYpIiAgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMjYuOTM3ODI5OTcxMzEzNDc3IDEuMzQwMzg3MzQ0MzYwMzUxNkM0MS4xOTk4NTU5MjM2NTI2NSAxLjM0MDM4NzM0NDM2MDM1MTYgNTIuNzYxNjYyMDA2Mzc4MTc0IDEyLjkwMTQzOTY2Njc0ODA0NyA1Mi43NjE2NjIwMDYzNzgxNzQgMjcuMTYyMjQzMzY2MjQxNDU1QzUyLjc2MTY2MjAwNjM3ODE3NCA0MS40MjQzMDA0MzIyMDUyIDQxLjE5OTg1NTkyMzY1MjY1IDUyLjk4NjYwNjEyMTA2MzIzIDI2LjkzNzgyOTk3MTMxMzQ3NyA1Mi45ODY2MDYxMjEwNjMyM0MxMi42NzUzOTY1NjE2MjI2MiA1Mi45ODY2MDYxMjEwNjMyMyAxLjExMzU5MDQ3ODg5NzA5NDcgNDEuNDI0MzAwNDMyMjA1MiAxLjExMzU5MDQ3ODg5NzA5NDcgMjcuMTYyMjQzMzY2MjQxNDU1QzEuMTEzNTkwNDc4ODk3MDk0NyAxMi45MDE0Mzk2NjY3NDgwNDcgMTIuNjc1Mzk2NTYxNjIyNjIgMS4zNDAzODczNDQzNjAzNTE2IDI2LjkzNzgyOTk3MTMxMzQ3NyAxLjM0MDM4NzM0NDM2MDM1MTYgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:17.333333333333332px 17.333333333333332px;margin:0px 0px 0px 0px;padding:0px 3px 2px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ0IiB3aWR0aD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMi43MjMxOTk1MzM3MzEwMjg0IDEuNzkzMTczNzg5OTc4MDI3MyAzMS45MTQ2NDY2NTA3MzA5OTQgNDQuMDM3MzQ0Mjc2OTA1MDYiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiNEMTcxNDciICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik0zLjU1MTMyNTc5ODAzNDY2OCAzMS4wMjkyMDAwNzcwNTY4ODVDMy41NTEzMjU3OTgwMzQ2NjggMzEuMDI5MjAwMDc3MDU2ODg1IDE2LjYxNTAxOTY3OTA2OTUyIDQ0Ljk0MDMxNDUzMTMyNjI5NCAxNi42MTUwMTk2NzkwNjk1MiA0NC45NDAzMTQ1MzEzMjYyOTRDMTcuNzI5ODIyOTkzMjc4NTAzIDQ2LjEyNzI1MjU3ODczNTM1IDE5LjYzMTIyMjcyNDkxNDU1IDQ2LjEyNzI1MjU3ODczNTM1IDIwLjc0NjAyNjAzOTEyMzUzNSA0NC45NDAzMTQ1MzEzMjYyOTRDMjAuNzQ2MDI2MDM5MTIzNTM1IDQ0Ljk0MDMxNDUzMTMyNjI5NCAzMy44MDk3MTk5MjAxNTgzODYgMzEuMDI5MjAwMDc3MDU2ODg1IDMzLjgwOTcxOTkyMDE1ODM4NiAzMS4wMjkyMDAwNzcwNTY4ODVDMzUuNjM4Mzg4NTE0NTE4NzQgMjkuMDgxNDY4NTgyMTUzMzIgMzQuMjQwNDAyMzQwODg4OTggMjUuOTE2NzE4MjQ0NTUyNjEyIDMxLjU1MDk4MDA5MTA5NDk3IDI1LjkxNjcxODI0NDU1MjYxMkMzMS41NTA5ODAwOTEwOTQ5NyAyNS45MTY3MTgyNDQ1NTI2MTIgMjUuMDc5NzQyNDMxNjQwNjI1IDI1LjkxNjcxODI0NDU1MjYxMiAyNS4wNzk3NDI0MzE2NDA2MjUgMjUuOTE2NzE4MjQ0NTUyNjEyQzI1LjA3OTc0MjQzMTY0MDYyNSAyNS45MTY3MTgyNDQ1NTI2MTIgMjUuMDc5NzQyNDMxNjQwNjI1IDQuMzEzNjkzNzYxODI1NTYxNSAyNS4wNzk3NDI0MzE2NDA2MjUgNC4zMTM2OTM3NjE4MjU1NjE1QzI1LjA3OTc0MjQzMTY0MDYyNSAyLjkyMTIwMzYxMzI4MTI1IDIzLjkzNzQzNTc0NjE5MjkzMiAxLjc5MzE3Mzc4OTk3ODAyNzMgMjIuNTI5MjYzMTM4NzcxMDU3IDEuNzkzMTczNzg5OTc4MDI3M0MyMi41MjkyNjMxMzg3NzEwNTcgMS43OTMxNzM3ODk5NzgwMjczIDE0LjgzMTc4MjU3OTQyMTk5NyAxLjc5MzE3Mzc4OTk3ODAyNzMgMTQuODMxNzgyNTc5NDIxOTk3IDEuNzkzMTczNzg5OTc4MDI3M0MxMy40MjMyMDI1MTQ2NDg0MzggMS43OTMxNzM3ODk5NzgwMjczIDEyLjI4MTMwMzI4NjU1MjQzIDIuOTIxMjAzNjEzMjgxMjUgMTIuMjgxMzAzMjg2NTUyNDMgNC4zMTM2OTM3NjE4MjU1NjE1QzEyLjI4MTMwMzI4NjU1MjQzIDQuMzEzNjkzNzYxODI1NTYxNSAxMi4yODEzMDMyODY1NTI0MyAyNS45MTY3MTgyNDQ1NTI2MTIgMTIuMjgxMzAzMjg2NTUyNDMgMjUuOTE2NzE4MjQ0NTUyNjEyQzEyLjI4MTMwMzI4NjU1MjQzIDI1LjkxNjcxODI0NDU1MjYxMiA1LjgxMDA2NTYyNzA5ODA4MzUgMjUuOTE2NzE4MjQ0NTUyNjEyIDUuODEwMDY1NjI3MDk4MDgzNSAyNS45MTY3MTgyNDQ1NTI2MTJDMy4xMjA2NDMzNzczMDQwNzcgMjUuOTE2NzE4MjQ0NTUyNjEyIDEuNzIyNjU3MjAzNjc0MzE2NCAyOS4wODE0Njg1ODIxNTMzMiAzLjU1MTMyNTc5ODAzNDY2OCAzMS4wMjkyMDAwNzcwNTY4ODUgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 0px bottom 2.066666666666665px;background-repeat:no-repeat;background-size:10.666666666666666px 14.666666666666666px;margin:0px 0px 0px 0px;padding:2px 32px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+			style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#D17147;font-style:normal;font-weight:400;font-size:12px;line-height:1.2;letter-spacing:0.6px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+			data-placeholder="附加说明">
+				<span style="font-weight:700;font-size:16px;" class="ProseMirror-mark ProseMirror-style"
+				styleid="0">
+					点个【在看】，你最好看
+				</span>
+			</p>
+		</section>
+	</section>
+</section>

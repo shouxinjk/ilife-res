@@ -1,0 +1,105 @@
+<#--note马蜂窝游记风格-->
+<#--note传递参数：note:{}、solution:{}、solutionSections:[]、solutionItems:{xxx:[]}、noteItems:{xxx: []}-->
+<#--其中：solutionItems键值为sectionId，value为对应section下的条目列表；noteItems键值为SolutionItemId，value为对应SolutionItemId下的条目列表-->
+
+<#--LOGO-->
+<div style="width:100%;"><img src="${note.logo!''}" style="object-fit:cover;width:100%;"/></div>
+
+<#--标签：包含标签及extJson属性-->
+<div class="sxTags">
+    <#list note.tags?split(" ") as tag>
+        <span class="sxTag">${tag}</span>
+    </#list>
+    <#--基础信息：逐条显示关联solution的 extJson。需要预先准备键值对。作为标签展示-->
+    <#if solution.extJson?? >
+        <#list solution.extJson?keys as key>
+            <#if solution.extJson[key]?? >
+                <span class="sxTag">${key}/${solution.extJson[key]!}</span>
+            </#if>  
+        </#list>
+    </#if>  
+</div>
+
+<#--标题-->
+<h2 class="sxH2">${note.name}</h2>
+
+<#--描述-->
+<#if note.description??>
+    <blockquote class='big-quote'>
+            ${note.description}
+    </blockquote>
+</#if>
+
+<#--按照solutionSections展示section列表: sku仅展示汇总列表-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+    <br/>
+    <#--section标题-->
+    <div class="main sxH3">
+        <span>${section.name!'Section'}</span>
+    </div>
+    <#--显示section下的noteItem内容-->
+    <#--NoteItems列表：从solutionItems中获取，其结构为{solutionItemId: []} 注意：当前noteItem未关联到solutionItem，而是直接放在section下-->
+    <#assign nItems = noteItems[section.id]>
+    <#list nItems as nItem>
+        <#--标题-->
+        <div class="sxH3">${nItem.name}</div>       
+        <#--直接显示内容-->
+        <div>${nItem.content}</div> 
+    </#list>
+    <#--显示SolutionItems列表，包含有关联SPU：从solutionItems中获取，其结构为{sectionId: []}-->
+    <#assign items = solutionItems[section.id]>
+    <#--包含有spu及关联的item.spu列表-->
+    <#if items?? && (items?size>0)>
+        <#--显示SPU及item.spu详情-->
+        <#list items as item>
+            <#--SPU显示为大图，左下角添加itemType及名称-->
+            <#assign hasImage = false/>
+            <div style="width:100%;">
+                <#--优先显示logo，否则用images[0]填充-->
+                <#if item.spu.logo?? >
+                    <img src="${item.spu.logo}" style="width:100%;"/>
+                    <#assign hasImage = true/>
+                <#elseif item.spu.images?? && (item.spu.images?size>0) >
+                    <img src="${item.spu.images[0]}" style="width:100%;"/>
+                    <#assign hasImage = true/>
+                </#if>
+            </div>
+            <#if hasImage >
+                <#--得到itemType：注意spu数据中type存在string及对象两种情况-->
+                <#assign itemType = item.spu.type!''>
+                <#if itemType?is_string >
+                    <#assign itemType = itemType>
+                <#else >
+                    <#assign itemType = itemType.item!''>
+                </#if>        
+                <#--显示itemType标志及名称-->
+                <div style="width:100%;display:flex;flex-direction:row;">
+                    <div style="line-height:32px;"><img src="https://www.biglistoflittlethings.com/static/c2b/travel/${itemType}.png" style="width:32px;height:32px;object-fit:cover;"/></div>
+                    <div style="line-height:32px;">${item.spu.name}</div>
+                </div>
+            </#if>
+        </#list>
+    </#if>
+</#list>
+
+<#--私域：小程序码及客服二维码-：客服二维码随机显示一个即可->
+<div class="grid">
+    <#if qrcodes?? && qrcodes.miniprog?? >
+        <div>前往购买</div>
+        <div class="grid-image"><img src="${qrcodes.miniprog}" style="object-fit:cover;width:100%"/></div>
+    <#/#if>
+    <#if qrcodes?? && qrcodes.customerService >
+        <div>立即定制</div>
+        <div class="grid-image"><img src="${qrcodes.customerService}" style="object-fit:cover;width:100%"/></div>
+    <#/#if> 
+</div>  
+
+<#--公域：电商平台链接：包含有电商平台发布链接则直接显示-->
+<#if publishProducts?? && (publishProducts?size > 0) >
+    <#list publishProducts as publishProduct> 
+        <div class="jump">
+            <a href="${publishProduct.publishUrl}" target="_new">前往 ${publishProduct.platformSourceId_dictText} </a>
+        </div>
+    </#list>
+</#if>

@@ -1,0 +1,596 @@
+<#--solution传递参数：solution:{}、solutionSections:[]、solutionItems:{xxx: []}-->
+<#--背景颜色-->
+<section class="ProseMirror-article" style="padding:0px;background-color:#EEE0CA;max-width:none !important;display:flex;flex-direction:column;">
+
+<#--上方引导关注-->
+<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="关注引导" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 12.333333333333334px 0px 12.333333333333334px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+data-ism="1" data-label="follow" data-gtype="" data-sid="0.8742590273527484"
+data-rsid="">
+	<section class="ProseMirror-fixed-decoration" ignoreparse="true" style="margin:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-fixed-decoration-center" ignoreparse="true"
+		style="display:flex;z-index:1;flex-grow:1;">
+			<section class="ProseMirror-fixed-decoration-left" ignoreparse="true"
+			style="display:flex;justify-content:flex-start;align-items:center;width:0px;line-height:0;transform:translate(0px, 0.06666666666666761px);z-index:0;">
+				<section ignoreparse="true" style="flex-shrink:0;width:2px;height:23.333333333333332px;-webkit-mask-image:-webkit-radial-gradient(white, black);max-width:none !important;">
+					<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="1.540587306022644 -1.787032127380371 6 69.55444097518921"
+					style="display: block; width: 100%; height: 100%;">
+						<path fill="none" fill-rule="evenodd" stroke="#2BB662" stroke-width="6"
+						stroke-linecap="butt" stroke-linejoin="miter" d="M4.540587306022644 1.212967872619629C4.540587306022644 1.212967872619629 4.540587306022644 64.76740884780884 4.540587306022644 64.76740884780884">
+						</path>
+					</svg>
+				</section>
+			</section>
+			<section style="flex:1;z-index:1;padding:2px 0px 2px 8px;display:flex;flex-direction:column;">
+				<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+				style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#19A1DB;font-style:normal;font-weight:400;font-size:16px;line-height:1.2;letter-spacing:1.5999999999999999px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+				data-placeholder="附加说明">
+					<span style="color:#000000;" class="ProseMirror-mark ProseMirror-style"
+					styleid="0">
+						点击
+					</span>
+					<span style="color:#19a1db;" class="ProseMirror-mark ProseMirror-style"
+					styleid="0">
+						【蓝字】
+					</span>
+					<span style="color:#000000;" class="ProseMirror-mark ProseMirror-style"
+					styleid="0">
+						关注我们
+					</span>
+				</p>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--分隔符-->
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+
+<#--LOGO与摘要-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="图文卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 10px 0px 10px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="imageTextCard" data-gtype="container" data-sid="0.3312237933626565"
+data-rsid="0">
+	<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+	style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+		<#--LOGO-->
+		<section class="ProseMirror-node ProseMirror-blockImage"
+		title="图片" style="box-sizing:border-box;margin:0px 0px -23.333333333333332px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+		data-fit-in="{&quot;type&quot;:1,&quot;scale&quot;:100,&quot;offset&quot;:[0,0],&quot;naturalWidth&quot;:685,&quot;naturalHeight&quot;:358}"
+		data-ism="0" data-label="" data-gtype="" data-sid="0.38517955545289273"
+		data-rsid="" data-mid="390605">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:16px 23px 53px 25px;background-color:#FFFFFF;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9Ijc3IiB3aWR0aD0iMzA0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjMuOTk5OTAwMTAyNjE1MzU2NCAxLjg2NTYwMDEwOTEwMDM0MTggMzA0LjMwNzI1NjkzNzAyNyA3Ni42MDE2MDIwNjk1NTk3NSI+CgogICAgPGRlZnM+dW5kZWZpbmVkPGNsaXBQYXRoIGlkPSIwLjAyODk2MzIxNDg5OTQzMDMyMyI+PHBhdGggc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIGQ9Ik0zLjk5OTkwMDEwMjYxNTM1NjQgNTQuOTkyNjE4NTYwNzkxMDE2QzMuOTk5OTAwMTAyNjE1MzU2NCA1NC45OTI2MTg1NjA3OTEwMTYgMjQuNDIyMDcxNDU2OTA5MTggNzkuMjgzMzg0Nzk5OTU3MjggNzAuOTk5NzY4ODUzMTg3NTYgNzAuOTk1ODM3MjExNjA4ODlDMTA2LjAxODU5MDIxMTg2ODI5IDY0Ljc2MjY5Mzg4MTk4ODUzIDEyNC43Nzc4Mzk2NjA2NDQ1MyA0NS40NTI1MzcwNTk3ODM5MzYgMTM2LjYxNDAwMDA4MjAxNiAzMy44MzAwNzkwNzg2NzQzMTZDMTQxLjcwNjExMDExOTgxOTY0IDI4LjgyNzcxMzQ4OTUzMjQ3IDE0NC4xNDQ0MDg1ODM2NDEwNSAyMi4zMjI2MTgwMDc2NTk5MTIgMTQyLjg2MTUyNzA4NTMwNDI2IDE1Ljk1NTgyOTYyMDM2MTMyOEMxNDEuNzgzMzczMjM2NjU2MiAxMC41OTkxNDkyMjcxNDIzMzQgMTM4LjMzMzIwMjQ4MTI2OTg0IDYuMTA5NjA3Njk2NTMzMjAzIDEyOC44NDUxMzQ4NTQzMTY3IDkuNTY0MTc3MDM2Mjg1NEMxMDkuODY4OTk5NjAwNDEwNDYgMTYuNDczMzE1NzE1Nzg5Nzk1IDEwNy4yODE0Njk1ODM1MTEzNSA1NC40NjQyNTQzNzkyNzI0NiAxMzMuMTU3NzUwMjQ4OTA5IDY5LjY2NDA0ODY3MTcyMjQxQzE1OS4wMzQ0MjMxMTI4NjkyNiA4NC44NTkxODA5MjcyNzY2MSAyMTUuNTMwNDI5OTU5Mjk3MTggODAuMTczODMzODQ3MDQ1OSAyNTUuNjM5OTg4NjYwODEyMzggNTcuMjI4ODQyMjU4NDUzMzdDMjg0LjM5NTIwMjg3NTEzNzMzIDQwLjc3OTYyMjA3Nzk0MTg5NSAzMDguMzA3MTU3MDM5NjQyMzMgMS44NjU2MDAxMDkxMDAzNDE4IDMwOC4zMDcxNTcwMzk2NDIzMyAxLjg2NTYwMDEwOTEwMDM0MTgiIC8+PC9jbGlwUGF0aD48L2RlZnM+CiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0ibm9uZSIgIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlPSIjQUNBQ0FDIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBjbGlwLXBhdGg9InVybCgjMC4wMjg5NjMyMTQ4OTk0MzAzMjMpIiBkPSJNMy45OTk5MDAxMDI2MTUzNTY0IDU0Ljk5MjYxODU2MDc5MTAxNkMzLjk5OTkwMDEwMjYxNTM1NjQgNTQuOTkyNjE4NTYwNzkxMDE2IDI0LjQyMjA3MTQ1NjkwOTE4IDc5LjI4MzM4NDc5OTk1NzI4IDcwLjk5OTc2ODg1MzE4NzU2IDcwLjk5NTgzNzIxMTYwODg5QzEwNi4wMTg1OTAyMTE4NjgyOSA2NC43NjI2OTM4ODE5ODg1MyAxMjQuNzc3ODM5NjYwNjQ0NTMgNDUuNDUyNTM3MDU5NzgzOTM2IDEzNi42MTQwMDAwODIwMTYgMzMuODMwMDc5MDc4Njc0MzE2QzE0MS43MDYxMTAxMTk4MTk2NCAyOC44Mjc3MTM0ODk1MzI0NyAxNDQuMTQ0NDA4NTgzNjQxMDUgMjIuMzIyNjE4MDA3NjU5OTEyIDE0Mi44NjE1MjcwODUzMDQyNiAxNS45NTU4Mjk2MjAzNjEzMjhDMTQxLjc4MzM3MzIzNjY1NjIgMTAuNTk5MTQ5MjI3MTQyMzM0IDEzOC4zMzMyMDI0ODEyNjk4NCA2LjEwOTYwNzY5NjUzMzIwMyAxMjguODQ1MTM0ODU0MzE2NyA5LjU2NDE3NzAzNjI4NTRDMTA5Ljg2ODk5OTYwMDQxMDQ2IDE2LjQ3MzMxNTcxNTc4OTc5NSAxMDcuMjgxNDY5NTgzNTExMzUgNTQuNDY0MjU0Mzc5MjcyNDYgMTMzLjE1Nzc1MDI0ODkwOSA2OS42NjQwNDg2NzE3MjI0MUMxNTkuMDM0NDIzMTEyODY5MjYgODQuODU5MTgwOTI3Mjc2NjEgMjE1LjUzMDQyOTk1OTI5NzE4IDgwLjE3MzgzMzg0NzA0NTkgMjU1LjYzOTk4ODY2MDgxMjM4IDU3LjIyODg0MjI1ODQ1MzM3QzI4NC4zOTUyMDI4NzUxMzczMyA0MC43Nzk2MjIwNzc5NDE4OTUgMzA4LjMwNzE1NzAzOTY0MjMzIDEuODY1NjAwMTA5MTAwMzQxOCAzMDguMzA3MTU3MDM5NjQyMzMgMS44NjU2MDAxMDkxMDAzNDE4IiAvPgoKICAgIDwvc3ZnPg==');background-position:left 0px top 0px;background-repeat:no-repeat;background-size:101.33333333333333px 25.666666666666668px;margin:0px 0px 0px 0px;padding:35px 0px 0px 1px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+					style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+						<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+						src="${solution.logo!'https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg'}"
+						alt="图片" title="图片">
+					</section>
+				</section>
+			</section>
+		</section>
+		<#--描述-->
+		<section class="ProseMirror-node ProseMirror-flexBox"
+		title="正文组" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;z-index:1;max-width:none !important;"
+		data-ism="0" data-label="textGroup" data-gtype="container" data-sid="0.38503918874094634"
+		data-rsid="">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iMTkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk5NjUwNzE2NzgxNjE2IDEuOTk1MDkyODY4ODA0OTMxNiAxOC45OTk4NjMyNjY5NDQ4ODUgNzIuMDAzNjA1ODQyNTkwMzMiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiMyQkI2NjIiICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik0yMC45OTk4MjgzMzg2MjMwNDcgMS45OTUwOTI4Njg4MDQ5MzE2QzIwLjk5OTgyODMzODYyMzA0NyAxLjk5NTA5Mjg2ODgwNDkzMTYgMjAuOTk5ODI4MzM4NjIzMDQ3IDczLjk5NTU5MDY4Njc5ODEgMjAuOTk5ODI4MzM4NjIzMDQ3IDczLjk5NTU5MDY4Njc5ODFDMjAuOTk5ODI4MzM4NjIzMDQ3IDczLjk5NTU5MDY4Njc5ODEgMS45OTk5NjUwNzE2NzgxNjE2IDczLjk5ODY5ODcxMTM5NTI2IDEuOTk5OTY1MDcxNjc4MTYxNiA3My45OTg2OTg3MTEzOTUyNkMxLjk5OTk2NTA3MTY3ODE2MTYgNzMuOTk4Njk4NzExMzk1MjYgMjAuOTk5ODI4MzM4NjIzMDQ3IDEuOTk1MDkyODY4ODA0OTMxNiAyMC45OTk4MjgzMzg2MjMwNDcgMS45OTUwOTI4Njg4MDQ5MzE2IFoiIC8+CgogICAgPC9zdmc+');background-position:left 0px top 1px;background-repeat:no-repeat;background-size:6.333333333333333px 24px;margin:0px 0px 0px 0px;padding:0px 0px 0px 6px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9Ijc1IiB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45OTk4MDk1MDM1NTUyOTc5IDEuOTk1ODQ5MTMyNTM3ODQxOCAxNi4wMDAxMzI1NjA3Mjk5OCA3NS4wMDI4NDk1Nzg4NTc0MiI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzJCQjY2MiIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEuOTk5ODA5NTAzNTU1Mjk3OSAxLjk5NTg0OTEzMjUzNzg0MThDMS45OTk4MDk1MDM1NTUyOTc5IDEuOTk1ODQ5MTMyNTM3ODQxOCAyLjk5OTcxOTczODk2MDI2NiA3Ni45OTU1OTA2ODY3OTgxIDIuOTk5NzE5NzM4OTYwMjY2IDc2Ljk5NTU5MDY4Njc5ODFDMi45OTk3MTk3Mzg5NjAyNjYgNzYuOTk1NTkwNjg2Nzk4MSAxNy45OTk5NDIwNjQyODUyOCA3Ni45OTg2OTg3MTEzOTUyNiAxNy45OTk5NDIwNjQyODUyOCA3Ni45OTg2OTg3MTEzOTUyNkMxNy45OTk5NDIwNjQyODUyOCA3Ni45OTg2OTg3MTEzOTUyNiAxLjk5OTgwOTUwMzU1NTI5NzkgMS45OTU4NDkxMzI1Mzc4NDE4IDEuOTk5ODA5NTAzNTU1Mjk3OSAxLjk5NTg0OTEzMjUzNzg0MTggWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 0px top 0px;background-repeat:no-repeat;background-size:5.333333333333333px 25px;margin:0px 0px 0px 0px;padding:0px 5px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:35px 20px 33px 40px;background-color:#FFFFFF;border-radius:0% 0% 0% 0%;border-width:1px;border-color:#2BB662;border-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+						style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+							<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+							title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+							data-ism="0" data-label="" data-gtype="" data-sid="0.40210183133259525"
+							data-rsid="">
+								<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+								style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+								data-placeholder="输入‘/’快速定义内容">
+									<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+										${solution.description!'美好的记忆很难用文字表达。'}
+									</span>
+								</p>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--按照solutionSections展示section列表-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+	<#--分隔留白-->
+	<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+	title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+	data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+	data-rsid="">
+		<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+		style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+		data-placeholder="输入‘/’快速定义内容">
+			<br class="ProseMirror-node ProseMirror-hardBreak">
+		</p>
+	</section>
+
+	<#--section标题-->
+	<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+	title="一级标题" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 13px 0px 13px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+	data-ism="1" data-label="" data-gtype="" data-sid="0.7337770872497047"
+	data-rsid="">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI5NCIgd2lkdGg9IjMyMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSI2Mi4zNDcxNTIzMTkyOTg1MTYgMzQuMDU3ODQwOTkwMjM3MTI1IDMyMi45ODIzMDE3MDc5MDE1IDI5NC4yNTQyOTUxNTc2MTI2NiI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGQzg3MSIgIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTI3OC45Njg2NjUyNDIxOTUxMyAyMjUuMDk4MDg1ODgwMjc5NTRDMjc4Ljk2ODY2NTI0MjE5NTEzIDIyNS4wOTgwODU4ODAyNzk1NCAzNjkuODE4MzI0Njg1MDk2NzQgMjU0LjUxMzk4NDY4MDE3NTc4IDM4Mi45Njg1NDYzOTA1MzM0NSAxOTcuMDk3ODkyMjg0MzkzM0MzOTYuMTE4OTY0MTk1MjUxNDYgMTM5LjY4MzM1MzkwMDkwOTQyIDM1MS43ODk3NDExNTg0ODU0IDExOS4yNzI5NTYzNzEzMDczNyAzMTIuOTY4NTU0NzM1MTgzNyAxMTkuMDk4OTA2OTkzODY1OTdDMjc0LjE0NzU2NDQxMTE2MzMzIDExOC45Mjc5NjU2NDEwMjE3MyAyNTIuNjE1Mjc1MDI1MzY3NzQgMTEyLjU1ODA2OTIyOTEyNTk4IDIwMi40MjU2MjQ5NjY2MjE0IDU3LjA1ODA3Mzk5NzQ5NzU2QzE1Mi4yMzU3Nzg4MDg1OTM3NSAxLjU1NDk3MDc0MTI3MTk3MjcgMS45Njg2MjU0MjYyOTI0MTk0IDYwLjU3OTQ2NTg2NjA4ODg3IDEwMS45Njg2Njk1MzM3Mjk1NSA4Ny4wOTg2ODU3NDE0MjQ1NkMxOTguNTM5NTI1NTA4ODgwNjIgMTEyLjcwODgwODQyMjA4ODYyIDE1Ny45MDMwNDgwMzg0ODI2NyAxODEuMjg1ODE3MTQ2MzAxMjcgOTcuOTY4NjM2MzkzNTQ3MDYgMjAyLjA5ODcwMzg2MTIzNjU3QzM4LjAzNDAyODY0OTMzMDE0IDIyMi45MTAwMzY1NjM4NzMzIDY3LjU4MTI4Nzg2MDg3MDM2IDI2Ni4zMDg5MzgwMjY0MjgyIDg3LjExNDE0ODk3NDQxODY0IDI3Ni40ODYxNjQ1Njk4NTQ3NEMxNzMuNTE2MDgwNjE3OTA0NjYgMzIxLjUwNzQ1NDg3MjEzMTM1IDIxNC44MzI2MzAzOTU4ODkyOCAyMjAuNjY3NTk2ODE3MDE2NiAyNTMuOTY4NTU2MTY1Njk1MiAyNzAuMDk5MTc0MDIyNjc0NTZDMjkzLjEwNDQ4MTkzNTUwMTEgMzE5LjUyOTE5NzIxNjAzMzk0IDMyOC41Nzk2MjYzMjE3OTI2IDMzNC41MzE2MzE5NDY1NjM3IDM0MC40NzQ0MjA0MjgyNzYwNiAzMjYuMDk0ODk5MTc3NTUxMjdDMzc1LjU3Nzc2MDU3NzIwMTg0IDMwMS4yMTIwNTQyNTI2MjQ1IDI3OC45Njg2NjUyNDIxOTUxMyAyMjUuMDk4MDg1ODgwMjc5NTQgMjc4Ljk2ODY2NTI0MjE5NTEzIDIyNS4wOTgwODU4ODAyNzk1NCBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:left 0px bottom 0px;background-repeat:no-repeat;background-size:107.66666666666667px 98px;margin:0px 0px 0px 0px;padding:0px 0px 27px 32px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS41NzI2ODI0OTk4ODU1NTkgMS4wOTk2NDk0MjkzMjEyODkgODMuNDI0NTU2MjU1MzQwNTggNzEuNTAzMjEzODgyNDQ2MjkiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiMwMDAwMDAiICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik01Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OEM1Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OCA1Ny44MTM5NTYzNzk4OTA0NCA1OS40MzEwNTUwNjg5Njk3MyA1Ny44MTM5NTYzNzk4OTA0NCA1OS40MzEwNTUwNjg5Njk3M0M2Ny4xODc1MDIwMjY1NTc5MiA1Ni4yODQxODAxNjQzMzcxNiA3MS4yNTkzMDc1MDM3MDAyNiA0Ny4xOTk0MjQyNjY4MTUxODYgNjkuOTk5NTY1NzIwNTU4MTcgMzIuMTQ3MjYxMTQyNzMwNzFDNjkuOTk5NTY1NzIwNTU4MTcgMzIuMTQ3MjYxMTQyNzMwNzEgNTUuMDAxODkyNjg1ODkwMiAzMi4xNDcyNjExNDI3MzA3MSA1NS4wMDE4OTI2ODU4OTAyIDMyLjE0NzI2MTE0MjczMDcxQzU1LjAwMTg5MjY4NTg5MDIgMzIuMTQ3MjYxMTQyNzMwNzEgNTUuMDAxODkyNjg1ODkwMiAxLjA5OTY0OTQyOTMyMTI4OSA1NS4wMDE4OTI2ODU4OTAyIDEuMDk5NjQ5NDI5MzIxMjg5QzU1LjAwMTg5MjY4NTg5MDIgMS4wOTk2NDk0MjkzMjEyODkgODQuOTk3MjM4NzU1MjI2MTQgMS4wOTk2NDk0MjkzMjEyODkgODQuOTk3MjM4NzU1MjI2MTQgMS4wOTk2NDk0MjkzMjEyODlDODQuOTk3MjM4NzU1MjI2MTQgMS4wOTk2NDk0MjkzMjEyODkgODQuOTk3MjM4NzU1MjI2MTQgNDAuNjExOTY2MTMzMTE3Njc2IDg0Ljk5NzIzODc1NTIyNjE0IDQwLjYxMTk2NjEzMzExNzY3NkM4MS44Nzc2OTEzODgxMzAxOSA1OC43OTcwMTgwNTExNDc0NiA3My4xMzQwMTY2MzMwMzM3NSA2OS4xNDk4NDc5ODQzMTM5NiA1OC43NTEzMTA5NDQ1NTcxOSA3MS42NjExMzE4NTg4MjU2OEM1OC43NTEzMTA5NDQ1NTcxOSA3MS42NjExMzE4NTg4MjU2OCA1Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OCA1Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OCBaIE01LjMyMjEwMDc1ODU1MjU1MSA3Mi42MDI4NjMzMTE3Njc1OEM1LjMyMjEwMDc1ODU1MjU1MSA3Mi42MDI4NjMzMTE3Njc1OCA1LjMyMjEwMDc1ODU1MjU1MSA1OS40MzEwNTUwNjg5Njk3MyA1LjMyMjEwMDc1ODU1MjU1MSA1OS40MzEwNTUwNjg5Njk3M0MxNC42OTU2NDY0MDUyMjAwMzIgNTYuMjg0MTgwMTY0MzM3MTYgMTguNzY3MjU1NzgzMDgxMDU1IDQ3LjE5OTQyNDI2NjgxNTE4NiAxNy41MDc3MTAwOTkyMjAyNzYgMzIuMTQ3MjYxMTQyNzMwNzFDMTcuNTA3NzEwMDk5MjIwMjc2IDMyLjE0NzI2MTE0MjczMDcxIDEuNTcyNjgyNDk5ODg1NTU5IDMyLjE0NzI2MTE0MjczMDcxIDEuNTcyNjgyNDk5ODg1NTU5IDMyLjE0NzI2MTE0MjczMDcxQzEuNTcyNjgyNDk5ODg1NTU5IDMyLjE0NzI2MTE0MjczMDcxIDEuNTcyNjgyNDk5ODg1NTU5IDEuMDk5NjQ5NDI5MzIxMjg5IDEuNTcyNjgyNDk5ODg1NTU5IDEuMDk5NjQ5NDI5MzIxMjg5QzEuNTcyNjgyNDk5ODg1NTU5IDEuMDk5NjQ5NDI5MzIxMjg5IDMyLjUwNTM4MzEzMzg4ODI0NSAxLjA5OTY0OTQyOTMyMTI4OSAzMi41MDUzODMxMzM4ODgyNDUgMS4wOTk2NDk0MjkzMjEyODlDMzIuNTA1MzgzMTMzODg4MjQ1IDEuMDk5NjQ5NDI5MzIxMjg5IDMyLjUwNTM4MzEzMzg4ODI0NSA0MC42MTE5NjYxMzMxMTc2NzYgMzIuNTA1MzgzMTMzODg4MjQ1IDQwLjYxMTk2NjEzMzExNzY3NkMyOC43NTU5NjQ4NzUyMjEyNTIgNTguNzk3MDE4MDUxMTQ3NDYgMjAuMDEyMDk0MDIwODQzNTA2IDY5LjE0OTg0Nzk4NDMxMzk2IDYuMjU5NDU1MzIzMjE5Mjk5IDcxLjY2MTEzMTg1ODgyNTY4QzYuMjU5NDU1MzIzMjE5Mjk5IDcxLjY2MTEzMTg1ODgyNTY4IDUuMzIyMTAwNzU4NTUyNTUxIDcyLjYwMjg2MzMxMTc2NzU4IDUuMzIyMTAwNzU4NTUyNTUxIDcyLjYwMjg2MzMxMTc2NzU4IFoiIC8+CgogICAgPC9zdmc+');background-position:right 0px bottom 19.666666666666668px;background-repeat:no-repeat;background-size:27.666666666666668px 24px;margin:0px 0px 0px 0px;padding:0px 32px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 1px 1px 0px;border-bottom-width:2px;border-bottom-color:#2BB662;border-bottom-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ5IiB3aWR0aD0iNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS40OTk3MTgyOTUyMDMzMTUgMS4zMTgyODk1NzYzMjAzNzIxIDcwLjUwOTE3MDIxNjQzNjIyIDQ5LjI2OTQyMDgwNDIzMzgyNSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzJCQjY2MiIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTY1LjczMTM0MDY0Njc0Mzc3IDQxLjQyMzY5OTg1NTgwNDQ0QzU0LjUzNzIwOTI3MjM4NDY0NCAzOS4zMzgyMTUzNTExMDQ3MzYgNDQuODY2OTY1NDEzMDkzNTcgNDIuMTQ2MzE1NTc0NjQ1OTk2IDM2Ljk3NjcxNDczMDI2Mjc1NiA1MC41ODc3MTAzODA1NTQyQzM2LjkyMDA0MjAzNzk2Mzg3IDUwLjEzMDgzMDc2NDc3MDUxIDM2Ljk1NTUzNjAwNzg4MTE2NSAyNS43NDUyNjk3NzUzOTA2MjUgMzYuOTQ0MTYyMjQ5NTY1MTI1IDEzLjk0MDk5MjM1NTM0NjY4QzM2Ljk0MjM5NzM1NjAzMzMyNSAxMi4xMTgxMzU5MjkxMDc2NjYgMzcuOTE5MTY3ODc2MjQzNTkgMTAuNzQxMjgxMDMyNTYyMjU2IDM5LjAwNTU1Nzg5NDcwNjcyNiA5LjQ3OTQyMzA0NjExMjA2QzQ2LjA4MTk5NjU2MDA5Njc0IDEuMjYwMjUxOTk4OTAxMzY3MiA2MS43NzQwNTcxNDk4ODcwODUgMS4xNTMwMjUxNTAyOTkwNzIzIDY0LjI5OTYxOTc5Mzg5MTkgMS4zNjkwMzI4NTk4MDIyNDZDNjUuNDIyNjgwMzc3OTYwMiAxLjQ2NTM4MTYyMjMxNDQ1MzEgNjUuNjQyMTE1NDczNzQ3MjUgMi4wNTEyNDQyNTg4ODA2MTUyIDY1LjYzNzAxNjg5MjQzMzE3IDMuMDgwMDAwNDAwNTQzMjEzQzY1LjYwNzk5NDE5ODc5OTEzIDkuMDUyMDY5NjY0MDAxNDY1IDY1LjcwOTU3MzYyNjUxODI1IDMzLjQ1MTYxNjc2NDA2ODYgNjUuNzMwOTQ4NDQ4MTgxMTUgMzkuNjgxNjUyMDY5MDkxOEM2NS43MzI5MDk0NDA5OTQyNiA0MC4yMTE1NzAyNjI5MDg5MzYgNjUuNzMxMzQwNjQ2NzQzNzcgNDAuNzQ2MTUwNDkzNjIxODI2IDY1LjczMTM0MDY0Njc0Mzc3IDQxLjQyMzY5OTg1NTgwNDQ0IFogTTcuNDQzOTY2ODY1NTM5NTUxIDQxLjQyMzY5OTg1NTgwNDQ0QzE4LjYzODA5ODIzOTg5ODY4IDM5LjMzODIxNTM1MTEwNDczNiAyOC4zNTgxNTEzMTY2NDI3NiA0Mi4xNDYzMTU1NzQ2NDU5OTYgMzYuMjQ4MjA1OTAwMTkyMjYgNTAuNTg3NzEwMzgwNTU0MkMzNi4zMDQ4Nzg1OTI0OTExNSA1MC4xMzA4MzA3NjQ3NzA1MSAzNi4yMTk3NzE1MDQ0MDIxNiAyNS43NDUyNjk3NzUzOTA2MjUgMzYuMjMxMTQ1MjYyNzE4MiAxMy45NDA5OTIzNTUzNDY2OEMzNi4yMzI5MTAxNTYyNSAxMi4xMTgxMzU5MjkxMDc2NjYgMzUuMjU2MTM5NjM2MDM5NzM0IDEwLjc0MTI4MTAzMjU2MjI1NiAzNC4xNjk3NDk2MTc1NzY2IDkuNDc5NDIzMDQ2MTEyMDZDMjcuMDkzMzEwOTUyMTg2NTg0IDEuMjYwMjUxOTk4OTAxMzY3MiAxMS40MDEwNTQyNjMxMTQ5MyAxLjE1MzAyNTE1MDI5OTA3MjMgOC44NzU2ODc3MTgzOTE0MTggMS4zNjkwMzI4NTk4MDIyNDZDNy43NTI0MzEwMzUwNDE4MDkgMS40NjUzODE2MjIzMTQ0NTMxIDcuNTMzMTkyMDM4NTM2MDcyIDIuMDUxMjQ0MjU4ODgwNjE1MiA3LjUzODI5MDYxOTg1MDE1OSAzLjA4MDAwMDQwMDU0MzIxM0M3LjU2NzMxMzMxMzQ4NDE5MiA5LjA1MjA2OTY2NDAwMTQ2NSA3LjQ2NTczMzg4NTc2NTA3NiAzMy40NTE2MTY3NjQwNjg2IDcuNDQ0MzU5MDY0MTAyMTczIDM5LjY4MTY1MjA2OTA5MThDNy40NDIzOTgwNzEyODkwNjI1IDQwLjIxMTU3MDI2MjkwODkzNiA3LjQ0Mzk2Njg2NTUzOTU1MSA0MC43NDYxNTA0OTM2MjE4MjYgNy40NDM5NjY4NjU1Mzk1NTEgNDEuNDIzNjk5ODU1ODA0NDQgWiBNNS43OTk4NzA0OTEwMjc4MzIgNDMuODgyMTQ3MzEyMTY0MzFDMTYuNTgxNjA1MDc2Nzg5ODU2IDQxLjQ5NjczODQzMzgzNzg5IDI2LjA0NzMxNzM4NTY3MzUyMyA0My44MDI4OTI2ODQ5MzY1MiAzNC40MzA5NTM4NjAyODI5IDUwLjU4NDYwMjM1NTk1NzAzQzIzLjY4MDM5OTA2MDI0OTMzIDQ3LjU4NTM1ODYxOTY4OTk0IDEyLjc4MTM5NzEwNDI2MzMwNiA0Ni42MjY1MzMwMzE0NjM2MiAxLjQ5OTgwNTQ1MDQzOTQ1MzEgNDguMjAwNzQ3NDg5OTI5MkMxLjQ5OTgwNTQ1MDQzOTQ1MzEgNDcuNTEzODc0MDUzOTU1MDggMS40OTk2MDkzNTExNTgxNDIgNDYuOTQxOTk3NTI4MDc2MTcgMS40OTk4MDU0NTA0Mzk0NTMxIDQ2LjM3MzIyOTAyNjc5NDQzNEMxLjUwMDk4MjA0NjEyNzMxOTMgMzUuMDM2NzA5MzA4NjI0MjcgMS42MjI3NTk2OTk4MjE0NzIyIDExLjc3OTM2MTI0ODAxNjM1NyAxLjY0NTExNTAxNzg5MDkzMDIgNi43NTY3OTM0OTg5OTI5MkMxLjY0NzA3NjAxMDcwNDA0MDUgNi4zMjE2NzAwNTUzODk0MDQgMS45OTk4NTg2MTc3ODI1OTI4IDUuOTczNTcxMzAwNTA2NTkyIDIuNDM0NjEwNzI0NDQ5MTU3NyA1Ljk3MzU3MTMwMDUwNjU5MkMyLjQzNDYxMDcyNDQ0OTE1NzcgNS45NzM1NzEzMDA1MDY1OTIgNC44Njk5Njc2OTkwNTA5MDMgNS45NzM1NzEzMDA1MDY1OTIgNC44Njk5Njc2OTkwNTA5MDMgNS45NzM1NzEzMDA1MDY1OTJDNS4zMDQzMjc2MDcxNTQ4NDYgNS45NzM1NzEzMDA1MDY1OTIgNS42NTY5MTQxMTQ5NTIwODcgNi4zMjE2NzAwNTUzODk0MDQgNS42NTkyNjczMDYzMjc4MiA2Ljc1Njc5MzQ5ODk5MjkyQzUuNjg1NTQ0NjEwMDIzNDk4NSAxMS40Mzc0Nzg1NDIzMjc4OCA1LjgxOTI4NDMxOTg3NzYyNDUgMzEuMjM4NzAzMjUwODg1MDEgNS44MDAwNjY1OTAzMDkxNDMgNDIuMTc1ODQxODA4MzE5MDlDNS43OTkwODYwOTM5MDI1ODggNDIuNjY1MzU1NjgyMzczMDUgNS43OTk4NzA0OTEwMjc4MzIgNDMuMTU3OTc3NTgxMDI0MTcgNS43OTk4NzA0OTEwMjc4MzIgNDMuODgyMTQ3MzEyMTY0MzEgWiBNNzEuNzA3NDY2MjQ0Njk3NTcgNDguMTk0NTMxNDQwNzM0ODZDNjAuNTc4NDM5ODMxNzMzNzA0IDQ2LjYxMjU0NjkyMDc3NjM3IDQ5LjczMjk3Mjk3OTU0NTU5IDQ3LjYwNzExNDc5MTg3MDEyIDM5LjAyMDQ2MTQ0MDA4NjM2NSA1MC41MDg0NTU3NTMzMjY0MTZDNDcuMzc4ODAxMTA3NDA2NjE2IDQzLjc1MTYxMDI3OTA4MzI1IDU2LjgxNzY0NzgxNDc1MDY3IDQxLjUxNjk0MDU5MzcxOTQ4IDY3LjUxOTc2NjA5MjMwMDQyIDQzLjg4MjE0NzMxMjE2NDMxQzY3LjUxOTc2NjA5MjMwMDQyIDQzLjE1MTc2MTUzMTgyOTgzNCA2Ny41MjA5NDI2ODc5ODgyOCA0Mi41ODE0MzkwMTgyNDk1MSA2Ny41MTk1Njk5OTMwMTkxIDQyLjAwNjQ1NDQ2Nzc3MzQ0QzY3LjQ5ODU4NzM2OTkxODgyIDMxLjUzNzA3MzYxMjIxMzEzNSA2Ny41NTcwMjQ5NTU3NDk1MSAxMS4yNzg5NjkyODc4NzIzMTQgNjcuNTY4MjAyNjE0Nzg0MjQgNi43MDI0MDMwNjg1NDI0ODA1QzY3LjU2OTE4MzExMTE5MDggNi4zMDMwMjE5MDc4MDYzOTY1IDY3LjkwMDAwMjU5ODc2MjUxIDUuOTgxMzQxMzYxOTk5NTEyIDY4LjMwMzM3ODgyMDQxOTMxIDUuOTg5MTExNDIzNDkyNDMyQzY4LjMwMzM3ODgyMDQxOTMxIDUuOTg5MTExNDIzNDkyNDMyIDcxLjI5NzQyMjY0NzQ3NjIgNi4wMzcyODU4MDQ3NDg1MzUgNzEuMjk3NDIyNjQ3NDc2MiA2LjAzNzI4NTgwNDc0ODUzNUM3MS42OTQxMzE0OTM1Njg0MiA2LjA0MTk0Nzg0MTY0NDI4NyA3Mi4wMTE2MTYyMzAwMTA5OSA2LjM2NjczNjQxMjA0ODM0IDcyLjAwODg3MDg0MDA3MjYzIDYuNzU5OTAxNTIzNTkwMDg4QzcxLjk3NjcxMDU1NzkzNzYyIDExLjU2ODAxNTU3NTQwODkzNiA3MS43OTQ1MzQzMjU1OTk2NyAzNC43MTM0NzQ3NTA1MTg4IDcxLjc5MTAwNDUzODUzNjA3IDQ3LjQ1MzI2NzU3NDMxMDNDNzEuNzkwODA4NDM5MjU0NzYgNDcuNjI4ODcwOTY0MDUwMjkgNzEuNzUyNTY5MDc5Mzk5MTEgNDcuODAyOTIwMzQxNDkxNyA3MS43MDc0NjYyNDQ2OTc1NyA0OC4xOTQ1MzE0NDA3MzQ4NiBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:23.666666666666668px 16.333333333333332px;margin:0px 0px 0px 0px;padding:0px 33px 4px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45NjUxMzgzMTYxNTQ0OCAxLjU5MzMyMzIzMDc0MzQwODIgODMuNDI0OTQ4NDUzOTAzMiA3MS41MDMyMTM4ODI0NDYyOSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzAwMDAwMCIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTI5LjE0ODYxNjc5MDc3MTQ4NCAxLjU5MzMyMzIzMDc0MzQwODJDMjkuMTQ4NjE2NzkwNzcxNDg0IDEuNTkzMzIzMjMwNzQzNDA4MiAyOS4xNDg2MTY3OTA3NzE0ODQgMTQuNzY1MTMxNDczNTQxMjYgMjkuMTQ4NjE2NzkwNzcxNDg0IDE0Ljc2NTEzMTQ3MzU0MTI2QzE5Ljc3NTA3MTE0NDEwNDAwNCAxNy45MTIwMDYzNzgxNzM4MjggMTUuNzAzMjY1NjY2OTYxNjcgMjYuOTk2NzYyMjc1Njk1OCAxNi45NjMwMDc0NTAxMDM3NiA0Mi4wNDg5MjUzOTk3ODAyN0MxNi45NjMwMDc0NTAxMDM3NiA0Mi4wNDg5MjUzOTk3ODAyNyAzMS45NjA2ODA0ODQ3NzE3MyA0Mi4wNDg5MjUzOTk3ODAyNyAzMS45NjA2ODA0ODQ3NzE3MyA0Mi4wNDg5MjUzOTk3ODAyN0MzMS45NjA2ODA0ODQ3NzE3MyA0Mi4wNDg5MjUzOTk3ODAyNyAzMS45NjA2ODA0ODQ3NzE3MyA3My4wOTY1MzcxMTMxODk3IDMxLjk2MDY4MDQ4NDc3MTczIDczLjA5NjUzNzExMzE4OTdDMzEuOTYwNjgwNDg0NzcxNzMgNzMuMDk2NTM3MTEzMTg5NyAxLjk2NTEzODMxNjE1NDQ4IDczLjA5NjUzNzExMzE4OTcgMS45NjUxMzgzMTYxNTQ0OCA3My4wOTY1MzcxMTMxODk3QzEuOTY1MTM4MzE2MTU0NDggNzMuMDk2NTM3MTEzMTg5NyAxLjk2NTEzODMxNjE1NDQ4IDMzLjU4NDIyMDQwOTM5MzMxIDEuOTY1MTM4MzE2MTU0NDggMzMuNTg0MjIwNDA5MzkzMzFDNS4wODQ4ODE3ODI1MzE3MzggMTUuMzk5MTY4NDkxMzYzNTI1IDEzLjgyODU1NjUzNzYyODE3NCA1LjA0NjMzODU1ODE5NzAyMTUgMjguMjExMjYyMjI2MTA0NzM2IDIuNTM1MDU0NjgzNjg1MzAyN0MyOC4yMTEyNjIyMjYxMDQ3MzYgMi41MzUwNTQ2ODM2ODUzMDI3IDI5LjE0ODYxNjc5MDc3MTQ4NCAxLjU5MzMyMzIzMDc0MzQwODIgMjkuMTQ4NjE2NzkwNzcxNDg0IDEuNTkzMzIzMjMwNzQzNDA4MiBaIE04MS42NDA0NzI0MTIxMDkzOCAxLjU5MzMyMzIzMDc0MzQwODJDODEuNjQwNDcyNDEyMTA5MzggMS41OTMzMjMyMzA3NDM0MDgyIDgxLjY0MDQ3MjQxMjEwOTM4IDE0Ljc2NTEzMTQ3MzU0MTI2IDgxLjY0MDQ3MjQxMjEwOTM4IDE0Ljc2NTEzMTQ3MzU0MTI2QzcyLjI2NjkyNjc2NTQ0MTkgMTcuOTEyMDA2Mzc4MTczODI4IDY4LjE5NTMxNzM4NzU4MDg3IDI2Ljk5Njc2MjI3NTY5NTggNjkuNDU0ODYzMDcxNDQxNjUgNDIuMDQ4OTI1Mzk5NzgwMjdDNjkuNDU0ODYzMDcxNDQxNjUgNDIuMDQ4OTI1Mzk5NzgwMjcgODUuMzkwMDg2NzcwMDU3NjggNDIuMDQ4OTI1Mzk5NzgwMjcgODUuMzkwMDg2NzcwMDU3NjggNDIuMDQ4OTI1Mzk5NzgwMjdDODUuMzkwMDg2NzcwMDU3NjggNDIuMDQ4OTI1Mzk5NzgwMjcgODUuMzkwMDg2NzcwMDU3NjggNzMuMDk2NTM3MTEzMTg5NyA4NS4zOTAwODY3NzAwNTc2OCA3My4wOTY1MzcxMTMxODk3Qzg1LjM5MDA4Njc3MDA1NzY4IDczLjA5NjUzNzExMzE4OTcgNTQuNDU3MTkwMDM2NzczNjggNzMuMDk2NTM3MTEzMTg5NyA1NC40NTcxOTAwMzY3NzM2OCA3My4wOTY1MzcxMTMxODk3QzU0LjQ1NzE5MDAzNjc3MzY4IDczLjA5NjUzNzExMzE4OTcgNTQuNDU3MTkwMDM2NzczNjggMzMuNTg0MjIwNDA5MzkzMzEgNTQuNDU3MTkwMDM2NzczNjggMzMuNTg0MjIwNDA5MzkzMzFDNTguMjA2NjA4Mjk1NDQwNjc0IDE1LjM5OTE2ODQ5MTM2MzUyNSA2Ni45NTA0NzkxNDk4MTg0MiA1LjA0NjMzODU1ODE5NzAyMTUgODAuNzAzMzEzOTQ2NzIzOTQgMi41MzUwNTQ2ODM2ODUzMDI3QzgwLjcwMzMxMzk0NjcyMzk0IDIuNTM1MDU0NjgzNjg1MzAyNyA4MS42NDA0NzI0MTIxMDkzOCAxLjU5MzMyMzIzMDc0MzQwODIgODEuNjQwNDcyNDEyMTA5MzggMS41OTMzMjMyMzA3NDM0MDgyIFoiIC8+CgogICAgPC9zdmc+');background-position:left 1px top 0px;background-repeat:no-repeat;background-size:27.666666666666668px 24px;margin:0px 0px 0px 0px;padding:69px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+							<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:26px;line-height:1.2;letter-spacing:2.6px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+							data-placeholder="一级标题">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									D${section_index+1}.第${section_index+1}天
+								</span>
+							</h1>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+
+	<#--章节及SPU文字描述-->
+	<section class="ProseMirror-node ProseMirror-flexBox"
+	title="文字列表卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 13.666666666666666px 0px 15.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+	data-ism="1" data-label="textGroupListCard" data-gtype="fixed" data-sid="0.8414026017893856"
+	data-rsid="0">
+		<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+		style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+			<section class="ProseMirror-node ProseMirror-flexBox"
+			title="文字列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0.6666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+			data-ism="0" data-label="textGroupList" data-gtype="container" data-sid="0.41506390493069234"
+			data-rsid="">
+				<section class="ProseMirror-box-style_normal" style="max-width:100%;margin:0px 0px 0px 0px;display:flex;flex-grow:1;flex-direction:column;">
+					<section style="display:flex;">
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cw_118%2Ch_186&quot;) 0px 0px / 100% 100%; width: 39px; height: 62px; flex-shrink: 0; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cx_118%2Cw_822%2Ch_186&quot;) 0px 0px / 100% 100%; height: 62px; flex: 1 1 0%; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cx_940%2Cw_117%2Ch_186&quot;) 0px 0px / 100% 100%; width: 39px; height: 62px; flex-shrink: 0; font-size: 0px;">
+						</section>
+					</section>
+					<section style="display:flex;">
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cy_186%2Cw_118%2Ch_981&quot;) 0px 0px / 100% 100%; width: 39px; flex-shrink: 0; font-size: 0px;">
+						</section>
+						<section style="display:flex;flex:1;background:0 0 / 100% 100% url('https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cx_118%2Cy_186%2Cw_822%2Ch_981') ;z-index:1;">
+							<section style="word-break:break-all;flex:1;margin:-62px -39px -69px -39px;max-width:initial !important;padding:17px 38px 77px 58px;">
+								<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjczIiB3aWR0aD0iMjcwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjMuOTk5NzIwMDk2NTg4MTM0OCAxMC43NzQzNjAwODcwODM3NzUgMjcwLjE0MTI3MTM1Mjc2Nzk0IDczLjIyMTA1MTMwODk0MjgzIj4KCiAgICA8ZGVmcz51bmRlZmluZWQ8Y2xpcFBhdGggaWQ9IjAuMzk3NTY1OTkxMDE0OTMwMDYiPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBkPSJNMjc0LjE0MDk5MTQ0OTM1NjEgMzUuNDAxNDQ2ODE5MzA1NDJDMjc0LjE0MDk5MTQ0OTM1NjEgMzUuNDAxNDQ2ODE5MzA1NDIgMjUzLjcxODYyMzk5NTc4MDk0IDExLjExMjIzNDU5MjQzNzc0NCAyMDcuMTQwOTI2NTk5NTAyNTYgMTkuNDAxMzM2MTkzMDg0NzE3QzE3Mi4xMjIzMDEzNDAxMDMxNSAyNS42MzI5MjU1MTA0MDY0OTQgMTUzLjM2MzA1MTg5MTMyNjkgNDQuOTM5OTc0MzA4MDEzOTE2IDE0MS41MjY4OTE0Njk5NTU0NCA1Ni41NjcwOTQzMjYwMTkyOUMxMzYuNDM0NzgxNDMyMTUxOCA2MS41Njk0NTk5MTUxNjExMyAxMzMuOTk2NDgyOTY4MzMwMzggNjguMDY5ODkzMzYwMTM3OTQgMTM1LjI3OTM2NDQ2NjY2NzE4IDc0LjQzOTc4OTc3MjAzMzY5QzEzNi4zNTc1MTgzMTUzMTUyNSA3OS43OTY0NzAxNjUyNTI2OSAxMzkuODA3ODg1MTY5OTgyOSA4NC4yODYwMTE2OTU4NjE4MiAxNDkuMjk1OTUyNzk2OTM2MDQgODAuODMyOTk2MzY4NDA4MkMxNjguMjcxNjk1ODUyMjc5NjYgNzMuOTI1NDExNzAxMjAyMzkgMTcwLjg1OTQyMTk2ODQ2MDA4IDM1LjkyODI1Njk4ODUyNTM5IDE0NC45ODMxNDEzMDMwNjI0NCAyMC43MzMxMjQ3MzI5NzExOUMxMTkuMTA2NDY4NDM5MTAyMTcgNS41MzY0Mzg0NjUxMTg0MDggOTEuMTA5MTc3OTQ3MDQ0MzcgNy4wNTE2MDA0NTYyMzc3OTMgNTAuOTk5ODE1MzQ0ODEwNDg2IDI5Ljk5NTAzODAzMjUzMTc0QzIyLjI0NDYwMTEzMDQ4NTUzNSA0Ni40NDExNTAxODg0NDYwNDUgMy45OTk3MjAwOTY1ODgxMzQ4IDgzLjk5NTQxMTM5NjAyNjYxIDMuOTk5NzIwMDk2NTg4MTM0OCA4My45OTU0MTEzOTYwMjY2MSIgLz48L2NsaXBQYXRoPjwvZGVmcz4KICAgICAgICAKICAgICAgICA8cGF0aCBmaWxsPSJub25lIiAgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9IiNBQ0FDQUMiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIGNsaXAtcGF0aD0idXJsKCMwLjM5NzU2NTk5MTAxNDkzMDA2KSIgZD0iTTI3NC4xNDA5OTE0NDkzNTYxIDM1LjQwMTQ0NjgxOTMwNTQyQzI3NC4xNDA5OTE0NDkzNTYxIDM1LjQwMTQ0NjgxOTMwNTQyIDI1My43MTg2MjM5OTU3ODA5NCAxMS4xMTIyMzQ1OTI0Mzc3NDQgMjA3LjE0MDkyNjU5OTUwMjU2IDE5LjQwMTMzNjE5MzA4NDcxN0MxNzIuMTIyMzAxMzQwMTAzMTUgMjUuNjMyOTI1NTEwNDA2NDk0IDE1My4zNjMwNTE4OTEzMjY5IDQ0LjkzOTk3NDMwODAxMzkxNiAxNDEuNTI2ODkxNDY5OTU1NDQgNTYuNTY3MDk0MzI2MDE5MjlDMTM2LjQzNDc4MTQzMjE1MTggNjEuNTY5NDU5OTE1MTYxMTMgMTMzLjk5NjQ4Mjk2ODMzMDM4IDY4LjA2OTg5MzM2MDEzNzk0IDEzNS4yNzkzNjQ0NjY2NjcxOCA3NC40Mzk3ODk3NzIwMzM2OUMxMzYuMzU3NTE4MzE1MzE1MjUgNzkuNzk2NDcwMTY1MjUyNjkgMTM5LjgwNzg4NTE2OTk4MjkgODQuMjg2MDExNjk1ODYxODIgMTQ5LjI5NTk1Mjc5NjkzNjA0IDgwLjgzMjk5NjM2ODQwODJDMTY4LjI3MTY5NTg1MjI3OTY2IDczLjkyNTQxMTcwMTIwMjM5IDE3MC44NTk0MjE5Njg0NjAwOCAzNS45MjgyNTY5ODg1MjUzOSAxNDQuOTgzMTQxMzAzMDYyNDQgMjAuNzMzMTI0NzMyOTcxMTlDMTE5LjEwNjQ2ODQzOTEwMjE3IDUuNTM2NDM4NDY1MTE4NDA4IDkxLjEwOTE3Nzk0NzA0NDM3IDcuMDUxNjAwNDU2MjM3NzkzIDUwLjk5OTgxNTM0NDgxMDQ4NiAyOS45OTUwMzgwMzI1MzE3NEMyMi4yNDQ2MDExMzA0ODU1MzUgNDYuNDQxMTUwMTg4NDQ2MDQ1IDMuOTk5NzIwMDk2NTg4MTM0OCA4My45OTU0MTEzOTYwMjY2MSAzLjk5OTcyMDA5NjU4ODEzNDggODMuOTk1NDExMzk2MDI2NjEiIC8+CgogICAgPC9zdmc+');background-position:right 15.666666666666666px top 0px;background-repeat:no-repeat;background-size:90px 24.333333333333332px;margin:0px 0px 0px 0px;padding:49px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+									<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+									style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -27.48333333333333px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+										<#--Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+										<#assign items = solutionItems[section.id]>
+										<#--包含有spu及关联的item.spu列表-->
+										<#--显示SPU及item.spu详情-->
+										<#list items as item>							
+											<section class="ProseMirror-node ProseMirror-flexBox"
+											title="文字项" style="box-sizing:border-box;margin:0px 0px 27.48333333333333px 0px;padding:0px 0.3333333333333333px 0px 1.3333333333333333px;display:flex;flex-direction:column;max-width:none !important;"
+											data-ism="0" data-label="textGroupItem" data-gtype="fixed" data-sid="0.10994027916799376"
+											data-rsid="">
+												<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+												style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+													<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+													title="标题" style="box-sizing:border-box;margin:0px 0px 14.533333333333337px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+													data-ism="0" data-label="" data-gtype="" data-sid="0.02635353098511084"
+													data-rsid="">
+														<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+														style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:19px;line-height:1.2;letter-spacing:1.9000000000000001px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+														data-placeholder="一级标题">
+															<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																${item.name}
+															</span>
+														</h1>
+													</section>
+													<section class="ProseMirror-node ProseMirror-flexBox"
+													title="正文组" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0.3333333333333333px;display:flex;flex-direction:column;max-width:none !important;"
+													data-ism="0" data-label="textGroup" data-gtype="container" data-sid="0.22352208366398063"
+													data-rsid="">
+														<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+														style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+															<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+															title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+															data-ism="0" data-label="" data-gtype="" data-sid="0.4750689594541617"
+															data-rsid="">
+																<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+																style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:15px;line-height:1.82;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+																data-placeholder="输入‘/’快速定义内容">
+																	<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																		${item.spu.summary}
+																	</span>
+																</p>
+															</section>
+														</section>
+													</section>
+												</section>
+											</section>
+										</#list>
+									</section>
+								</section>
+							</section>
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cx_940%2Cy_186%2Cw_117%2Ch_981&quot;) 0px 0px / 100% 100%; width: 39px; flex-shrink: 0; font-size: 0px;">
+						</section>
+					</section>
+					<section style="display:flex;">
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cy_1167%2Cw_118%2Ch_209&quot;) 0px 0px / 100% 100%; width: 39px; height: 69px; flex-shrink: 0; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cx_118%2Cy_1167%2Cw_822%2Ch_209&quot;) 0px 0px / 100% 100%; height: 69px; flex: 1 1 0%; font-size: 0px;">
+						</section>
+						<section style="overflow: hidden; background: url(&quot;https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/e5a79431-a8b8-47d7-bb8c-db108fd88d5719266.png?x-oss-process=image%2Fcrop%2Cx_940%2Cy_1167%2Cw_117%2Ch_209&quot;) 0px 0px / 100% 100%; width: 39px; height: 69px; flex-shrink: 0; font-size: 0px;">
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</#list>
+
+<#--章节及SPU文字描述-->
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+title="一级标题" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 13px 0px 13px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.7337770872497047"
+data-rsid="">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI5NCIgd2lkdGg9IjMyMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSI2Mi4zNDcxNTIzMTkyOTg1MTYgMzQuMDU3ODQwOTkwMjM3MTI1IDMyMi45ODIzMDE3MDc5MDE1IDI5NC4yNTQyOTUxNTc2MTI2NiI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGQzg3MSIgIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTI3OC45Njg2NjUyNDIxOTUxMyAyMjUuMDk4MDg1ODgwMjc5NTRDMjc4Ljk2ODY2NTI0MjE5NTEzIDIyNS4wOTgwODU4ODAyNzk1NCAzNjkuODE4MzI0Njg1MDk2NzQgMjU0LjUxMzk4NDY4MDE3NTc4IDM4Mi45Njg1NDYzOTA1MzM0NSAxOTcuMDk3ODkyMjg0MzkzM0MzOTYuMTE4OTY0MTk1MjUxNDYgMTM5LjY4MzM1MzkwMDkwOTQyIDM1MS43ODk3NDExNTg0ODU0IDExOS4yNzI5NTYzNzEzMDczNyAzMTIuOTY4NTU0NzM1MTgzNyAxMTkuMDk4OTA2OTkzODY1OTdDMjc0LjE0NzU2NDQxMTE2MzMzIDExOC45Mjc5NjU2NDEwMjE3MyAyNTIuNjE1Mjc1MDI1MzY3NzQgMTEyLjU1ODA2OTIyOTEyNTk4IDIwMi40MjU2MjQ5NjY2MjE0IDU3LjA1ODA3Mzk5NzQ5NzU2QzE1Mi4yMzU3Nzg4MDg1OTM3NSAxLjU1NDk3MDc0MTI3MTk3MjcgMS45Njg2MjU0MjYyOTI0MTk0IDYwLjU3OTQ2NTg2NjA4ODg3IDEwMS45Njg2Njk1MzM3Mjk1NSA4Ny4wOTg2ODU3NDE0MjQ1NkMxOTguNTM5NTI1NTA4ODgwNjIgMTEyLjcwODgwODQyMjA4ODYyIDE1Ny45MDMwNDgwMzg0ODI2NyAxODEuMjg1ODE3MTQ2MzAxMjcgOTcuOTY4NjM2MzkzNTQ3MDYgMjAyLjA5ODcwMzg2MTIzNjU3QzM4LjAzNDAyODY0OTMzMDE0IDIyMi45MTAwMzY1NjM4NzMzIDY3LjU4MTI4Nzg2MDg3MDM2IDI2Ni4zMDg5MzgwMjY0MjgyIDg3LjExNDE0ODk3NDQxODY0IDI3Ni40ODYxNjQ1Njk4NTQ3NEMxNzMuNTE2MDgwNjE3OTA0NjYgMzIxLjUwNzQ1NDg3MjEzMTM1IDIxNC44MzI2MzAzOTU4ODkyOCAyMjAuNjY3NTk2ODE3MDE2NiAyNTMuOTY4NTU2MTY1Njk1MiAyNzAuMDk5MTc0MDIyNjc0NTZDMjkzLjEwNDQ4MTkzNTUwMTEgMzE5LjUyOTE5NzIxNjAzMzk0IDMyOC41Nzk2MjYzMjE3OTI2IDMzNC41MzE2MzE5NDY1NjM3IDM0MC40NzQ0MjA0MjgyNzYwNiAzMjYuMDk0ODk5MTc3NTUxMjdDMzc1LjU3Nzc2MDU3NzIwMTg0IDMwMS4yMTIwNTQyNTI2MjQ1IDI3OC45Njg2NjUyNDIxOTUxMyAyMjUuMDk4MDg1ODgwMjc5NTQgMjc4Ljk2ODY2NTI0MjE5NTEzIDIyNS4wOTgwODU4ODAyNzk1NCBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:left 0px bottom 0px;background-repeat:no-repeat;background-size:107.66666666666667px 98px;margin:0px 0px 0px 0px;padding:0px 0px 27px 32px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS41NzI2ODI0OTk4ODU1NTkgMS4wOTk2NDk0MjkzMjEyODkgODMuNDI0NTU2MjU1MzQwNTggNzEuNTAzMjEzODgyNDQ2MjkiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiMwMDAwMDAiICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik01Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OEM1Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OCA1Ny44MTM5NTYzNzk4OTA0NCA1OS40MzEwNTUwNjg5Njk3MyA1Ny44MTM5NTYzNzk4OTA0NCA1OS40MzEwNTUwNjg5Njk3M0M2Ny4xODc1MDIwMjY1NTc5MiA1Ni4yODQxODAxNjQzMzcxNiA3MS4yNTkzMDc1MDM3MDAyNiA0Ny4xOTk0MjQyNjY4MTUxODYgNjkuOTk5NTY1NzIwNTU4MTcgMzIuMTQ3MjYxMTQyNzMwNzFDNjkuOTk5NTY1NzIwNTU4MTcgMzIuMTQ3MjYxMTQyNzMwNzEgNTUuMDAxODkyNjg1ODkwMiAzMi4xNDcyNjExNDI3MzA3MSA1NS4wMDE4OTI2ODU4OTAyIDMyLjE0NzI2MTE0MjczMDcxQzU1LjAwMTg5MjY4NTg5MDIgMzIuMTQ3MjYxMTQyNzMwNzEgNTUuMDAxODkyNjg1ODkwMiAxLjA5OTY0OTQyOTMyMTI4OSA1NS4wMDE4OTI2ODU4OTAyIDEuMDk5NjQ5NDI5MzIxMjg5QzU1LjAwMTg5MjY4NTg5MDIgMS4wOTk2NDk0MjkzMjEyODkgODQuOTk3MjM4NzU1MjI2MTQgMS4wOTk2NDk0MjkzMjEyODkgODQuOTk3MjM4NzU1MjI2MTQgMS4wOTk2NDk0MjkzMjEyODlDODQuOTk3MjM4NzU1MjI2MTQgMS4wOTk2NDk0MjkzMjEyODkgODQuOTk3MjM4NzU1MjI2MTQgNDAuNjExOTY2MTMzMTE3Njc2IDg0Ljk5NzIzODc1NTIyNjE0IDQwLjYxMTk2NjEzMzExNzY3NkM4MS44Nzc2OTEzODgxMzAxOSA1OC43OTcwMTgwNTExNDc0NiA3My4xMzQwMTY2MzMwMzM3NSA2OS4xNDk4NDc5ODQzMTM5NiA1OC43NTEzMTA5NDQ1NTcxOSA3MS42NjExMzE4NTg4MjU2OEM1OC43NTEzMTA5NDQ1NTcxOSA3MS42NjExMzE4NTg4MjU2OCA1Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OCA1Ny44MTM5NTYzNzk4OTA0NCA3Mi42MDI4NjMzMTE3Njc1OCBaIE01LjMyMjEwMDc1ODU1MjU1MSA3Mi42MDI4NjMzMTE3Njc1OEM1LjMyMjEwMDc1ODU1MjU1MSA3Mi42MDI4NjMzMTE3Njc1OCA1LjMyMjEwMDc1ODU1MjU1MSA1OS40MzEwNTUwNjg5Njk3MyA1LjMyMjEwMDc1ODU1MjU1MSA1OS40MzEwNTUwNjg5Njk3M0MxNC42OTU2NDY0MDUyMjAwMzIgNTYuMjg0MTgwMTY0MzM3MTYgMTguNzY3MjU1NzgzMDgxMDU1IDQ3LjE5OTQyNDI2NjgxNTE4NiAxNy41MDc3MTAwOTkyMjAyNzYgMzIuMTQ3MjYxMTQyNzMwNzFDMTcuNTA3NzEwMDk5MjIwMjc2IDMyLjE0NzI2MTE0MjczMDcxIDEuNTcyNjgyNDk5ODg1NTU5IDMyLjE0NzI2MTE0MjczMDcxIDEuNTcyNjgyNDk5ODg1NTU5IDMyLjE0NzI2MTE0MjczMDcxQzEuNTcyNjgyNDk5ODg1NTU5IDMyLjE0NzI2MTE0MjczMDcxIDEuNTcyNjgyNDk5ODg1NTU5IDEuMDk5NjQ5NDI5MzIxMjg5IDEuNTcyNjgyNDk5ODg1NTU5IDEuMDk5NjQ5NDI5MzIxMjg5QzEuNTcyNjgyNDk5ODg1NTU5IDEuMDk5NjQ5NDI5MzIxMjg5IDMyLjUwNTM4MzEzMzg4ODI0NSAxLjA5OTY0OTQyOTMyMTI4OSAzMi41MDUzODMxMzM4ODgyNDUgMS4wOTk2NDk0MjkzMjEyODlDMzIuNTA1MzgzMTMzODg4MjQ1IDEuMDk5NjQ5NDI5MzIxMjg5IDMyLjUwNTM4MzEzMzg4ODI0NSA0MC42MTE5NjYxMzMxMTc2NzYgMzIuNTA1MzgzMTMzODg4MjQ1IDQwLjYxMTk2NjEzMzExNzY3NkMyOC43NTU5NjQ4NzUyMjEyNTIgNTguNzk3MDE4MDUxMTQ3NDYgMjAuMDEyMDk0MDIwODQzNTA2IDY5LjE0OTg0Nzk4NDMxMzk2IDYuMjU5NDU1MzIzMjE5Mjk5IDcxLjY2MTEzMTg1ODgyNTY4QzYuMjU5NDU1MzIzMjE5Mjk5IDcxLjY2MTEzMTg1ODgyNTY4IDUuMzIyMTAwNzU4NTUyNTUxIDcyLjYwMjg2MzMxMTc2NzU4IDUuMzIyMTAwNzU4NTUyNTUxIDcyLjYwMjg2MzMxMTc2NzU4IFoiIC8+CgogICAgPC9zdmc+');background-position:right 0px bottom 19.666666666666668px;background-repeat:no-repeat;background-size:27.666666666666668px 24px;margin:0px 0px 0px 0px;padding:0px 32px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 1px 1px 0px;border-bottom-width:2px;border-bottom-color:#2BB662;border-bottom-style:solid;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ5IiB3aWR0aD0iNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS40OTk3MTgyOTUyMDMzMTUgMS4zMTgyODk1NzYzMjAzNzIxIDcwLjUwOTE3MDIxNjQzNjIyIDQ5LjI2OTQyMDgwNDIzMzgyNSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzJCQjY2MiIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTY1LjczMTM0MDY0Njc0Mzc3IDQxLjQyMzY5OTg1NTgwNDQ0QzU0LjUzNzIwOTI3MjM4NDY0NCAzOS4zMzgyMTUzNTExMDQ3MzYgNDQuODY2OTY1NDEzMDkzNTcgNDIuMTQ2MzE1NTc0NjQ1OTk2IDM2Ljk3NjcxNDczMDI2Mjc1NiA1MC41ODc3MTAzODA1NTQyQzM2LjkyMDA0MjAzNzk2Mzg3IDUwLjEzMDgzMDc2NDc3MDUxIDM2Ljk1NTUzNjAwNzg4MTE2NSAyNS43NDUyNjk3NzUzOTA2MjUgMzYuOTQ0MTYyMjQ5NTY1MTI1IDEzLjk0MDk5MjM1NTM0NjY4QzM2Ljk0MjM5NzM1NjAzMzMyNSAxMi4xMTgxMzU5MjkxMDc2NjYgMzcuOTE5MTY3ODc2MjQzNTkgMTAuNzQxMjgxMDMyNTYyMjU2IDM5LjAwNTU1Nzg5NDcwNjcyNiA5LjQ3OTQyMzA0NjExMjA2QzQ2LjA4MTk5NjU2MDA5Njc0IDEuMjYwMjUxOTk4OTAxMzY3MiA2MS43NzQwNTcxNDk4ODcwODUgMS4xNTMwMjUxNTAyOTkwNzIzIDY0LjI5OTYxOTc5Mzg5MTkgMS4zNjkwMzI4NTk4MDIyNDZDNjUuNDIyNjgwMzc3OTYwMiAxLjQ2NTM4MTYyMjMxNDQ1MzEgNjUuNjQyMTE1NDczNzQ3MjUgMi4wNTEyNDQyNTg4ODA2MTUyIDY1LjYzNzAxNjg5MjQzMzE3IDMuMDgwMDAwNDAwNTQzMjEzQzY1LjYwNzk5NDE5ODc5OTEzIDkuMDUyMDY5NjY0MDAxNDY1IDY1LjcwOTU3MzYyNjUxODI1IDMzLjQ1MTYxNjc2NDA2ODYgNjUuNzMwOTQ4NDQ4MTgxMTUgMzkuNjgxNjUyMDY5MDkxOEM2NS43MzI5MDk0NDA5OTQyNiA0MC4yMTE1NzAyNjI5MDg5MzYgNjUuNzMxMzQwNjQ2NzQzNzcgNDAuNzQ2MTUwNDkzNjIxODI2IDY1LjczMTM0MDY0Njc0Mzc3IDQxLjQyMzY5OTg1NTgwNDQ0IFogTTcuNDQzOTY2ODY1NTM5NTUxIDQxLjQyMzY5OTg1NTgwNDQ0QzE4LjYzODA5ODIzOTg5ODY4IDM5LjMzODIxNTM1MTEwNDczNiAyOC4zNTgxNTEzMTY2NDI3NiA0Mi4xNDYzMTU1NzQ2NDU5OTYgMzYuMjQ4MjA1OTAwMTkyMjYgNTAuNTg3NzEwMzgwNTU0MkMzNi4zMDQ4Nzg1OTI0OTExNSA1MC4xMzA4MzA3NjQ3NzA1MSAzNi4yMTk3NzE1MDQ0MDIxNiAyNS43NDUyNjk3NzUzOTA2MjUgMzYuMjMxMTQ1MjYyNzE4MiAxMy45NDA5OTIzNTUzNDY2OEMzNi4yMzI5MTAxNTYyNSAxMi4xMTgxMzU5MjkxMDc2NjYgMzUuMjU2MTM5NjM2MDM5NzM0IDEwLjc0MTI4MTAzMjU2MjI1NiAzNC4xNjk3NDk2MTc1NzY2IDkuNDc5NDIzMDQ2MTEyMDZDMjcuMDkzMzEwOTUyMTg2NTg0IDEuMjYwMjUxOTk4OTAxMzY3MiAxMS40MDEwNTQyNjMxMTQ5MyAxLjE1MzAyNTE1MDI5OTA3MjMgOC44NzU2ODc3MTgzOTE0MTggMS4zNjkwMzI4NTk4MDIyNDZDNy43NTI0MzEwMzUwNDE4MDkgMS40NjUzODE2MjIzMTQ0NTMxIDcuNTMzMTkyMDM4NTM2MDcyIDIuMDUxMjQ0MjU4ODgwNjE1MiA3LjUzODI5MDYxOTg1MDE1OSAzLjA4MDAwMDQwMDU0MzIxM0M3LjU2NzMxMzMxMzQ4NDE5MiA5LjA1MjA2OTY2NDAwMTQ2NSA3LjQ2NTczMzg4NTc2NTA3NiAzMy40NTE2MTY3NjQwNjg2IDcuNDQ0MzU5MDY0MTAyMTczIDM5LjY4MTY1MjA2OTA5MThDNy40NDIzOTgwNzEyODkwNjI1IDQwLjIxMTU3MDI2MjkwODkzNiA3LjQ0Mzk2Njg2NTUzOTU1MSA0MC43NDYxNTA0OTM2MjE4MjYgNy40NDM5NjY4NjU1Mzk1NTEgNDEuNDIzNjk5ODU1ODA0NDQgWiBNNS43OTk4NzA0OTEwMjc4MzIgNDMuODgyMTQ3MzEyMTY0MzFDMTYuNTgxNjA1MDc2Nzg5ODU2IDQxLjQ5NjczODQzMzgzNzg5IDI2LjA0NzMxNzM4NTY3MzUyMyA0My44MDI4OTI2ODQ5MzY1MiAzNC40MzA5NTM4NjAyODI5IDUwLjU4NDYwMjM1NTk1NzAzQzIzLjY4MDM5OTA2MDI0OTMzIDQ3LjU4NTM1ODYxOTY4OTk0IDEyLjc4MTM5NzEwNDI2MzMwNiA0Ni42MjY1MzMwMzE0NjM2MiAxLjQ5OTgwNTQ1MDQzOTQ1MzEgNDguMjAwNzQ3NDg5OTI5MkMxLjQ5OTgwNTQ1MDQzOTQ1MzEgNDcuNTEzODc0MDUzOTU1MDggMS40OTk2MDkzNTExNTgxNDIgNDYuOTQxOTk3NTI4MDc2MTcgMS40OTk4MDU0NTA0Mzk0NTMxIDQ2LjM3MzIyOTAyNjc5NDQzNEMxLjUwMDk4MjA0NjEyNzMxOTMgMzUuMDM2NzA5MzA4NjI0MjcgMS42MjI3NTk2OTk4MjE0NzIyIDExLjc3OTM2MTI0ODAxNjM1NyAxLjY0NTExNTAxNzg5MDkzMDIgNi43NTY3OTM0OTg5OTI5MkMxLjY0NzA3NjAxMDcwNDA0MDUgNi4zMjE2NzAwNTUzODk0MDQgMS45OTk4NTg2MTc3ODI1OTI4IDUuOTczNTcxMzAwNTA2NTkyIDIuNDM0NjEwNzI0NDQ5MTU3NyA1Ljk3MzU3MTMwMDUwNjU5MkMyLjQzNDYxMDcyNDQ0OTE1NzcgNS45NzM1NzEzMDA1MDY1OTIgNC44Njk5Njc2OTkwNTA5MDMgNS45NzM1NzEzMDA1MDY1OTIgNC44Njk5Njc2OTkwNTA5MDMgNS45NzM1NzEzMDA1MDY1OTJDNS4zMDQzMjc2MDcxNTQ4NDYgNS45NzM1NzEzMDA1MDY1OTIgNS42NTY5MTQxMTQ5NTIwODcgNi4zMjE2NzAwNTUzODk0MDQgNS42NTkyNjczMDYzMjc4MiA2Ljc1Njc5MzQ5ODk5MjkyQzUuNjg1NTQ0NjEwMDIzNDk4NSAxMS40Mzc0Nzg1NDIzMjc4OCA1LjgxOTI4NDMxOTg3NzYyNDUgMzEuMjM4NzAzMjUwODg1MDEgNS44MDAwNjY1OTAzMDkxNDMgNDIuMTc1ODQxODA4MzE5MDlDNS43OTkwODYwOTM5MDI1ODggNDIuNjY1MzU1NjgyMzczMDUgNS43OTk4NzA0OTEwMjc4MzIgNDMuMTU3OTc3NTgxMDI0MTcgNS43OTk4NzA0OTEwMjc4MzIgNDMuODgyMTQ3MzEyMTY0MzEgWiBNNzEuNzA3NDY2MjQ0Njk3NTcgNDguMTk0NTMxNDQwNzM0ODZDNjAuNTc4NDM5ODMxNzMzNzA0IDQ2LjYxMjU0NjkyMDc3NjM3IDQ5LjczMjk3Mjk3OTU0NTU5IDQ3LjYwNzExNDc5MTg3MDEyIDM5LjAyMDQ2MTQ0MDA4NjM2NSA1MC41MDg0NTU3NTMzMjY0MTZDNDcuMzc4ODAxMTA3NDA2NjE2IDQzLjc1MTYxMDI3OTA4MzI1IDU2LjgxNzY0NzgxNDc1MDY3IDQxLjUxNjk0MDU5MzcxOTQ4IDY3LjUxOTc2NjA5MjMwMDQyIDQzLjg4MjE0NzMxMjE2NDMxQzY3LjUxOTc2NjA5MjMwMDQyIDQzLjE1MTc2MTUzMTgyOTgzNCA2Ny41MjA5NDI2ODc5ODgyOCA0Mi41ODE0MzkwMTgyNDk1MSA2Ny41MTk1Njk5OTMwMTkxIDQyLjAwNjQ1NDQ2Nzc3MzQ0QzY3LjQ5ODU4NzM2OTkxODgyIDMxLjUzNzA3MzYxMjIxMzEzNSA2Ny41NTcwMjQ5NTU3NDk1MSAxMS4yNzg5NjkyODc4NzIzMTQgNjcuNTY4MjAyNjE0Nzg0MjQgNi43MDI0MDMwNjg1NDI0ODA1QzY3LjU2OTE4MzExMTE5MDggNi4zMDMwMjE5MDc4MDYzOTY1IDY3LjkwMDAwMjU5ODc2MjUxIDUuOTgxMzQxMzYxOTk5NTEyIDY4LjMwMzM3ODgyMDQxOTMxIDUuOTg5MTExNDIzNDkyNDMyQzY4LjMwMzM3ODgyMDQxOTMxIDUuOTg5MTExNDIzNDkyNDMyIDcxLjI5NzQyMjY0NzQ3NjIgNi4wMzcyODU4MDQ3NDg1MzUgNzEuMjk3NDIyNjQ3NDc2MiA2LjAzNzI4NTgwNDc0ODUzNUM3MS42OTQxMzE0OTM1Njg0MiA2LjA0MTk0Nzg0MTY0NDI4NyA3Mi4wMTE2MTYyMzAwMTA5OSA2LjM2NjczNjQxMjA0ODM0IDcyLjAwODg3MDg0MDA3MjYzIDYuNzU5OTAxNTIzNTkwMDg4QzcxLjk3NjcxMDU1NzkzNzYyIDExLjU2ODAxNTU3NTQwODkzNiA3MS43OTQ1MzQzMjU1OTk2NyAzNC43MTM0NzQ3NTA1MTg4IDcxLjc5MTAwNDUzODUzNjA3IDQ3LjQ1MzI2NzU3NDMxMDNDNzEuNzkwODA4NDM5MjU0NzYgNDcuNjI4ODcwOTY0MDUwMjkgNzEuNzUyNTY5MDc5Mzk5MTEgNDcuODAyOTIwMzQxNDkxNyA3MS43MDc0NjYyNDQ2OTc1NyA0OC4xOTQ1MzE0NDA3MzQ4NiBaIiAvPgoKICAgIDwvc3ZnPg==');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:23.666666666666668px 16.333333333333332px;margin:0px 0px 0px 0px;padding:0px 33px 4px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB3aWR0aD0iODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMS45NjUxMzgzMTYxNTQ0OCAxLjU5MzMyMzIzMDc0MzQwODIgODMuNDI0OTQ4NDUzOTAzMiA3MS41MDMyMTM4ODI0NDYyOSI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzAwMDAwMCIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTI5LjE0ODYxNjc5MDc3MTQ4NCAxLjU5MzMyMzIzMDc0MzQwODJDMjkuMTQ4NjE2NzkwNzcxNDg0IDEuNTkzMzIzMjMwNzQzNDA4MiAyOS4xNDg2MTY3OTA3NzE0ODQgMTQuNzY1MTMxNDczNTQxMjYgMjkuMTQ4NjE2NzkwNzcxNDg0IDE0Ljc2NTEzMTQ3MzU0MTI2QzE5Ljc3NTA3MTE0NDEwNDAwNCAxNy45MTIwMDYzNzgxNzM4MjggMTUuNzAzMjY1NjY2OTYxNjcgMjYuOTk2NzYyMjc1Njk1OCAxNi45NjMwMDc0NTAxMDM3NiA0Mi4wNDg5MjUzOTk3ODAyN0MxNi45NjMwMDc0NTAxMDM3NiA0Mi4wNDg5MjUzOTk3ODAyNyAzMS45NjA2ODA0ODQ3NzE3MyA0Mi4wNDg5MjUzOTk3ODAyNyAzMS45NjA2ODA0ODQ3NzE3MyA0Mi4wNDg5MjUzOTk3ODAyN0MzMS45NjA2ODA0ODQ3NzE3MyA0Mi4wNDg5MjUzOTk3ODAyNyAzMS45NjA2ODA0ODQ3NzE3MyA3My4wOTY1MzcxMTMxODk3IDMxLjk2MDY4MDQ4NDc3MTczIDczLjA5NjUzNzExMzE4OTdDMzEuOTYwNjgwNDg0NzcxNzMgNzMuMDk2NTM3MTEzMTg5NyAxLjk2NTEzODMxNjE1NDQ4IDczLjA5NjUzNzExMzE4OTcgMS45NjUxMzgzMTYxNTQ0OCA3My4wOTY1MzcxMTMxODk3QzEuOTY1MTM4MzE2MTU0NDggNzMuMDk2NTM3MTEzMTg5NyAxLjk2NTEzODMxNjE1NDQ4IDMzLjU4NDIyMDQwOTM5MzMxIDEuOTY1MTM4MzE2MTU0NDggMzMuNTg0MjIwNDA5MzkzMzFDNS4wODQ4ODE3ODI1MzE3MzggMTUuMzk5MTY4NDkxMzYzNTI1IDEzLjgyODU1NjUzNzYyODE3NCA1LjA0NjMzODU1ODE5NzAyMTUgMjguMjExMjYyMjI2MTA0NzM2IDIuNTM1MDU0NjgzNjg1MzAyN0MyOC4yMTEyNjIyMjYxMDQ3MzYgMi41MzUwNTQ2ODM2ODUzMDI3IDI5LjE0ODYxNjc5MDc3MTQ4NCAxLjU5MzMyMzIzMDc0MzQwODIgMjkuMTQ4NjE2NzkwNzcxNDg0IDEuNTkzMzIzMjMwNzQzNDA4MiBaIE04MS42NDA0NzI0MTIxMDkzOCAxLjU5MzMyMzIzMDc0MzQwODJDODEuNjQwNDcyNDEyMTA5MzggMS41OTMzMjMyMzA3NDM0MDgyIDgxLjY0MDQ3MjQxMjEwOTM4IDE0Ljc2NTEzMTQ3MzU0MTI2IDgxLjY0MDQ3MjQxMjEwOTM4IDE0Ljc2NTEzMTQ3MzU0MTI2QzcyLjI2NjkyNjc2NTQ0MTkgMTcuOTEyMDA2Mzc4MTczODI4IDY4LjE5NTMxNzM4NzU4MDg3IDI2Ljk5Njc2MjI3NTY5NTggNjkuNDU0ODYzMDcxNDQxNjUgNDIuMDQ4OTI1Mzk5NzgwMjdDNjkuNDU0ODYzMDcxNDQxNjUgNDIuMDQ4OTI1Mzk5NzgwMjcgODUuMzkwMDg2NzcwMDU3NjggNDIuMDQ4OTI1Mzk5NzgwMjcgODUuMzkwMDg2NzcwMDU3NjggNDIuMDQ4OTI1Mzk5NzgwMjdDODUuMzkwMDg2NzcwMDU3NjggNDIuMDQ4OTI1Mzk5NzgwMjcgODUuMzkwMDg2NzcwMDU3NjggNzMuMDk2NTM3MTEzMTg5NyA4NS4zOTAwODY3NzAwNTc2OCA3My4wOTY1MzcxMTMxODk3Qzg1LjM5MDA4Njc3MDA1NzY4IDczLjA5NjUzNzExMzE4OTcgNTQuNDU3MTkwMDM2NzczNjggNzMuMDk2NTM3MTEzMTg5NyA1NC40NTcxOTAwMzY3NzM2OCA3My4wOTY1MzcxMTMxODk3QzU0LjQ1NzE5MDAzNjc3MzY4IDczLjA5NjUzNzExMzE4OTcgNTQuNDU3MTkwMDM2NzczNjggMzMuNTg0MjIwNDA5MzkzMzEgNTQuNDU3MTkwMDM2NzczNjggMzMuNTg0MjIwNDA5MzkzMzFDNTguMjA2NjA4Mjk1NDQwNjc0IDE1LjM5OTE2ODQ5MTM2MzUyNSA2Ni45NTA0NzkxNDk4MTg0MiA1LjA0NjMzODU1ODE5NzAyMTUgODAuNzAzMzEzOTQ2NzIzOTQgMi41MzUwNTQ2ODM2ODUzMDI3QzgwLjcwMzMxMzk0NjcyMzk0IDIuNTM1MDU0NjgzNjg1MzAyNyA4MS42NDA0NzI0MTIxMDkzOCAxLjU5MzMyMzIzMDc0MzQwODIgODEuNjQwNDcyNDEyMTA5MzggMS41OTMzMjMyMzA3NDM0MDgyIFoiIC8+CgogICAgPC9zdmc+');background-position:left 1px top 0px;background-repeat:no-repeat;background-size:27.666666666666668px 24px;margin:0px 0px 0px 0px;padding:69px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+						<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+						style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:26px;line-height:1.2;letter-spacing:2.6px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+						data-placeholder="一级标题">
+							<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+								有图为证
+							</span>
+						</h1>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--图片列表-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="图片列表卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 15.333333333333334px 0px 15.666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="imageListCard" data-gtype="fixed" data-sid="0.7269797593874436"
+data-rsid="0">
+	<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+	style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+		<section class="ProseMirror-node ProseMirror-flexBox"
+		title="图片列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+		data-ism="0" data-label="imageList" data-gtype="container" data-sid="0.6608218187002588"
+		data-rsid="">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE0ODciIHdpZHRoPSIxMDUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuOTk5NjE1NjY5MjUwNDg4MyAxLjY4NjM0NjUzMDkxNDMwNjYgMTA1Mi45OTk5OTc3MzUwMjM1IDE0ODcuMzA2MzIwNjY3MjY2OCI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iI0ZGRkZGRiIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTEwNTMuOTk5NzAzMTY4ODY5IDEyMC42ODYzOTIzMDcyODE1QzEwNTMuOTk5NzAzMTY4ODY5IDEyMC42ODYzOTIzMDcyODE1IDEwNTMuOTk5NzAzMTY4ODY5IDEzNjkuOTk0MTc1NDM0MTEyNSAxMDUzLjk5OTcwMzE2ODg2OSAxMzY5Ljk5NDE3NTQzNDExMjVDMTA1My45OTk3MDMxNjg4NjkgMTM2OS45OTQxNzU0MzQxMTI1IDEwNTQuMDAzNjI1MTU0NDk1MiAxMzY5Ljk5NDE3NTQzNDExMjUgMTA1NC4wMDM2MjUxNTQ0OTUyIDEzNjkuOTk0MTc1NDM0MTEyNUMxMDU0LjAwMzYyNTE1NDQ5NTIgMTM2OS45OTQxNzU0MzQxMTI1IDEwNTQuOTk5NjEzNDA0Mjc0IDE0ODYuMzQ5MjkyMjc4Mjg5OCAxMDU0Ljk5OTYxMzQwNDI3NCAxNDg2LjM0OTI5MjI3ODI4OThDMTA1NC45OTk2MTM0MDQyNzQgMTQ4Ni4zNDkyOTIyNzgyODk4IDEwMzIuODUyNzQ4ODcwODQ5NiAxNDQ3Ljk5NDcxNDczNjkzODUgMTAzMi44NTI3NDg4NzA4NDk2IDE0NDcuOTk0NzE0NzM2OTM4NUMxMDMyLjg1Mjc0ODg3MDg0OTYgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDEwMDkuMTgxNDA4NTI0NTEzMiAxNDg4Ljk5MjY2NzE5ODE4MTIgMTAwOS4xODE0MDg1MjQ1MTMyIDE0ODguOTkyNjY3MTk4MTgxMkMxMDA5LjE4MTQwODUyNDUxMzIgMTQ4OC45OTI2NjcxOTgxODEyIDEwMDguNTI0MDgzNzMzNTU4NyAxNDg4Ljk5MjY2NzE5ODE4MTIgMTAwOC41MjQwODM3MzM1NTg3IDE0ODguOTkyNjY3MTk4MTgxMkMxMDA4LjUyNDA4MzczMzU1ODcgMTQ4OC45OTI2NjcxOTgxODEyIDk4NC44NTI1NDcyODc5NDEgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDk4NC44NTI1NDcyODc5NDEgMTQ0Ny45OTQ3MTQ3MzY5Mzg1Qzk4NC44NTI1NDcyODc5NDEgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDk2MS4xODEyMDY5NDE2MDQ2IDE0ODguOTkyNjY3MTk4MTgxMiA5NjEuMTgxMjA2OTQxNjA0NiAxNDg4Ljk5MjY2NzE5ODE4MTJDOTYxLjE4MTIwNjk0MTYwNDYgMTQ4OC45OTI2NjcxOTgxODEyIDk2MC41MjM4ODIxNTA2NSAxNDg4Ljk5MjY2NzE5ODE4MTIgOTYwLjUyMzg4MjE1MDY1IDE0ODguOTkyNjY3MTk4MTgxMkM5NjAuNTIzODgyMTUwNjUgMTQ4OC45OTI2NjcxOTgxODEyIDkzNi44NTIzNDU3MDUwMzIzIDE0NDcuOTk0NzE0NzM2OTM4NSA5MzYuODUyMzQ1NzA1MDMyMyAxNDQ3Ljk5NDcxNDczNjkzODVDOTM2Ljg1MjM0NTcwNTAzMjMgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDkxMy4xODEwMDUzNTg2OTYgMTQ4OC45OTI2NjcxOTgxODEyIDkxMy4xODEwMDUzNTg2OTYgMTQ4OC45OTI2NjcxOTgxODEyQzkxMy4xODEwMDUzNTg2OTYgMTQ4OC45OTI2NjcxOTgxODEyIDkxMi41MjM2ODA1Njc3NDE0IDE0ODguOTkyNjY3MTk4MTgxMiA5MTIuNTIzNjgwNTY3NzQxNCAxNDg4Ljk5MjY2NzE5ODE4MTJDOTEyLjUyMzY4MDU2Nzc0MTQgMTQ4OC45OTI2NjcxOTgxODEyIDg4OC44NTIxNDQxMjIxMjM3IDE0NDcuOTk0NzE0NzM2OTM4NSA4ODguODUyMTQ0MTIyMTIzNyAxNDQ3Ljk5NDcxNDczNjkzODVDODg4Ljg1MjE0NDEyMjEyMzcgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDg2NS4xODA4MDM3NzU3ODc0IDE0ODguOTkyNjY3MTk4MTgxMiA4NjUuMTgwODAzNzc1Nzg3NCAxNDg4Ljk5MjY2NzE5ODE4MTJDODY1LjE4MDgwMzc3NTc4NzQgMTQ4OC45OTI2NjcxOTgxODEyIDg2NC41MjM4NzExODMzOTU0IDE0ODguOTkyNjY3MTk4MTgxMiA4NjQuNTIzODcxMTgzMzk1NCAxNDg4Ljk5MjY2NzE5ODE4MTJDODY0LjUyMzg3MTE4MzM5NTQgMTQ4OC45OTI2NjcxOTgxODEyIDg0MC44NTIxMzg2Mzg0OTY0IDE0NDcuOTk0NzE0NzM2OTM4NSA4NDAuODUyMTM4NjM4NDk2NCAxNDQ3Ljk5NDcxNDczNjkzODVDODQwLjg1MjEzODYzODQ5NjQgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDgxNy4xODA2MDIxOTI4Nzg3IDE0ODguOTkyNjY3MTk4MTgxMiA4MTcuMTgwNjAyMTkyODc4NyAxNDg4Ljk5MjY2NzE5ODE4MTJDODE3LjE4MDYwMjE5Mjg3ODcgMTQ4OC45OTI2NjcxOTgxODEyIDgxNi41MjM2Njk2MDA0ODY4IDE0ODguOTkyNjY3MTk4MTgxMiA4MTYuNTIzNjY5NjAwNDg2OCAxNDg4Ljk5MjY2NzE5ODE4MTJDODE2LjUyMzY2OTYwMDQ4NjggMTQ4OC45OTI2NjcxOTgxODEyIDc5Mi44NTE5MzcwNTU1ODc4IDE0NDcuOTk0NzE0NzM2OTM4NSA3OTIuODUxOTM3MDU1NTg3OCAxNDQ3Ljk5NDcxNDczNjkzODVDNzkyLjg1MTkzNzA1NTU4NzggMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDc2OS4xODA0MDA2MDk5NzAxIDE0ODguOTkyNjY3MTk4MTgxMiA3NjkuMTgwNDAwNjA5OTcwMSAxNDg4Ljk5MjY2NzE5ODE4MTJDNzY5LjE4MDQwMDYwOTk3MDEgMTQ4OC45OTI2NjcxOTgxODEyIDc2OC41MjM0NjgwMTc1NzgxIDE0ODguOTkyNjY3MTk4MTgxMiA3NjguNTIzNDY4MDE3NTc4MSAxNDg4Ljk5MjY2NzE5ODE4MTJDNzY4LjUyMzQ2ODAxNzU3ODEgMTQ4OC45OTI2NjcxOTgxODEyIDc0NC44NTE3MzU0NzI2NzkxIDE0NDcuOTk0NzE0NzM2OTM4NSA3NDQuODUxNzM1NDcyNjc5MSAxNDQ3Ljk5NDcxNDczNjkzODVDNzQ0Ljg1MTczNTQ3MjY3OTEgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDcyMS4xODAxOTkwMjcwNjE1IDE0ODguOTkyNjY3MTk4MTgxMiA3MjEuMTgwMTk5MDI3MDYxNSAxNDg4Ljk5MjY2NzE5ODE4MTJDNzIxLjE4MDE5OTAyNzA2MTUgMTQ4OC45OTI2NjcxOTgxODEyIDcyMC41MjMyNjY0MzQ2Njk1IDE0ODguOTkyNjY3MTk4MTgxMiA3MjAuNTIzMjY2NDM0NjY5NSAxNDg4Ljk5MjY2NzE5ODE4MTJDNzIwLjUyMzI2NjQzNDY2OTUgMTQ4OC45OTI2NjcxOTgxODEyIDY5Ni44NTE1MzM4ODk3NzA1IDE0NDcuOTk0NzE0NzM2OTM4NSA2OTYuODUxNTMzODg5NzcwNSAxNDQ3Ljk5NDcxNDczNjkzODVDNjk2Ljg1MTUzMzg4OTc3MDUgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDY3My4xNzk5OTc0NDQxNTI4IDE0ODguOTkyNjY3MTk4MTgxMiA2NzMuMTc5OTk3NDQ0MTUyOCAxNDg4Ljk5MjY2NzE5ODE4MTJDNjczLjE3OTk5NzQ0NDE1MjggMTQ4OC45OTI2NjcxOTgxODEyIDY3Mi41MjMwNjQ4NTE3NjA5IDE0ODguOTkyNjY3MTk4MTgxMiA2NzIuNTIzMDY0ODUxNzYwOSAxNDg4Ljk5MjY2NzE5ODE4MTJDNjcyLjUyMzA2NDg1MTc2MDkgMTQ4OC45OTI2NjcxOTgxODEyIDY0OC44NTEzMzIzMDY4NjE5IDE0NDcuOTk0NzE0NzM2OTM4NSA2NDguODUxMzMyMzA2ODYxOSAxNDQ3Ljk5NDcxNDczNjkzODVDNjQ4Ljg1MTMzMjMwNjg2MTkgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDYyNS4xNzk5OTE5NjA1MjU1IDE0ODguOTkyNjY3MTk4MTgxMiA2MjUuMTc5OTkxOTYwNTI1NSAxNDg4Ljk5MjY2NzE5ODE4MTJDNjI1LjE3OTk5MTk2MDUyNTUgMTQ4OC45OTI2NjcxOTgxODEyIDYyNC41MjI2NjcxNjk1NzA5IDE0ODguOTkyNjY3MTk4MTgxMiA2MjQuNTIyNjY3MTY5NTcwOSAxNDg4Ljk5MjY2NzE5ODE4MTJDNjI0LjUyMjY2NzE2OTU3MDkgMTQ4OC45OTI2NjcxOTgxODEyIDYwMC44NTExMzA3MjM5NTMyIDE0NDcuOTk0NzE0NzM2OTM4NSA2MDAuODUxMTMwNzIzOTUzMiAxNDQ3Ljk5NDcxNDczNjkzODVDNjAwLjg1MTEzMDcyMzk1MzIgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDU3Ny4xNzk3OTAzNzc2MTY5IDE0ODguOTkyNjY3MTk4MTgxMiA1NzcuMTc5NzkwMzc3NjE2OSAxNDg4Ljk5MjY2NzE5ODE4MTJDNTc3LjE3OTc5MDM3NzYxNjkgMTQ4OC45OTI2NjcxOTgxODEyIDU3Ni41MjI0NjU1ODY2NjIzIDE0ODguOTkyNjY3MTk4MTgxMiA1NzYuNTIyNDY1NTg2NjYyMyAxNDg4Ljk5MjY2NzE5ODE4MTJDNTc2LjUyMjQ2NTU4NjY2MjMgMTQ4OC45OTI2NjcxOTgxODEyIDU1Mi44NTExMjUyNDAzMjU5IDE0NDcuOTk0NzE0NzM2OTM4NSA1NTIuODUxMTI1MjQwMzI1OSAxNDQ3Ljk5NDcxNDczNjkzODVDNTUyLjg1MTEyNTI0MDMyNTkgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDUyOS4xNzk1ODg3OTQ3MDgzIDE0ODguOTkyNjY3MTk4MTgxMiA1MjkuMTc5NTg4Nzk0NzA4MyAxNDg4Ljk5MjY2NzE5ODE4MTJDNTI5LjE3OTU4ODc5NDcwODMgMTQ4OC45OTI2NjcxOTgxODEyIDUyOC41MjI2NTYyMDIzMTYzIDE0ODguOTkyNjY3MTk4MTgxMiA1MjguNTIyNjU2MjAyMzE2MyAxNDg4Ljk5MjY2NzE5ODE4MTJDNTI4LjUyMjY1NjIwMjMxNjMgMTQ4OC45OTI2NjcxOTgxODEyIDUwNC44NTA5MjM2NTc0MTczIDE0NDcuOTk0NzE0NzM2OTM4NSA1MDQuODUwOTIzNjU3NDE3MyAxNDQ3Ljk5NDcxNDczNjkzODVDNTA0Ljg1MDkyMzY1NzQxNzMgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDQ4MS4xNzkzODcyMTE3OTk2IDE0ODguOTkyNjY3MTk4MTgxMiA0ODEuMTc5Mzg3MjExNzk5NiAxNDg4Ljk5MjY2NzE5ODE4MTJDNDgxLjE3OTM4NzIxMTc5OTYgMTQ4OC45OTI2NjcxOTgxODEyIDQ4MC41MjI0NTQ2MTk0MDc2NSAxNDg4Ljk5MjY2NzE5ODE4MTIgNDgwLjUyMjQ1NDYxOTQwNzY1IDE0ODguOTkyNjY3MTk4MTgxMkM0ODAuNTIyNDU0NjE5NDA3NjUgMTQ4OC45OTI2NjcxOTgxODEyIDQ1Ni44NTA3MjIwNzQ1MDg2NyAxNDQ3Ljk5NDcxNDczNjkzODUgNDU2Ljg1MDcyMjA3NDUwODY3IDE0NDcuOTk0NzE0NzM2OTM4NUM0NTYuODUwNzIyMDc0NTA4NjcgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDQzMy4xNzkxODU2Mjg4OTEgMTQ4OC45OTI2NjcxOTgxODEyIDQzMy4xNzkxODU2Mjg4OTEgMTQ4OC45OTI2NjcxOTgxODEyQzQzMy4xNzkxODU2Mjg4OTEgMTQ4OC45OTI2NjcxOTgxODEyIDQzMi41MjIyNTMwMzY0OTkgMTQ4OC45OTI2NjcxOTgxODEyIDQzMi41MjIyNTMwMzY0OTkgMTQ4OC45OTI2NjcxOTgxODEyQzQzMi41MjIyNTMwMzY0OTkgMTQ4OC45OTI2NjcxOTgxODEyIDQwOC44NTA1MjA0OTE2MDAwNCAxNDQ3Ljk5NDcxNDczNjkzODUgNDA4Ljg1MDUyMDQ5MTYwMDA0IDE0NDcuOTk0NzE0NzM2OTM4NUM0MDguODUwNTIwNDkxNjAwMDQgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDM4NS4xNzg5ODQwNDU5ODIzNiAxNDg4Ljk5MjY2NzE5ODE4MTIgMzg1LjE3ODk4NDA0NTk4MjM2IDE0ODguOTkyNjY3MTk4MTgxMkMzODUuMTc4OTg0MDQ1OTgyMzYgMTQ4OC45OTI2NjcxOTgxODEyIDM4NC41MjIwNTE0NTM1OTA0IDE0ODguOTkyNjY3MTk4MTgxMiAzODQuNTIyMDUxNDUzNTkwNCAxNDg4Ljk5MjY2NzE5ODE4MTJDMzg0LjUyMjA1MTQ1MzU5MDQgMTQ4OC45OTI2NjcxOTgxODEyIDM2MC44NTAzMTg5MDg2OTE0IDE0NDcuOTk0NzE0NzM2OTM4NSAzNjAuODUwMzE4OTA4NjkxNCAxNDQ3Ljk5NDcxNDczNjkzODVDMzYwLjg1MDMxODkwODY5MTQgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDMzNy4xNzg5Nzg1NjIzNTUwNCAxNDg4Ljk5MjY2NzE5ODE4MTIgMzM3LjE3ODk3ODU2MjM1NTA0IDE0ODguOTkyNjY3MTk4MTgxMkMzMzcuMTc4OTc4NTYyMzU1MDQgMTQ4OC45OTI2NjcxOTgxODEyIDMzNi41MjE4NDk4NzA2ODE3NiAxNDg4Ljk5MjY2NzE5ODE4MTIgMzM2LjUyMTg0OTg3MDY4MTc2IDE0ODguOTkyNjY3MTk4MTgxMkMzMzYuNTIxODQ5ODcwNjgxNzYgMTQ4OC45OTI2NjcxOTgxODEyIDMxMi44NTAxMTczMjU3ODI4IDE0NDcuOTk0NzE0NzM2OTM4NSAzMTIuODUwMTE3MzI1NzgyOCAxNDQ3Ljk5NDcxNDczNjkzODVDMzEyLjg1MDExNzMyNTc4MjggMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDI4OS4xNzg3NzY5Nzk0NDY0IDE0ODguOTkyNjY3MTk4MTgxMiAyODkuMTc4Nzc2OTc5NDQ2NCAxNDg4Ljk5MjY2NzE5ODE4MTJDMjg5LjE3ODc3Njk3OTQ0NjQgMTQ4OC45OTI2NjcxOTgxODEyIDI4OC41MjE2NDgyODc3NzMxMyAxNDg4Ljk5MjY2NzE5ODE4MTIgMjg4LjUyMTY0ODI4Nzc3MzEzIDE0ODguOTkyNjY3MTk4MTgxMkMyODguNTIxNjQ4Mjg3NzczMTMgMTQ4OC45OTI2NjcxOTgxODEyIDI2NC44NDk5MTU3NDI4NzQxNSAxNDQ3Ljk5NDcxNDczNjkzODUgMjY0Ljg0OTkxNTc0Mjg3NDE1IDE0NDcuOTk0NzE0NzM2OTM4NUMyNjQuODQ5OTE1NzQyODc0MTUgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDI0MS4xNzg1NzUzOTY1Mzc3OCAxNDg4Ljk5MjY2NzE5ODE4MTIgMjQxLjE3ODU3NTM5NjUzNzc4IDE0ODguOTkyNjY3MTk4MTgxMkMyNDEuMTc4NTc1Mzk2NTM3NzggMTQ4OC45OTI2NjcxOTgxODEyIDI0MC41MjE0NDY3MDQ4NjQ1IDE0ODguOTkyNjY3MTk4MTgxMiAyNDAuNTIxNDQ2NzA0ODY0NSAxNDg4Ljk5MjY2NzE5ODE4MTJDMjQwLjUyMTQ0NjcwNDg2NDUgMTQ4OC45OTI2NjcxOTgxODEyIDIxNi44NTAxMDYzNTg1MjgxNCAxNDQ3Ljk5NDcxNDczNjkzODUgMjE2Ljg1MDEwNjM1ODUyODE0IDE0NDcuOTk0NzE0NzM2OTM4NUMyMTYuODUwMTA2MzU4NTI4MTQgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDE5My4xNzgzNzM4MTM2MjkxNSAxNDg4Ljk5MjY2NzE5ODE4MTIgMTkzLjE3ODM3MzgxMzYyOTE1IDE0ODguOTkyNjY3MTk4MTgxMkMxOTMuMTc4MzczODEzNjI5MTUgMTQ4OC45OTI2NjcxOTgxODEyIDE5Mi41MjE0NDEyMjEyMzcxOCAxNDg4Ljk5MjY2NzE5ODE4MTIgMTkyLjUyMTQ0MTIyMTIzNzE4IDE0ODguOTkyNjY3MTk4MTgxMkMxOTIuNTIxNDQxMjIxMjM3MTggMTQ4OC45OTI2NjcxOTgxODEyIDE2OC44NDk3MDg2NzYzMzgyIDE0NDcuOTk0NzE0NzM2OTM4NSAxNjguODQ5NzA4Njc2MzM4MiAxNDQ3Ljk5NDcxNDczNjkzODVDMTY4Ljg0OTcwODY3NjMzODIgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDE0NS4xNzgxNzIyMzA3MjA1MiAxNDg4Ljk5MjY2NzE5ODE4MTIgMTQ1LjE3ODE3MjIzMDcyMDUyIDE0ODguOTkyNjY3MTk4MTgxMkMxNDUuMTc4MTcyMjMwNzIwNTIgMTQ4OC45OTI2NjcxOTgxODEyIDE0NC41MjA4NDc0Mzk3NjU5MyAxNDg4Ljk5MjY2NzE5ODE4MTIgMTQ0LjUyMDg0NzQzOTc2NTkzIDE0ODguOTkyNjY3MTk4MTgxMkMxNDQuNTIwODQ3NDM5NzY1OTMgMTQ4OC45OTI2NjcxOTgxODEyIDEyMC44NDk1MDcwOTM0Mjk1NyAxNDQ3Ljk5NDcxNDczNjkzODUgMTIwLjg0OTUwNzA5MzQyOTU3IDE0NDcuOTk0NzE0NzM2OTM4NUMxMjAuODQ5NTA3MDkzNDI5NTcgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDk3LjE3Nzk3MDY0NzgxMTg5IDE0ODguOTkyNjY3MTk4MTgxMiA5Ny4xNzc5NzA2NDc4MTE4OSAxNDg4Ljk5MjY2NzE5ODE4MTJDOTcuMTc3OTcwNjQ3ODExODkgMTQ4OC45OTI2NjcxOTgxODEyIDk2LjUyMTAzODA1NTQxOTkyIDE0ODguOTkyNjY3MTk4MTgxMiA5Ni41MjEwMzgwNTU0MTk5MiAxNDg4Ljk5MjY2NzE5ODE4MTJDOTYuNTIxMDM4MDU1NDE5OTIgMTQ4OC45OTI2NjcxOTgxODEyIDcyLjg0OTMwNTUxMDUyMDk0IDE0NDcuOTk0NzE0NzM2OTM4NSA3Mi44NDkzMDU1MTA1MjA5NCAxNDQ3Ljk5NDcxNDczNjkzODVDNzIuODQ5MzA1NTEwNTIwOTQgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDQ5LjE3Nzc2OTA2NDkwMzI2IDE0ODguOTkyNjY3MTk4MTgxMiA0OS4xNzc3NjkwNjQ5MDMyNiAxNDg4Ljk5MjY2NzE5ODE4MTJDNDkuMTc3NzY5MDY0OTAzMjYgMTQ4OC45OTI2NjcxOTgxODEyIDQ4LjUyMDgzNjQ3MjUxMTI5IDE0ODguOTkyNjY3MTk4MTgxMiA0OC41MjA4MzY0NzI1MTEyOSAxNDg4Ljk5MjY2NzE5ODE4MTJDNDguNTIwODM2NDcyNTExMjkgMTQ4OC45OTI2NjcxOTgxODEyIDI0Ljg0OTEwMzkyNzYxMjMwNSAxNDQ3Ljk5NDcxNDczNjkzODUgMjQuODQ5MTAzOTI3NjEyMzA1IDE0NDcuOTk0NzE0NzM2OTM4NUMyNC44NDkxMDM5Mjc2MTIzMDUgMTQ0Ny45OTQ3MTQ3MzY5Mzg1IDEuOTk5NjE1NjY5MjUwNDg4MyAxNDg3LjU2OTE5MTkzMjY3ODIgMS45OTk2MTU2NjkyNTA0ODgzIDE0ODcuNTY5MTkxOTMyNjc4MkMxLjk5OTYxNTY2OTI1MDQ4ODMgMTQ4Ny41NjkxOTE5MzI2NzgyIDEuOTk5NjE1NjY5MjUwNDg4MyAxMzY5Ljk5NTcyOTQ0NjQxMTEgMS45OTk2MTU2NjkyNTA0ODgzIDEzNjkuOTk1NzI5NDQ2NDExMUMxLjk5OTYxNTY2OTI1MDQ4ODMgMTM2OS45OTU3Mjk0NDY0MTExIDEuOTk5NjE1NjY5MjUwNDg4MyAxMzY5Ljk5NDE3NTQzNDExMjUgMS45OTk2MTU2NjkyNTA0ODgzIDEzNjkuOTk0MTc1NDM0MTEyNUMxLjk5OTYxNTY2OTI1MDQ4ODMgMTM2OS45OTQxNzU0MzQxMTI1IDEuOTk5NjE1NjY5MjUwNDg4MyAxMjAuNjg3OTQ2MzE5NTgwMDggMS45OTk2MTU2NjkyNTA0ODgzIDEyMC42ODc5NDYzMTk1ODAwOEMxLjk5OTYxNTY2OTI1MDQ4ODMgMTIwLjY4Nzk0NjMxOTU4MDA4IDEuOTk5NjE1NjY5MjUwNDg4MyAxMjAuNjg3OTQ2MzE5NTgwMDggMS45OTk2MTU2NjkyNTA0ODgzIDEyMC42ODc5NDYzMTk1ODAwOEMxLjk5OTYxNTY2OTI1MDQ4ODMgMTIwLjY4Nzk0NjMxOTU4MDA4IDEuOTk5NjE1NjY5MjUwNDg4MyAzLjEwOTgyMTc5NjQxNzIzNjMgMS45OTk2MTU2NjkyNTA0ODgzIDMuMTA5ODIxNzk2NDE3MjM2M0MxLjk5OTYxNTY2OTI1MDQ4ODMgMy4xMDk4MjE3OTY0MTcyMzYzIDI0Ljg0ODkwNzgyODMzMDk5NCA0Mi42ODQyOTg5OTIxNTY5OCAyNC44NDg5MDc4MjgzMzA5OTQgNDIuNjg0Mjk4OTkyMTU2OThDMjQuODQ4OTA3ODI4MzMwOTk0IDQyLjY4NDI5ODk5MjE1Njk4IDQ4LjUyMDQ0NDI3Mzk0ODY3IDEuNjg2MzQ2NTMwOTE0MzA2NiA0OC41MjA0NDQyNzM5NDg2NyAxLjY4NjM0NjUzMDkxNDMwNjZDNDguNTIwNDQ0MjczOTQ4NjcgMS42ODYzNDY1MzA5MTQzMDY2IDQ5LjE3Nzc2OTA2NDkwMzI2IDEuNjg2MzQ2NTMwOTE0MzA2NiA0OS4xNzc3NjkwNjQ5MDMyNiAxLjY4NjM0NjUzMDkxNDMwNjZDNDkuMTc3NzY5MDY0OTAzMjYgMS42ODYzNDY1MzA5MTQzMDY2IDcyLjg0OTEwOTQxMTIzOTYyIDQyLjY4NDI5ODk5MjE1Njk4IDcyLjg0OTEwOTQxMTIzOTYyIDQyLjY4NDI5ODk5MjE1Njk4QzcyLjg0OTEwOTQxMTIzOTYyIDQyLjY4NDI5ODk5MjE1Njk4IDk2LjUyMDY0NTg1Njg1NzMgMS42ODYzNDY1MzA5MTQzMDY2IDk2LjUyMDY0NTg1Njg1NzMgMS42ODYzNDY1MzA5MTQzMDY2Qzk2LjUyMDY0NTg1Njg1NzMgMS42ODYzNDY1MzA5MTQzMDY2IDk3LjE3Nzk3MDY0NzgxMTg5IDEuNjg2MzQ2NTMwOTE0MzA2NiA5Ny4xNzc5NzA2NDc4MTE4OSAxLjY4NjM0NjUzMDkxNDMwNjZDOTcuMTc3OTcwNjQ3ODExODkgMS42ODYzNDY1MzA5MTQzMDY2IDEyMC44NDkzMTA5OTQxNDgyNSA0Mi42ODQyOTg5OTIxNTY5OCAxMjAuODQ5MzEwOTk0MTQ4MjUgNDIuNjg0Mjk4OTkyMTU2OThDMTIwLjg0OTMxMDk5NDE0ODI1IDQyLjY4NDI5ODk5MjE1Njk4IDE0NC41MjA2NTEzNDA0ODQ2MiAxLjY4NjM0NjUzMDkxNDMwNjYgMTQ0LjUyMDY1MTM0MDQ4NDYyIDEuNjg2MzQ2NTMwOTE0MzA2NkMxNDQuNTIwNjUxMzQwNDg0NjIgMS42ODYzNDY1MzA5MTQzMDY2IDE0NS4xNzgxNzIyMzA3MjA1MiAxLjY4NjM0NjUzMDkxNDMwNjYgMTQ1LjE3ODE3MjIzMDcyMDUyIDEuNjg2MzQ2NTMwOTE0MzA2NkMxNDUuMTc4MTcyMjMwNzIwNTIgMS42ODYzNDY1MzA5MTQzMDY2IDE2OC44NDk1MTI1NzcwNTY4OCA0Mi42ODQyOTg5OTIxNTY5OCAxNjguODQ5NTEyNTc3MDU2ODggNDIuNjg0Mjk4OTkyMTU2OThDMTY4Ljg0OTUxMjU3NzA1Njg4IDQyLjY4NDI5ODk5MjE1Njk4IDE5Mi41MjEwNDkwMjI2NzQ1NiAxLjY4NjM0NjUzMDkxNDMwNjYgMTkyLjUyMTA0OTAyMjY3NDU2IDEuNjg2MzQ2NTMwOTE0MzA2NkMxOTIuNTIxMDQ5MDIyNjc0NTYgMS42ODYzNDY1MzA5MTQzMDY2IDE5My4xNzgzNzM4MTM2MjkxNSAxLjY4NjM0NjUzMDkxNDMwNjYgMTkzLjE3ODM3MzgxMzYyOTE1IDEuNjg2MzQ2NTMwOTE0MzA2NkMxOTMuMTc4MzczODEzNjI5MTUgMS42ODYzNDY1MzA5MTQzMDY2IDIxNi44NDk3MTQxNTk5NjU1MiA0Mi42ODQyOTg5OTIxNTY5OCAyMTYuODQ5NzE0MTU5OTY1NTIgNDIuNjg0Mjk4OTkyMTU2OThDMjE2Ljg0OTcxNDE1OTk2NTUyIDQyLjY4NDI5ODk5MjE1Njk4IDI0MC41MjEwNTQ1MDYzMDE4OCAxLjY4NjM0NjUzMDkxNDMwNjYgMjQwLjUyMTA1NDUwNjMwMTg4IDEuNjg2MzQ2NTMwOTE0MzA2NkMyNDAuNTIxMDU0NTA2MzAxODggMS42ODYzNDY1MzA5MTQzMDY2IDI0MS4xNzg1NzUzOTY1Mzc3OCAxLjY4NjM0NjUzMDkxNDMwNjYgMjQxLjE3ODU3NTM5NjUzNzc4IDEuNjg2MzQ2NTMwOTE0MzA2NkMyNDEuMTc4NTc1Mzk2NTM3NzggMS42ODYzNDY1MzA5MTQzMDY2IDI2NC44NDk5MTU3NDI4NzQxNSA0Mi42ODQyOTg5OTIxNTY5OCAyNjQuODQ5OTE1NzQyODc0MTUgNDIuNjg0Mjk4OTkyMTU2OThDMjY0Ljg0OTkxNTc0Mjg3NDE1IDQyLjY4NDI5ODk5MjE1Njk4IDI4OC41MjEyNTYwODkyMTA1IDEuNjg2MzQ2NTMwOTE0MzA2NiAyODguNTIxMjU2MDg5MjEwNSAxLjY4NjM0NjUzMDkxNDMwNjZDMjg4LjUyMTI1NjA4OTIxMDUgMS42ODYzNDY1MzA5MTQzMDY2IDI4OS4xNzg1ODA4ODAxNjUxIDEuNjg2MzQ2NTMwOTE0MzA2NiAyODkuMTc4NTgwODgwMTY1MSAxLjY4NjM0NjUzMDkxNDMwNjZDMjg5LjE3ODU4MDg4MDE2NTEgMS42ODYzNDY1MzA5MTQzMDY2IDMxMi44NDk5MjEyMjY1MDE0NiA0Mi42ODQyOTg5OTIxNTY5OCAzMTIuODQ5OTIxMjI2NTAxNDYgNDIuNjg0Mjk4OTkyMTU2OThDMzEyLjg0OTkyMTIyNjUwMTQ2IDQyLjY4NDI5ODk5MjE1Njk4IDMzNi41MjE0NTc2NzIxMTkxNCAxLjY4NjM0NjUzMDkxNDMwNjYgMzM2LjUyMTQ1NzY3MjExOTE0IDEuNjg2MzQ2NTMwOTE0MzA2NkMzMzYuNTIxNDU3NjcyMTE5MTQgMS42ODYzNDY1MzA5MTQzMDY2IDMzNy4xNzg3ODI0NjMwNzM3MyAxLjY4NjM0NjUzMDkxNDMwNjYgMzM3LjE3ODc4MjQ2MzA3MzczIDEuNjg2MzQ2NTMwOTE0MzA2NkMzMzcuMTc4NzgyNDYzMDczNzMgMS42ODYzNDY1MzA5MTQzMDY2IDM2MC44NTAxMjI4MDk0MTAxIDQyLjY4NDI5ODk5MjE1Njk4IDM2MC44NTAxMjI4MDk0MTAxIDQyLjY4NDI5ODk5MjE1Njk4QzM2MC44NTAxMjI4MDk0MTAxIDQyLjY4NDI5ODk5MjE1Njk4IDM4NC41MjE2NTkyNTUwMjc3NyAxLjY4NjM0NjUzMDkxNDMwNjYgMzg0LjUyMTY1OTI1NTAyNzc3IDEuNjg2MzQ2NTMwOTE0MzA2NkMzODQuNTIxNjU5MjU1MDI3NzcgMS42ODYzNDY1MzA5MTQzMDY2IDM4NS4xNzg5ODQwNDU5ODIzNiAxLjY4NjM0NjUzMDkxNDMwNjYgMzg1LjE3ODk4NDA0NTk4MjM2IDEuNjg2MzQ2NTMwOTE0MzA2NkMzODUuMTc4OTg0MDQ1OTgyMzYgMS42ODYzNDY1MzA5MTQzMDY2IDQwOC44NTAzMjQzOTIzMTg3IDQyLjY4NDI5ODk5MjE1Njk4IDQwOC44NTAzMjQzOTIzMTg3IDQyLjY4NDI5ODk5MjE1Njk4QzQwOC44NTAzMjQzOTIzMTg3IDQyLjY4NDI5ODk5MjE1Njk4IDQzMi41MjE4NjA4Mzc5MzY0IDEuNjg2MzQ2NTMwOTE0MzA2NiA0MzIuNTIxODYwODM3OTM2NCAxLjY4NjM0NjUzMDkxNDMwNjZDNDMyLjUyMTg2MDgzNzkzNjQgMS42ODYzNDY1MzA5MTQzMDY2IDQzMy4xNzkxODU2Mjg4OTEgMS42ODYzNDY1MzA5MTQzMDY2IDQzMy4xNzkxODU2Mjg4OTEgMS42ODYzNDY1MzA5MTQzMDY2QzQzMy4xNzkxODU2Mjg4OTEgMS42ODYzNDY1MzA5MTQzMDY2IDQ1Ni44NTA1MjU5NzUyMjczNiA0Mi42ODQyOTg5OTIxNTY5OCA0NTYuODUwNTI1OTc1MjI3MzYgNDIuNjg0Mjk4OTkyMTU2OThDNDU2Ljg1MDUyNTk3NTIyNzM2IDQyLjY4NDI5ODk5MjE1Njk4IDQ4MC41MjIwNjI0MjA4NDUwMyAxLjY4NjM0NjUzMDkxNDMwNjYgNDgwLjUyMjA2MjQyMDg0NTAzIDEuNjg2MzQ2NTMwOTE0MzA2NkM0ODAuNTIyMDYyNDIwODQ1MDMgMS42ODYzNDY1MzA5MTQzMDY2IDQ4MS4xNzkzODcyMTE3OTk2IDEuNjg2MzQ2NTMwOTE0MzA2NiA0ODEuMTc5Mzg3MjExNzk5NiAxLjY4NjM0NjUzMDkxNDMwNjZDNDgxLjE3OTM4NzIxMTc5OTYgMS42ODYzNDY1MzA5MTQzMDY2IDUwNC44NTA3Mjc1NTgxMzYgNDIuNjg0Mjk4OTkyMTU2OTggNTA0Ljg1MDcyNzU1ODEzNiA0Mi42ODQyOTg5OTIxNTY5OEM1MDQuODUwNzI3NTU4MTM2IDQyLjY4NDI5ODk5MjE1Njk4IDUyOC41MjIyNjQwMDM3NTM3IDEuNjg2MzQ2NTMwOTE0MzA2NiA1MjguNTIyMjY0MDAzNzUzNyAxLjY4NjM0NjUzMDkxNDMwNjZDNTI4LjUyMjI2NDAwMzc1MzcgMS42ODYzNDY1MzA5MTQzMDY2IDUyOS4xNzk1ODg3OTQ3MDgzIDEuNjg2MzQ2NTMwOTE0MzA2NiA1MjkuMTc5NTg4Nzk0NzA4MyAxLjY4NjM0NjUzMDkxNDMwNjZDNTI5LjE3OTU4ODc5NDcwODMgMS42ODYzNDY1MzA5MTQzMDY2IDU1Mi44NTA5MjkxNDEwNDQ2IDQyLjY4NDI5ODk5MjE1Njk4IDU1Mi44NTA5MjkxNDEwNDQ2IDQyLjY4NDI5ODk5MjE1Njk4QzU1Mi44NTA5MjkxNDEwNDQ2IDQyLjY4NDI5ODk5MjE1Njk4IDU3Ni41MjIyNjk0ODczODEgMS42ODYzNDY1MzA5MTQzMDY2IDU3Ni41MjIyNjk0ODczODEgMS42ODYzNDY1MzA5MTQzMDY2QzU3Ni41MjIyNjk0ODczODEgMS42ODYzNDY1MzA5MTQzMDY2IDU3Ny4xNzk3OTAzNzc2MTY5IDEuNjg2MzQ2NTMwOTE0MzA2NiA1NzcuMTc5NzkwMzc3NjE2OSAxLjY4NjM0NjUzMDkxNDMwNjZDNTc3LjE3OTc5MDM3NzYxNjkgMS42ODYzNDY1MzA5MTQzMDY2IDYwMC44NTExMzA3MjM5NTMyIDQyLjY4NDI5ODk5MjE1Njk4IDYwMC44NTExMzA3MjM5NTMyIDQyLjY4NDI5ODk5MjE1Njk4QzYwMC44NTExMzA3MjM5NTMyIDQyLjY4NDI5ODk5MjE1Njk4IDYyNC41MjI0NzEwNzAyODk2IDEuNjg2MzQ2NTMwOTE0MzA2NiA2MjQuNTIyNDcxMDcwMjg5NiAxLjY4NjM0NjUzMDkxNDMwNjZDNjI0LjUyMjQ3MTA3MDI4OTYgMS42ODYzNDY1MzA5MTQzMDY2IDYyNS4xNzk5OTE5NjA1MjU1IDEuNjg2MzQ2NTMwOTE0MzA2NiA2MjUuMTc5OTkxOTYwNTI1NSAxLjY4NjM0NjUzMDkxNDMwNjZDNjI1LjE3OTk5MTk2MDUyNTUgMS42ODYzNDY1MzA5MTQzMDY2IDY0OC44NTEzMzIzMDY4NjE5IDQyLjY4NDI5ODk5MjE1Njk4IDY0OC44NTEzMzIzMDY4NjE5IDQyLjY4NDI5ODk5MjE1Njk4QzY0OC44NTEzMzIzMDY4NjE5IDQyLjY4NDI5ODk5MjE1Njk4IDY3Mi41MjI2NzI2NTMxOTgyIDEuNjg2MzQ2NTMwOTE0MzA2NiA2NzIuNTIyNjcyNjUzMTk4MiAxLjY4NjM0NjUzMDkxNDMwNjZDNjcyLjUyMjY3MjY1MzE5ODIgMS42ODYzNDY1MzA5MTQzMDY2IDY3My4xNzk5OTc0NDQxNTI4IDEuNjg2MzQ2NTMwOTE0MzA2NiA2NzMuMTc5OTk3NDQ0MTUyOCAxLjY4NjM0NjUzMDkxNDMwNjZDNjczLjE3OTk5NzQ0NDE1MjggMS42ODYzNDY1MzA5MTQzMDY2IDY5Ni44NTEzMzc3OTA0ODkyIDQyLjY4NDI5ODk5MjE1Njk4IDY5Ni44NTEzMzc3OTA0ODkyIDQyLjY4NDI5ODk5MjE1Njk4QzY5Ni44NTEzMzc3OTA0ODkyIDQyLjY4NDI5ODk5MjE1Njk4IDcyMC41MjI4NzQyMzYxMDY5IDEuNjg2MzQ2NTMwOTE0MzA2NiA3MjAuNTIyODc0MjM2MTA2OSAxLjY4NjM0NjUzMDkxNDMwNjZDNzIwLjUyMjg3NDIzNjEwNjkgMS42ODYzNDY1MzA5MTQzMDY2IDcyMS4xODAxOTkwMjcwNjE1IDEuNjg2MzQ2NTMwOTE0MzA2NiA3MjEuMTgwMTk5MDI3MDYxNSAxLjY4NjM0NjUzMDkxNDMwNjZDNzIxLjE4MDE5OTAyNzA2MTUgMS42ODYzNDY1MzA5MTQzMDY2IDc0NC44NTE1MzkzNzMzOTc4IDQyLjY4NDI5ODk5MjE1Njk4IDc0NC44NTE1MzkzNzMzOTc4IDQyLjY4NDI5ODk5MjE1Njk4Qzc0NC44NTE1MzkzNzMzOTc4IDQyLjY4NDI5ODk5MjE1Njk4IDc2OC41MjMwNzU4MTkwMTU1IDEuNjg2MzQ2NTMwOTE0MzA2NiA3NjguNTIzMDc1ODE5MDE1NSAxLjY4NjM0NjUzMDkxNDMwNjZDNzY4LjUyMzA3NTgxOTAxNTUgMS42ODYzNDY1MzA5MTQzMDY2IDc2OS4xODA0MDA2MDk5NzAxIDEuNjg2MzQ2NTMwOTE0MzA2NiA3NjkuMTgwNDAwNjA5OTcwMSAxLjY4NjM0NjUzMDkxNDMwNjZDNzY5LjE4MDQwMDYwOTk3MDEgMS42ODYzNDY1MzA5MTQzMDY2IDc5Mi44NTE3NDA5NTYzMDY1IDQyLjY4NDI5ODk5MjE1Njk4IDc5Mi44NTE3NDA5NTYzMDY1IDQyLjY4NDI5ODk5MjE1Njk4Qzc5Mi44NTE3NDA5NTYzMDY1IDQyLjY4NDI5ODk5MjE1Njk4IDgxNi41MjMyNzc0MDE5MjQxIDEuNjg2MzQ2NTMwOTE0MzA2NiA4MTYuNTIzMjc3NDAxOTI0MSAxLjY4NjM0NjUzMDkxNDMwNjZDODE2LjUyMzI3NzQwMTkyNDEgMS42ODYzNDY1MzA5MTQzMDY2IDgxNy4xODA2MDIxOTI4Nzg3IDEuNjg2MzQ2NTMwOTE0MzA2NiA4MTcuMTgwNjAyMTkyODc4NyAxLjY4NjM0NjUzMDkxNDMwNjZDODE3LjE4MDYwMjE5Mjg3ODcgMS42ODYzNDY1MzA5MTQzMDY2IDg0MC44NTE5NDI1MzkyMTUxIDQyLjY4NDI5ODk5MjE1Njk4IDg0MC44NTE5NDI1MzkyMTUxIDQyLjY4NDI5ODk5MjE1Njk4Qzg0MC44NTE5NDI1MzkyMTUxIDQyLjY4NDI5ODk5MjE1Njk4IDg2NC41MjM0Nzg5ODQ4MzI4IDEuNjg2MzQ2NTMwOTE0MzA2NiA4NjQuNTIzNDc4OTg0ODMyOCAxLjY4NjM0NjUzMDkxNDMwNjZDODY0LjUyMzQ3ODk4NDgzMjggMS42ODYzNDY1MzA5MTQzMDY2IDg2NS4xODA4MDM3NzU3ODc0IDEuNjg2MzQ2NTMwOTE0MzA2NiA4NjUuMTgwODAzNzc1Nzg3NCAxLjY4NjM0NjUzMDkxNDMwNjZDODY1LjE4MDgwMzc3NTc4NzQgMS42ODYzNDY1MzA5MTQzMDY2IDg4OC44NTIxNDQxMjIxMjM3IDQyLjY4NDI5ODk5MjE1Njk4IDg4OC44NTIxNDQxMjIxMjM3IDQyLjY4NDI5ODk5MjE1Njk4Qzg4OC44NTIxNDQxMjIxMjM3IDQyLjY4NDI5ODk5MjE1Njk4IDkxMi41MjM0ODQ0Njg0NjAxIDEuNjg2MzQ2NTMwOTE0MzA2NiA5MTIuNTIzNDg0NDY4NDYwMSAxLjY4NjM0NjUzMDkxNDMwNjZDOTEyLjUyMzQ4NDQ2ODQ2MDEgMS42ODYzNDY1MzA5MTQzMDY2IDkxMy4xODEwMDUzNTg2OTYgMS42ODYzNDY1MzA5MTQzMDY2IDkxMy4xODEwMDUzNTg2OTYgMS42ODYzNDY1MzA5MTQzMDY2QzkxMy4xODEwMDUzNTg2OTYgMS42ODYzNDY1MzA5MTQzMDY2IDkzNi44NTIzNDU3MDUwMzIzIDQyLjY4NDI5ODk5MjE1Njk4IDkzNi44NTIzNDU3MDUwMzIzIDQyLjY4NDI5ODk5MjE1Njk4QzkzNi44NTIzNDU3MDUwMzIzIDQyLjY4NDI5ODk5MjE1Njk4IDk2MC41MjM2ODYwNTEzNjg3IDEuNjg2MzQ2NTMwOTE0MzA2NiA5NjAuNTIzNjg2MDUxMzY4NyAxLjY4NjM0NjUzMDkxNDMwNjZDOTYwLjUyMzY4NjA1MTM2ODcgMS42ODYzNDY1MzA5MTQzMDY2IDk2MS4xODEyMDY5NDE2MDQ2IDEuNjg2MzQ2NTMwOTE0MzA2NiA5NjEuMTgxMjA2OTQxNjA0NiAxLjY4NjM0NjUzMDkxNDMwNjZDOTYxLjE4MTIwNjk0MTYwNDYgMS42ODYzNDY1MzA5MTQzMDY2IDk4NC44NTI1NDcyODc5NDEgNDIuNjg0Mjk4OTkyMTU2OTggOTg0Ljg1MjU0NzI4Nzk0MSA0Mi42ODQyOTg5OTIxNTY5OEM5ODQuODUyNTQ3Mjg3OTQxIDQyLjY4NDI5ODk5MjE1Njk4IDEwMDguNTIzODg3NjM0Mjc3MyAxLjY4NjM0NjUzMDkxNDMwNjYgMTAwOC41MjM4ODc2MzQyNzczIDEuNjg2MzQ2NTMwOTE0MzA2NkMxMDA4LjUyMzg4NzYzNDI3NzMgMS42ODYzNDY1MzA5MTQzMDY2IDEwMDkuMTgxMjEyNDI1MjMxOSAxLjY4NjM0NjUzMDkxNDMwNjYgMTAwOS4xODEyMTI0MjUyMzE5IDEuNjg2MzQ2NTMwOTE0MzA2NkMxMDA5LjE4MTIxMjQyNTIzMTkgMS42ODYzNDY1MzA5MTQzMDY2IDEwMzIuODUyNzQ4ODcwODQ5NiA0Mi42ODQyOTg5OTIxNTY5OCAxMDMyLjg1Mjc0ODg3MDg0OTYgNDIuNjg0Mjk4OTkyMTU2OThDMTAzMi44NTI3NDg4NzA4NDk2IDQyLjY4NDI5ODk5MjE1Njk4IDEwNTQuOTk5NjEzNDA0Mjc0IDQuMzI4MTY3NDM4NTA3MDggMTA1NC45OTk2MTM0MDQyNzQgNC4zMjgxNjc0Mzg1MDcwOEMxMDU0Ljk5OTYxMzQwNDI3NCA0LjMyODE2NzQzODUwNzA4IDEwNTQuMDAzMjMyOTU1OTMyNiAxMjAuNjg2MzkyMzA3MjgxNSAxMDU0LjAwMzIzMjk1NTkzMjYgMTIwLjY4NjM5MjMwNzI4MTVDMTA1NC4wMDMyMzI5NTU5MzI2IDEyMC42ODYzOTIzMDcyODE1IDEwNTMuOTk5NzAzMTY4ODY5IDEyMC42ODYzOTIzMDcyODE1IDEwNTMuOTk5NzAzMTY4ODY5IDEyMC42ODYzOTIzMDcyODE1IFoiIC8+CgogICAgPC9zdmc+');background-position:center center;background-repeat:no-repeat;background-size:100% 100%;margin:0px 0px 0px 0px;padding:63px 32px 78px 34px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+				style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:row;height:100%;justify-content:space-between;flex-wrap:wrap;margin:0px 0px -39px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+					<#--按照solutionSections展示section列表-->
+					<#--section结构为数组-->
+					<#list solutionSections as section>					
+						<#--Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+						<#assign items = solutionItems[section.id]>
+						<#--包含有spu及关联的item.spu列表-->
+						<#--显示SPU及item.spu详情-->
+						<#list items as item>		
+							<#if item.spu.logo??>				
+								<section class="ProseMirror-node ProseMirror-flexBox"
+								title="图片项" style="box-sizing:border-box;margin:0px 0px 39px 0px;padding:0px 0px 0px 0px;width:44.7953216374269%;display:flex;flex-direction:column;max-width:none !important;"
+								data-ism="0" data-label="imageItem" data-gtype="fixed" data-sid="0.3471527688906404"
+								data-rsid="">
+									<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+									style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+										<section class="ProseMirror-node ProseMirror-title ProseMirror-textBlockNode"
+										title="小标题" style="box-sizing:border-box;margin:0px 0px 6px 0px;padding:0px 0.3333333333333333px 0px 0.3333333333333333px;display:flex;flex-direction:column;align-items:flex-start;max-width:none !important;"
+										data-ism="0" data-label="" data-gtype="" data-sid="0.5389544330756486"
+										data-rsid="">
+											<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:2px 7px 2px 11px;background-color:#2BB662;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+												<h6 class="ProseMirror-node-content ProseMirror-node-title-content ProseMirror-textBlockNode-content"
+												style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:17px;line-height:1.2;letter-spacing:1.7px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+												data-placeholder="小标题">
+													<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+														${item.spu.name}
+													</span>
+												</h6>
+											</section>
+										</section>
+										<section class="ProseMirror-node ProseMirror-blockImage"
+										title="图片" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+										data-fit-in="{&quot;type&quot;:3,&quot;ratio&quot;:100,&quot;scale&quot;:100,&quot;offset&quot;:[0,0],&quot;naturalWidth&quot;:685,&quot;naturalHeight&quot;:358}"
+										data-ism="0" data-label="" data-gtype="" data-sid="0.7673195699618174"
+										data-rsid="" data-mid="390605">
+											<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+											style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+												<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+												src="${item.spu.logo}"
+												alt="图片" title="图片">
+											</section>
+										</section>
+									</section>
+								</section>
+							</#if>
+						</#list>
+					</#list>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--分隔符-->
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section class="ProseMirror-node ProseMirror-blockImage"
+title="分隔线" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 34.666666666666664px 0px 35.666666666666664px;display:flex;flex-direction:column;max-width:none !important;"
+data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:935,&quot;naturalHeight&quot;:75}"
+data-ism="1" data-label="divider__image" data-gtype="" data-sid="0.654678553123214"
+data-rsid="" data-mid="">
+	<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+	style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+		<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+		src="https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/ae77b4aa-4fb1-4468-a51f-b57c442cfc4e19272.png"
+		alt="分隔线" title="分隔线">
+	</section>
+</section>
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+
+<#--标签：包含标签及extJson属性-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="文章列表卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 15.333333333333334px 0px 15.666666666666666px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="articleListCard" data-gtype="fixed" data-sid="0.8909407111731251"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="padding:14px 0px 0px 16px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 10px 11px 0px;background-color:#36BA6A;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:-14px 0px 0px -16px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+				<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:22px 46px 32px 39px;background-color:#FFFFFF;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+					<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+					style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+						<section class="ProseMirror-node ProseMirror-heading ProseMirror-textBlockNode"
+						title="卡片标题" style="box-sizing:border-box;margin:0px 0px 21.666666666666668px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+						data-ism="0" data-label="" data-gtype="" data-sid="0.7523935103984303"
+						data-rsid="">
+							<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:3px 9px 4px 13px;background-color:#F9C778;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+								<h1 class="ProseMirror-node-content ProseMirror-node-heading-content ProseMirror-textBlockNode-content"
+								style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:1.5px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+								data-placeholder="一级标题">
+									<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+										主题标签
+									</span>
+								</h1>
+							</section>
+						</section>
+						<section class="ProseMirror-node ProseMirror-flexBox"
+						title="文章列表" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="articleList" data-gtype="container" data-sid="0.08113069491685132"
+						data-rsid="">
+							<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+							style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px -9px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+								<section class="ProseMirror-node ProseMirror-flexBox"
+								title="文章项" style="box-sizing:border-box;margin:0px 0px 9px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+								data-ism="0" data-label="articleItem" data-gtype="container" data-sid="0.47936602632391745"
+								data-rsid="">
+									<section class="ProseMirror-box-style_normal" ignoreparse="true" style="padding:0px 0px 0px 3px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+										<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:0px 9px 9px 0px;border-bottom-width:1px;border-bottom-color:#000000;border-bottom-style:dotted;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+											<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px -3px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+												<section class="ProseMirror-fixed-decoration" ignoreparse="true" style="margin:0px 0px 0px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+													<section class="ProseMirror-fixed-decoration-center" ignoreparse="true"
+													style="display:flex;z-index:1;flex-grow:1;">
+														<section style="flex:1;z-index:1;padding:0px 0px 0px 15px;display:flex;flex-direction:column;">
+															<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+															style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+																<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+																title="段落" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+																data-ism="0" data-label="" data-gtype="" data-sid="0.07482844466815441"
+																data-rsid="">
+																	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+																	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+																	data-placeholder="输入‘/’快速定义内容">
+																		<#--基础信息：逐条显示 extJson。需要预先准备键值对。作为标签展示-->
+																		<#if solution.extJson?? >
+																			<#list solution.extJson?keys as key>
+																				<#if solution.extJson[key]?? >
+																					<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																						&nbsp;${key}/${solution.extJson[key]!}&nbsp;
+																					</span>
+																				</#if>	
+																			</#list>
+																		</#if>	
+																		<#list solution.tags?split(" ") as tag>
+																			<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+																				&nbsp;#${tag}&nbsp;
+																			</span>	
+																		</#list>
+																	</p>
+																</section>
+															</section>
+														</section>
+													</section>
+												</section>
+											</section>
+										</section>
+									</section>
+								</section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--分隔符-->
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section class="ProseMirror-node ProseMirror-blockImage"
+title="分隔线" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 34.666666666666664px 0px 35.666666666666664px;display:flex;flex-direction:column;max-width:none !important;"
+data-fit-in="{&quot;type&quot;:1,&quot;naturalWidth&quot;:935,&quot;naturalHeight&quot;:75}"
+data-ism="1" data-label="divider__image" data-gtype="" data-sid="0.654678553123214"
+data-rsid="" data-mid="">
+	<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+	style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+		<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+		src="https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/98452/ae77b4aa-4fb1-4468-a51f-b57c442cfc4e19272.png"
+		alt="分隔线" title="分隔线">
+	</section>
+</section>
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+
+<#--结束标志-->
+<section class="ProseMirror-node ProseMirror-flexBox"
+title="二维码卡片" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 51.666666666666664px 0px 56.333333333333336px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="qrcodeCard" data-gtype="fixed" data-sid="0.1371020484651786"
+data-rsid="0">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjY1MyIgd2lkdGg9IjgyMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB2aWV3Qm94PSIxLjk5OTg0MjA0NzY5MTM0NTIgMS45OTE1NjIzNjY0ODU1OTU3IDgyMS45OTk5NDY4MzI2NTY5IDY1My4wMDA2Mjk5MDE4ODYiPgoKICAgIAogICAgICAgIAogICAgICAgIDxwYXRoIGZpbGw9IiNGRkZGRkYiICBmaWxsLXJ1bGU9Im5vbnplcm8iIGQ9Ik0xLjk5OTg0MjA0NzY5MTM0NTIgNzcuOTkzNjQxODUzMzMyNTJDMS45OTk4NDIwNDc2OTEzNDUyIDc3Ljk5MzY0MTg1MzMzMjUyIDEwMi4yNjQ0MjQwODU2MTcwNyAxLjk5MTU2MjM2NjQ4NTU5NTcgMTAyLjI2NDQyNDA4NTYxNzA3IDEuOTkxNTYyMzY2NDg1NTk1N0MxMDIuMjY0NDI0MDg1NjE3MDcgMS45OTE1NjIzNjY0ODU1OTU3IDgyMy45OTk3ODg4ODAzNDgyIDEuOTkxNTYyMzY2NDg1NTk1NyA4MjMuOTk5Nzg4ODgwMzQ4MiAxLjk5MTU2MjM2NjQ4NTU5NTdDODIzLjk5OTc4ODg4MDM0ODIgMS45OTE1NjIzNjY0ODU1OTU3IDgyMy45OTk3ODg4ODAzNDgyIDYwNi45OTE4NjAzODk3MDk1IDgyMy45OTk3ODg4ODAzNDgyIDYwNi45OTE4NjAzODk3MDk1QzgyMy45OTk3ODg4ODAzNDgyIDYwNi45OTE4NjAzODk3MDk1IDUwMS42MjEzOTQ4NzI2NjU0IDY1NC45OTIxOTIyNjgzNzE2IDUwMS42MjEzOTQ4NzI2NjU0IDY1NC45OTIxOTIyNjgzNzE2QzUwMS42MjEzOTQ4NzI2NjU0IDY1NC45OTIxOTIyNjgzNzE2IDEuOTk5ODQyMDQ3NjkxMzQ1MiA2NTQuOTkyMTkyMjY4MzcxNiAxLjk5OTg0MjA0NzY5MTM0NTIgNjU0Ljk5MjE5MjI2ODM3MTZDMS45OTk4NDIwNDc2OTEzNDUyIDY1NC45OTIxOTIyNjgzNzE2IDEuOTk5ODQyMDQ3NjkxMzQ1MiA3Ny45OTM2NDE4NTMzMzI1MiAxLjk5OTg0MjA0NzY5MTM0NTIgNzcuOTkzNjQxODUzMzMyNTIgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:center top 0px;background-repeat:no-repeat;background-size:100% 99.84709480122325%;margin:0px 0px 0px 0px;padding:14px 0px 0px 55px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<section class="ProseMirror-box-style_normal" ignoreparse="true" style="background-image:url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9Ijk5IiB3aWR0aD0iMzMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZpZXdCb3g9IjEuOTk5ODAwMjA1MjMwNzEzIDEuOTkzMDY4Njk1MDY4MzU5NCAzMjkuOTk5OTg4Njc1MTE3NSA5OC45OTY3OTk0Njg5OTQxNCI+CgogICAgCiAgICAgICAgCiAgICAgICAgPHBhdGggZmlsbD0iIzM2QkE2QSIgIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTI5Ni45OTk3OTMwNTI2NzMzNCAxLjk5MzA2ODY5NTA2ODM1OTRDMjk2Ljk5OTc5MzA1MjY3MzM0IDEuOTkzMDY4Njk1MDY4MzU5NCAzMzEuOTk5Nzg4ODgwMzQ4MiA1MC45OTI2MzA0ODE3MTk5NyAzMzEuOTk5Nzg4ODgwMzQ4MiA1MC45OTI2MzA0ODE3MTk5N0MzMzEuOTk5Nzg4ODgwMzQ4MiA1MC45OTI2MzA0ODE3MTk5NyAxLjk5OTgwMDIwNTIzMDcxMyAxMDAuOTg5ODY4MTY0MDYyNSAxLjk5OTgwMDIwNTIzMDcxMyAxMDAuOTg5ODY4MTY0MDYyNUMxLjk5OTgwMDIwNTIzMDcxMyAxMDAuOTg5ODY4MTY0MDYyNSAyOTYuOTk5NzkzMDUyNjczMzQgMS45OTMwNjg2OTUwNjgzNTk0IDI5Ni45OTk3OTMwNTI2NzMzNCAxLjk5MzA2ODY5NTA2ODM1OTQgWiIgLz4KCiAgICA8L3N2Zz4=');background-position:right 0px bottom 0px;background-repeat:no-repeat;background-size:110px 33px;margin:0px 0px 0px 0px;padding:0px 52px 24px 0px;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+			<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+			style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+				<section class="ProseMirror-node ProseMirror-blockImage"
+				title="二维码" style="box-sizing:border-box;margin:0px 0px 2px 0px;padding:0px 26.333333333333332px 0px 23.333333333333332px;display:flex;flex-direction:column;max-width:none !important;"
+				data-fit-in="{&quot;type&quot;:3,&quot;ratio&quot;:100,&quot;scale&quot;:100,&quot;offset&quot;:[0,0],&quot;naturalWidth&quot;:351,&quot;naturalHeight&quot;:351}"
+				data-ism="0" data-label="" data-gtype="" data-sid="0.22249709947006546"
+				data-rsid="" data-mid="242024">
+					<section class="ProseMirror-node-content ProseMirror-node-blockImage-content"
+					style="box-sizing:border-box;width:100%;overflow:hidden;display:block;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;border-radius:0% 0% 0% 0%;flex-grow:1;max-width:none !important;">
+						<img style="box-sizing:border-box;width:100%;overflow:hidden;display:block;"
+						src="https://www.biglistoflittlethings.com/static/qrcode/ilife.jpg"
+						alt="二维码" title="二维码">
+					</section>
+				</section>
+				<section class="ProseMirror-node ProseMirror-flexBox"
+				title="布局" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+				data-ism="0" data-label="" data-gtype="" data-sid="0.0327153999301375"
+				data-rsid="0">
+					<section class="ProseMirror-node-content ProseMirror-node-flexBox-content"
+					style="box-sizing:border-box;display:flex;max-width:none !important;flex-direction:column;height:100%;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;flex-grow:1;">
+						<section class="ProseMirror-node ProseMirror-title ProseMirror-textBlockNode"
+						title="微信名称" style="box-sizing:border-box;margin:0px 0px 6.333333333333333px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;align-items:center;max-width:none !important;"
+						data-ism="0" data-label="" data-gtype="" data-sid="0.44322386471798203"
+						data-rsid="">
+							<h6 class="ProseMirror-node-content ProseMirror-node-title-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+							data-placeholder="小标题">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									More+墨加
+								</span>
+							</h6>
+						</section>
+						<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+						title="微信号" style="box-sizing:border-box;margin:0px 0px 6.1333333333333355px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="wechat" data-gtype="" data-sid="0.7755587993236632"
+						data-rsid="">
+							<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:12.666666666666666px;line-height:1.2;letter-spacing:0.6333333333333333px;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+							data-placeholder="附加说明">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									微信号：小确幸大生活
+								</span>
+							</p>
+						</section>
+						<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+						title="提示" style="box-sizing:border-box;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:flex;flex-direction:column;max-width:none !important;"
+						data-ism="0" data-label="tips" data-gtype="" data-sid="0.7051675335853544"
+						data-rsid="">
+							<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+							style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:12.666666666666666px;line-height:1.2;letter-spacing:0.6333333333333333px;text-decoration:none;writing-mode:horizontal-tb;text-align:center;flex-grow:1;max-width:none !important;"
+							data-placeholder="附加说明">
+								<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+									关注我们 了解更多More+
+								</span>
+							</p>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<#--底部求关注-->
+<section class="ProseMirror-node ProseMirror-paragraph ProseMirror-textBlockNode"
+title="" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 6.333333333333333px 0px 11.333333333333334px;display:flex;flex-direction:column;max-width:none !important;"
+data-ism="1" data-label="" data-gtype="" data-sid="0.0051536244938685805"
+data-rsid="">
+	<p class="ProseMirror-node-content ProseMirror-node-paragraph-content ProseMirror-textBlockNode-content"
+	style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#2C2C2C;font-style:normal;font-weight:400;font-size:15px;line-height:2.04;letter-spacing:0.75px;text-decoration:none;writing-mode:horizontal-tb;text-align:justify;flex-grow:1;max-width:none !important;"
+	data-placeholder="输入‘/’快速定义内容">
+		<br class="ProseMirror-node ProseMirror-hardBreak">
+	</p>
+</section>
+<section class="ProseMirror-node ProseMirror-description ProseMirror-textBlockNode"
+title="在看引导" style="box-sizing:border-box;margin:0px 0px 12px 0px;padding:0px 18px 0px 18px;display:flex;flex-direction:column;align-items:flex-end;max-width:none !important;"
+data-ism="1" data-label="inSight" data-gtype="" data-sid="0.7016555287047153"
+data-rsid="">
+	<section class="ProseMirror-box-style_normal" ignoreparse="true" style="margin:0px 0px 0px 0px;padding:4px 28px 4px 35px;background-color:#F9C778;border-radius:0% 0% 0% 0%;display:flex;flex-direction:column;flex-grow:1;max-width:none !important;">
+		<p class="ProseMirror-node-content ProseMirror-node-description-content ProseMirror-textBlockNode-content"
+		style="box-sizing:border-box;word-break:break-word;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;color:#000000;font-style:normal;font-weight:400;font-size:15px;line-height:1.2;letter-spacing:2.4px;text-decoration:none;writing-mode:horizontal-tb;text-align:left;flex-grow:1;max-width:none !important;"
+		data-placeholder="附加说明">
+			<span style="" class="ProseMirror-mark ProseMirror-style" styleid="0">
+				点个【 在看 】，你最好看
+			</span>
+		</p>
+	</section>
+</section>
+
+<#--背景颜色-->
+</section>

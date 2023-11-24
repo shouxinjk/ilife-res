@@ -1,0 +1,163 @@
+<#--小红书:笔记 带SPU-->
+<#--note传递参数：note:{}、solution:{}、solutionSections:[]、solutionItems:{xxx:[]}、noteItems:{xxx: []}-->
+<#--其中：solutionItems键值为sectionId，value为对应section下的条目列表；noteItems键值为SolutionItemId，value为对应SolutionItemId下的条目列表-->
+
+<#--表情符号映射，包括类型、section章节等-->
+<#assign itemTypeMap={"scene":"🏞️","hotel":"🏨","flight":"✈️","ticket":"🎫","guide":"🙋","visa":"🌐","restaurant":"🍽️","car":"🚗","service":"🛎️","food":"🍗","leisure":"♨️","show":"💃🏻","tour":"🖼️","vehicle":"🚌","train":"🚄","cruiser":"🛳️"}/>
+<#assign sectionMap={"1","1️⃣","2":"2️⃣","3":"3️⃣","4":"4️⃣","5":"5️⃣","6":"6️⃣","7":"7️⃣","8":"8️⃣","9":"9️⃣","10":"🔟"}/>
+<#--自动替换文字包含颜文字-->
+<#assign emojiMap={"草原":"🍀","开车":"🚗","跑步":"🏃🏻","孩子":"🏃‍♂️","小孩":"🧚‍♀️🏃‍♂️","星星":"⭐️","流星":"🌠","下雪":"🌨","篝火":"🔥","彩虹":"🌈","帐篷":"⛺️","教堂":"⛪️","沙滩":"🏖","露营":"⛺️","门票":"🎫","焰火":"","圣诞":"🎄","烟花":"🎆","冰川":"🧊","日落":"🌇","日出":"🌅","熊猫":"🐼","雪人":"⛄️","冰雪":"❄️","雪花":"❄️","云海":"☁️","风景":"🏞️","枫叶":"🍁","落叶":"🍂","？":"❓","?":"❓","价格":"💰","包括":"✅","包含":"✅","不包括":"❌","不包含":"❌","优惠":"🎉"}/>
+
+<#--LOGO-->
+<div style="width:100%;"><img src="${solution.logo!''}" style="object-fit:cover;width:100%;"/></div>
+
+<#--标题:替换颜文字-->
+<#assign name = note.name!''/>
+<#list emojiMap?keys as key>
+	<#assign name = name?replace(key, key+emojiMap[key])/>
+</#list>
+<h2 class="sxH2">${name}</h2>
+
+<#--描述-->
+<#if note.description??>
+<#assign description = note.description!''/>
+<#list emojiMap?keys as key>
+	<#assign description = description?replace(key, key+emojiMap[key])/>
+</#list>
+<div style="width:100%;">‼️${description}</div>
+</#if>
+
+<#--行程摘要：extJson属性-->
+<#--基础信息：逐条显示 extJson。需要预先准备键值对。作为标签展示-->
+<#if solution.extJson?? >
+	<br/>
+	<div>✅行程摘要</div>
+    <#list solution.extJson?keys as key>
+	<#if solution.extJson[key]?? >
+	    <div>👉${key}：${solution.extJson[key]!}</div>
+    	</#if>	
+    </#list>
+	<#--价格-->
+	<#if solution.price?? && solution.price?is_number> 
+		<div>💰价格：${solution.price}</div>
+	</#if>    
+</#if>	
+
+<#--行程安排：按section展示，一个section展示一条。仅展示 scene列表-->
+<#--section结构为数组-->
+<br/>
+<div>✅行程安排</div>
+<#list solutionSections as section>
+
+	<#assign sectionIndex = '' +(section_index+1) />
+	<#assign sectionText = '' />
+	<#--Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+	<#assign items = solutionItems[section.id]>
+
+	<#--包含有spu及关联的item.spu列表-->
+	<#--显示SPU及item.spu详情-->
+	<#list items as item>
+
+		<#--仅显示景点列表：注意spu数据中type存在string及对象两种情况-->
+		<#assign itemType = item.spu.type!''>
+		<#if itemType?is_string >
+			<#if itemType == 'scene' >
+				<#assign sectionText = sectionText + '--' + item.name />
+			</#if>
+		<#elseif itemType.item == 'scene' >
+			<#assign sectionText = sectionText + '--' + item.name />
+		</#if>
+		
+	</#list>
+	<#if sectionText?? && (sectionText?length>2)>
+		<div>👉D${sectionIndex} ：${sectionText?substring(2)}</div>
+	<#else>
+		<div>👉D${sectionIndex} ：自由活动</div>
+	</#if>
+</#list>
+
+<#--行程亮点：根据solutionItem亮点列举-->
+<br/>
+<div>💖行程亮点</div>
+<#list solutionSections as section>
+	<#--Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+	<#assign items = solutionItems[section.id]>
+
+	<#--包含有spu及关联的item.spu列表-->
+	<#--显示SPU及item.spu详情-->
+	<#list items as item>
+		<#--仅显示景点列表：注意spu数据中type存在string及对象两种情况-->
+		<#if item.description?? && item.description != "">
+			<#assign description = item.description!''/>
+			<#list emojiMap?keys as key>
+				<#assign description = description?replace(key, key+emojiMap[key])/>
+			</#list>
+			<div>?${description}</div>
+		</#if>
+	</#list>
+</#list>
+
+<#--笔记内容：按section展示，一个section独立展示-->
+<#--section结构为数组-->
+<#list solutionSections as section>
+	<#assign sectionIndex = '' +(section_index+1) />
+	<br/>
+	<div>第${sectionMap[sectionIndex]!sectionIndex}天</div>
+
+	<#--笔记内容Items列表：从solutionItems中获取，其结构为{sectionId: []}-->
+	<#assign items = solutionItems[section.id]>
+    <#--显示section下的 noteItem详情-->
+    <#--NoteItems列表：从solutionItems中获取，其结构为{solutionItemId: []} 注意：当前noteItem未关联到solutionItem，而是直接放在section下-->
+    <#assign nItems = noteItems[section.id]>
+    <#list nItems as nItem>
+        <#--直接显示内容-->
+		<#assign content = nItem.content!''/>
+		<#list emojiMap?keys as key>
+			<#assign content = content?replace(key, key+emojiMap[key])/>
+		</#list>        
+        <div>${content}</div> 
+    </#list>
+
+    <#--SolutionItems列表：从solutionItems中获取，其结构为{sectionId: []}-->
+    <#assign items = solutionItems[section.id]>
+    <#if items?? && (items?size>0) >
+	    <#--包含有spu及关联的item.spu列表-->
+	    <#--显示SPU及item.spu详情-->
+	    <div>👣今日打卡?</div>
+        <#list items as item>
+        	<#assign itemType = item.spu.type!''>
+        	<#--显示SPU列表：注意spu数据中type存在string及对象两种情况-->
+			<#if itemType?is_string >
+				<#assign spuText = itemTypeMap[itemType]!itemType + item.spu.name />
+			<#else >
+				<#assign itemType = itemType.item />
+				<#assign spuText = itemTypeMap[itemType]!itemType + item.spu.name />
+			</#if>
+        </#list>
+    </#if>
+
+</#list>
+
+
+<#--note标签列表-->
+<#if note.tags??>
+<br/>
+<div class="sxTags">
+	<#list note.tags?split(" ") as tag>
+		<#if tag?? && tag != "">
+		<span class="sxTag">#${tag} </span>
+		</#if>
+	</#list>
+</div>
+</#if>	
+
+<#--solution标签列表-->
+<#if solution.tags??>
+<div class="sxTags">
+	<#list solution.tags?split(" ") as tag>
+		<#if tag?? && tag != "">
+		<span class="sxTag">#${tag} </span>
+		</#if>
+	</#list>
+</div>
+</#if>
